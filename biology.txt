@@ -1,0 +1,1852 @@
+Biology the natural science that involves the study of life and living organisms, including their physical and chemical structure, function, development, evolution and taxonomy.[1] Modern biology is a vast and eclectic field, composed of many branches and subdisciplines.[clarification needed] However, despite the broad scope of biology, there are certain unifying concepts within it that consolidate it into single, coherent field. In general, biology recognizes the cell as the basic unit of life, genes as the basic unit of heredity, and evolution as the engine that propels the creation of new species. It is also understood today that all organisms survive by consuming and transforming energy and by regulating their internal environment to maintain a stable and vital condition known as homeostasis.
+
+Sub-disciplines of biology are defined by the scale at which organisms are studied, the kinds of organisms studied, and the methods used to study them: biochemistry examines the rudimentary chemistry of life; molecular biology studies the complex interactions among biological molecules; botany studies the biology of plants; cellular biology examines the basic building-block of all life, the cell; physiology examines the physical and chemical functions of tissues, organs, and organ systems of an organism; evolutionary biology examines the processes that produced the diversity of life; and ecology examines how organisms interact in their environment.
+Cell theory states that the cell is the fundamental unit of life, that all living things are composed of one or more cells, and that all cells arise from other cells through cell division. In multicellular organisms, every cell in the organism's body derives ultimately from a single cell in a fertilized egg. The cell is also considered to be the basic unit in many pathological processes.[20] In addition, the phenomenon of energy flow occurs in cells in processes that are part of the function known as metabolism. Finally, cells contain hereditary information (DNA), which is passed from cell to cell during cell division. Research into the origin of life, abiogenesis, amounts to an attempt to discover the origin of the first cells.
+
+Evolution
+diagram showing Natural selection favoring predominance of surviving mutation
+Natural selection of a population for dark coloration.
+Main article: Evolution
+A central organizing concept in biology is that life changes and develops through evolution, and that all life-forms known have a common origin. The theory of evolution postulates that all organisms on the Earth, both living and extinct, have descended from a common ancestor or an ancestral gene pool. This universal common ancestor of all organisms is believed to have appeared about 3.5 billion years ago.[21] Biologists regard the ubiquity of the genetic code as definitive evidence in favor of the theory of universal common descent for all bacteria, archaea, and eukaryotes (see: origin of life).[22]
+
+The term "evolution" was introduced into the scientific lexicon by Jean-Baptiste de Lamarck in 1809,[23] and fifty years later Charles Darwin posited a scientific model of natural selection as evolution's driving force.[24][25][26] (Alfred Russel Wallace is recognized as the co-discoverer of this concept as he helped research and experiment with the concept of evolution.)[27] Evolution is now used to explain the great variations of life found on Earth.
+
+Darwin theorized that species flourish or die when subjected to the processes of natural selection or selective breeding.[28] Genetic drift was embraced as an additional mechanism of evolutionary development in the modern synthesis of the theory.[29]
+
+The evolutionary history of the species—which describes the characteristics of the various species from which it descended—together with its genealogical relationship to every other species is known as its phylogeny. Widely varied approaches to biology generate information about phylogeny. These include the comparisons of DNA sequences, a product of molecular biology (more particularly genomics), and comparisons of fossils or other records of ancient organisms, a product of paleontology.[30] Biologists organize and analyze evolutionary relationships through various methods, including phylogenetics, phenetics, and cladistics. (For a summary of major events in the evolution of life as currently understood by biologists, see evolutionary timeline.)
+
+Evolution is relevant to the understanding of the natural history of life forms and to the understanding of the organization of current life forms. But, those organizations can only be understood in the light of how they came to be by way of the process of evolution. Consequently, evolution is central to all fields of biology.
+
+ Genetics
+Genes are the primary units of inheritance in all organisms. A gene is a unit of heredity and corresponds to a region of DNA that influences the form or function of an organism in specific ways. All organisms, from bacteria to animals, share the same basic machinery that copies and translates DNA into proteins. Cells transcribe a DNA gene into an RNA version of the gene, and a ribosome then translates the RNA into a sequence of amino acids known as a protein. The translation code from RNA codon to amino acid is the same for most organisms. For example, a sequence of DNA that codes for insulin in humans also codes for insulin when inserted into other organisms, such as plants.[32]
+
+DNA is found as linear chromosomes in eukaryotes, and circular chromosomes in prokaryotes. A chromosome is an organized structure consisting of DNA and histones. The set of chromosomes in a cell and any other hereditary information found in the mitochondria, chloroplasts, or other locations is collectively known as a cell's genome. In eukaryotes, genomic DNA is localized in the cell nucleus, or with small amounts in mitochondria and chloroplasts. In prokaryotes, the DNA is held within an irregularly shaped body in the cytoplasm called the nucleoid.[33] The genetic information in a genome is held within genes, and the complete assemblage of this information in an organism is called its genotype.
+Homeostasis is the ability of an open system to regulate its internal environment to maintain stable conditions by means of multiple dynamic equilibrium adjustments that are controlled by interrelated regulation mechanisms. All living organisms, whether unicellular or multicellular, exhibit homeostasis.[36]
+
+To maintain dynamic equilibrium and effectively carry out certain functions, a system must detect and respond to perturbations. After the detection of a perturbation, a biological system normally responds through negative feedback that stabilize conditions by reducing or increasing the activity of an organ or system. One example is the release of glucagon when sugar levels are too lo
+
+Energy
+The survival of a living organism depends on the continuous input of energy. Chemical reactions that are responsible for its structure and function are tuned to extract energy from substances that act as its food and transform them to help form new cells and sustain them. In this process, molecules of chemical substances that constitute food play two roles; first, they contain energy that can be transformed and reused in that organism's biological, chemical reactions; second, food can be transformed into new molecular structures (biomolecules) that are of use to that organism.
+
+The organisms responsible for the introduction of energy into an ecosystem are known as producers or autotrophs. Nearly all such organisms originally draw their energy from the sun.[37] Plants and other phototrophs use solar energy via a process known as photosynthesis to convert raw materials into organic molecules, such as ATP, whose bonds can be broken to release energy.[38] A few ecosystems, however, depend entirely on energy extracted by chemotrophs from methane, sulfides, or other non-luminal energy sources.[39]
+
+Some of the energy thus captured produces biomass and energy that is available for growth and development of other life forms. The majority of the rest of this biomass and energy are lost as waste molecules and heat. The most important processes for converting the energy trapped in chemical substances into energy useful to sustain life are metabolism[40] and cellular respiration.
+Despite the profound advances made over recent decades in our understanding of life's fundamental processes, some basic problems have remained unresolved. One of the major unresolved problems in biology is the primary adaptive function of sex, and particularly its key processes in eukaryotes of meiosis and homologous recombination. One view is that sex evolved primarily as an adaptation that promoted increased genetic diversity (see references e.g.[74][75]). An alternative view is that sex is an adaptation for promoting accurate DNA repair in germ-line DNA, and that increased genetic diversity is primarily a byproduct that may be useful in the long run.[76][77] (See also Evolution of sexual reproduction).
+
+Another basic unresolved problem in biology is the biologic basis of aging. At present, there is no consensus view on the underlying cause of aging. Various competing theories are outlined in Ageing Theories.
+The cell theory, first developed in 1839 by Schleiden and Schwann, states that all organisms are composed of one or more cells; all cells come from preexisting cells; and cells contain the hereditary information necessary for regulating cell functions and for transmitting information to the next generation of cells.
+
+There are two types of cells, eukaryotic and prokaryotic. Prokaryotic cells are usually singletons, while eukaryotic cells are usually found in multicellular organisms. Prokaryotic cells lack a nuclear membrane so DNA is unbound within the cell; eukaryotic cells have nuclear membranes.
+
+All cells, whether prokaryotic or eukaryotic, have a membrane, which envelops the cell, separates its interior from its environment, regulates what moves in and out, and maintains the electric potential of the cell. Inside the membrane, a salty cytoplasm takes up most of the cell volume. All cells possess DNA, the hereditary material of genes, and RNA, containing the information necessary to build various proteins such as enzymes, the cell's primary machinery. There are also other kinds of biomolecules in cells.
+
+All cells share several similar characteristics of:[29]
+
+Reproduction by cell division (binary fission, mitosis or meiosis).
+Use of enzymes and other proteins coded by DNA genes and made via messenger RNA intermediates and ribosomes.
+Metabolism, including taking in raw materials, building cell components, converting energy, molecules and releasing by-products. The functioning of a cell depends upon its ability to extract and use chemical energy stored in organic molecules. This energy is derived from metabolic pathways.
+Response to external and internal stimuli such as changes in temperature, pH or nutrient levels.
+Cell contents are contained within a cell surface membrane that contains proteins and a lipid bilayer.
+Reproduction[edit]
+Main article: Reproduction
+Sexual reproduction is widespread among current eukaryotes, and was likely present in the last common ancestor.[38] This is suggested by the finding of a core set of genes for meiosis in the descendants of lineages that diverged early form the eukaryotic evolutionary tree.[39] and Malik et al.[40] It is further supported by evidence that eukaryotes previously regarded as "ancient asexuals", such as Amoeba, were likely sexual in the past, and that most present day asexual amoeboid lineages likely arose recently and independently.[41]
+
+In prokaryotes, natural bacterial transformation involves the transfer of DNA from one bacterium to another and integration of the donor DNA into the recipient chromosome by recombination. Natural bacterial transformation is considered to be a primitive sexual process and occurs in both bacteria and archaea, although it has been studied mainly in bacteria. Transformation is clearly a bacterial adaptation and not an accidental occurrence, because it depends on numerous gene products that specifically interact with each other to enter a state of natural competence to perform this complex process.[42] Transformation is a common mode of DNA transfer among prokaryotes.
+Modern biotechnology is challenging traditional concepts of organism and species. Cloning is the process of creating a new multicellular organism, genetically identical to another, with the potential of creating entirely new species of organisms. Cloning is the subject of much ethical debate.
+
+In 2008, the J. Craig Venter Institute assembled a synthetic bacterial genome, Mycoplasma genitalium, by using recombination in yeast of 25 overlapping DNA fragments in a single step. The use of yeast recombination greatly simplifies the assembly of large DNA molecules from both synthetic and natural fragments.[46] Other companies, such as Synthetic Genomics, have already been formed to take advantage of the many commercial uses of custom designed genomes.
+Genes can acquire mutations in their sequence, leading to different variants, known as alleles, in the population. These alleles encode slightly different versions of a protein, which cause different phenotypical traits. Usage of the term "having a gene" (e.g., "good genes," "hair colour gene") typically refers to containing a different allele of the same, shared gene. Genes evolve due to natural selection or survival of the fittest of the alleles.
+
+The concept of a gene continues to be refined as new phenomena are discovered.[3] For example, regulatory regions of a gene can be far removed from its coding regions, and coding regions can be split into several exons. Some viruses store their genome in RNA instead of DNA and some gene products are functional non-coding RNAs. Therefore, a broad, modern working definition of a gene is any discrete locus of heritable, genomic sequence which affect an organism's traits by being expressed as a functional product or by regulation of gene expression.
+DNA replication is for the most part extremely accurate, however errors (mutations) do occur.[2]:7.6 The error rate in eukaryotic cells can be as low as 10-8 per nucleotide per replication,[60][61] whereas for some RNA viruses it can be as high as 10-3.[62] This means that each generation, each human genome accumulates 1–2 new mutations.[62] Small mutations can be caused by DNA replication and the aftermath of DNA damage and include point mutations in which a single base is altered and frameshift mutations in which a single base is inserted or deleted. Either of these mutations can change the gene by missense (change a codon to encode a different amino acid) or nonsense (a premature stop codon).[63] Larger mutations can be caused by errors in recombination to cause chromosomal abnormalities including the duplication, deletion, rearrangement or inversion of large sections of a chromosome. Additionally, DNA repair mechanisms can introduce mutational errors when repairing physical damage to the molecule. The repair, even with mutation, is more important to survival than restoring an exact copy, for example when repairing double-strand breaks.
+The duplication and transmission of genetic material from one generation of cells to the next is the basis for molecular inheritance, and the link between the classical and molecular pictures of genes. Organisms inherit the characteristics of their parents because the cells of the offspring contain copies of the genes in their parents' cells. In asexually reproducing organisms, the offspring will be a genetic copy or clone of the parent organism. In sexually reproducing organisms, a specialized form of cell division called meiosis produces cells called gametes or germ cells that are haploid, or contain only one copy of each gene.[2]:20.2 The gametes produced by females are called eggs or ova, and those produced by males are called sperm. Two gametes fuse to form a diploid fertilized egg, a single cell that has two sets of genes, with one copy of each gene from the mother and one from the father.
+
+Abiotic factor any of the nonliving factors that make up the environment of living organisms.
+
+Abscisic acid a plant growth substance which acts mainly as a growth inhibitor
+
+Absorption the process by which dissolved substances are taken up by cells
+
+Absorption spectrum a graph showing the relative amounts of light of different wavelengths that are absorbed by a pigment 
+
+Accomodation the process by which the eye focuses upon an object
+
+Acethylchocine a chemical that allows the transmission of an impulse from one neurone (nerve cells) to another.
+
+Acetylcholineste an enzyme which causes the breakdown of acetylcholine.
+
+Acetylcoenzyme a chemical compound that is an important intermediate in aerobic respiration.
+
+Acid rain this is produced when certain gases in the atmosphere, such as Sulphur dioxide, dissolve in rain water to form acids.
+
+Acrosome a thin cap-like vesicle found at the tip of a sperm.
+
+Actin a protein that forms the thin filaments found in the microscopic fibres of skeletal muscle.
+
+Action potential the rapid change in electrical charge across the membrane of a nerve cells, causing the transmission of an impulse.
+
+Action spectrum a graph showing the relative amount of light of different wavelengths that are used in a particular process, such as photosynthesis.
+
+Activation energy the energy required to activate or begin a chemical reaction.
+
+Active site the part of an enzyme to which a substrate becomes attached during a biochemical reaction.
+
+Active Transport the movement of substances from where they are less concentrated to where they are more concentrated (against a concentration gradient)
+
+Adaptation any feature of the structure or physiology of an organism that makes it well suited to its environment.
+
+Adaptive radiation the process by which a single ancestral type of organism gives rise to a number of different forms.
+
+Adenine a purine nitrogenous base that is found in DNA and RNA.
+
+Adrenal Gland one of a pair of glands found adjacent to the kidney which is responsible for secreting several important hormones.
+
+Adrenaline a hormone secreted by the adrenal glands at times of stress.
+
+Adrenaganic synapse any synapse in which the neurotransmitter is noradrenaline.
+
+Aerobic respiration the breakdown of glucose in the presence of oxygen to yield energy.
+
+Agonist a chemical that binds to a receptor on a cell, triggering a physiological response.
+
+Agrobacterium a type of bacteria commonly used in gene technology.
+
+Aldosterone a hormone involved in regulating the concentration of sodium ions in the blood.
+
+Allele one of the different forms of a gene.
+
+Allopatric speciation the development of one or more species, which occurs when the populations of the parent species become geographically isolated from each other.
+
+All-or nothing a term used to describe the fact that action potentials in nerve cells are always identical in size.
+Allosteric enzyme an enzyme that exists in two interchangeable forms, one of which is active and the other inactive.
+
+Alternation of generation a situation where the life cycle of an organism involves alternating spore-producing (diploid) and gametes-producing (haploid)
+
+Alveolus one of the air sacs in the lungs where gas exchange takes place.
+
+Amino acid the basic sub-unit or monomer from which proteins are formed.
+
+Amylase an enzyme which breaks down starch into maltose.
+
+Anabolism the synthesis of complex molecules from simple molecules.
+
+Anaerobic respiration the breakdown of glucose in the absence of oxygen to yield energy.
+
+Angiospermophyta the plant phylum which contains the flowering plants. 
+
+Animalia the kingdom containing animals.
+
+Annelida the animal phylum containing earthworms and leeches.
+
+Antagonist a chemical that binds to a receptor in a cell, blocking the normal physiological response.
+
+Anther part of flower in which pollen develops and is later released when the anther ruptures.
+
+Antibiotic a substance produced by a living organism that kills or inhibits the growth of microorganisms.
+
+Antibody a protein molecule produced by lymphocytes in response to stimulation by an antigen.
+
+Anticodon a triplet of bases in transfer RNA (tRNA) that can form base pairs with a specific codon during the synthesis of proteins.
+
+Anti-diuretic hormone(ADH) a hormone which makes the distal convoluted tubules and collecting ducts of a kidney nephron more permeable to water.
+
+Antigen a molecule that triggers the production of antibodies from lymphocytes.
+
+Antiseptic a substance that kills or inhibits the growth of microorganisms and can be used safely on the skin.
+
+Aorta the main artery of the body in mammals.
+
+Apoplastic pathway the route by which water and solutes travel through the cells walls of plants.
+
+Aqueous humour the fluid found in the front part of the eye, between the cornea and the lens.
+
+Arteriole a vessel that receives blood from an artery and carries it to capillaries.
+
+Artery a vessel that carries blood away from the heart.
+
+Arthropoda the animal phylum containing insects, spiders and crustaceans.
+
+Asexual reproduction reproduction involving the formation of new individuals from a single parent without the fusion of gametes.
+
+Atom the smallest part of an element that cannot be broken down further by chemical means.
+
+ATP (Adenosine triphosphate) a molecule that acts as an energy carrier in all living cells.
+
+Atrioventicular node (AVN) a specialized area of muscle between the atria and ventricles of the heart.
+
+Artrioventicular valve one of the valves between the atria and the ventricles of the heart.
+
+Atrium a chamber of the heart which receives blood returning from the organs of the body.
+
+Autonomic nervous system the part of the nervous system that is responsible for controlling the involuntary activities of the body.
+
+Autosome a chromosome that is not a sex chromosome.
+
+Autotrophic nutrition the synthesis of organic molecules from simple inorganic molecules, such as carbon dioxide and water.
+
+Auxin a plant growth substance that acts mainly as a growth stimulator.
+
+Axon the elongated section of a neurone (nerve cell) which carries impulses away from the cell body.
+
+
+
+
+B
+
+
+
+
+Bacteria a group of microorganisms which play an important role in nutrient recycling, disease transmission and industrial processes.
+
+Bactericidal describes a chemical substance that kills bacteria.
+
+Bacteriostatic describes a chemical substance that prevents the reproduction of bacteria.
+
+Balanced diet a diet that includes all the necessary nutrients in the required amounts to maintain good health.
+
+Basal metabolic rate (BMR) the amount of energy required to sustain an animal at rest.
+
+B-cell a lymphocyte which produces antibodies when stimulated by an antigen.
+
+Benedict’s test a biochemical test that can be used to show the presence of a reducing sugar.
+
+Bicuspid valve the valve between the left atrium and the left ventricle in the heart of a mammal.
+
+Bilateral symmetry a bilaterally symmetrical organism is one that can be divided in only one plane to give two approximately identical halves.
+
+Bile an alkaline solution that is released into the small intestine to aid the digestion of fat.
+
+Bioaccumulation the process by which certain chemicals become concentrated in the bodies of animals found at the top of food chains.
+
+Biochemcical oxygen demand(BOD) the quantity of oxygen that is removed by microorganisms from a sample of water in a given time.
+
+Biochemical tests a group of simple tests that can be used to identify important biological molecules.
+
+Biological control the use of a parasite or a predator to control the number of pest organisms in a particular area.
+
+Biomass the mass of all the organisms present in a given area.
+
+Biotechnology the use of microorganisms or biochemical reactions to make useful products or to carry out industrial processes.
+
+Biotic factor any environmental factor that is associated with living organisms.
+
+Biuret tests a biochemical test that can be used to show the presence of a protein.
+
+Blood a suspension of cells in solution that acts as a transport medium within an animal.
+
+Blood circulation the system that transports blood around the body of many animals.
+
+Blood clotting the production of a blood clot following damage to body tissues.
+
+Blood glucose level the concentration of glucose circulating in the blood plasma.
+
+Blood groups the many types into which an individual’s blood may be classified based on the presence or absence of certain antigens on the surface of red blood cells.
+
+Bohr effect the effect of carbon dioxide concentration on the release of oxygen from haemoglobin in red blood cells.
+
+Bone a supporting tissue found in the skeletons of most vertebrates.
+
+Bwman’s capsule the cup-shaped end of kidney nephron.
+
+Brain the organ is responsible for controlling bodily functions by coordinating the activities of the nervous system.
+
+Bronchiole a small tube in the lungs that carries air between a bronchus and a large number of alveoli.
+
+Bronchus a large tube in the lungs that carries air between the trachea and a number of bronchioles.
+
+Bryophta the plant phylum which contains mosses and liverworts.
+
+Buffer a solution or substance which resists changes in pH by taking in or releasing hydrogen ions.
+
+Bundle of his specialized cardiac muscle fibres that run from the atrioventricular node to the base of the heart.
+
+
+
+
+C
+
+
+
+
+C3 plant a plant in which the first product of photosynthesis is a three-carbon compound.
+
+C4 plant a plant in which the first product of photosynthesis is a four-carbon compound.
+
+Calcium an essential mineral nutrient for both animals and plants.
+
+Calvin cycle a series of biochemical reactions, forming part of the light independent stage of photosynthesis, which takes place in the stroma of the chloroplasts of C3 plant.
+
+Capillary a very small blood vessel where water, solutes and respiratory gases are exchanged with body tissues.
+
+Capsid the outer protein coat of a virus.
+
+Capsule a thick layer surrounding the cell wall of certain bacteria.
+
+Carbohydrate a compound containing the elements carbon, hydrogen and oxygen, with the general formula Cx(H2O)y.
+
+Carbon cycle one of several nutrient cycles, describing how the element carbon cycles in the environment.
+
+Carbonic anhydrase an enzyme that catalyses the reaction between carbon dioxide and water to form carbonic acid.
+
+Cardiac cycle the sequence of events taking place in a single heartbeat.
+
+Cardiac muscle a specialized type of muscle, found only in the heart of vertebrates.
+
+Cardiovascular centre part of the medulla oblongata in the brain which is responsible for regulating the heart rate.
+
+Carotid body a collection of cells found in the walls of the carotid arteries that are sensitive to the oxygen concentration and pH of blood.
+
+Carrier molecule a molecule that either transports substances across a membrane or carries electrons through an electron transport chain.
+
+Carrying capacity the maximum population that a particular habitat can support .
+
+Cartilage a hard-wearing and flexible connective tissue which plays an important role in the joints of the skeletons.
+
+Casparian strip a band of impermeable suberin found in the walls of endodermal cells in plant roots.
+
+Cell the basic structural and functional unit of most living organisms.
+
+Cell cycle the sequence of events which occur during cell growth and cell division.
+
+Cell fractionation the separation of the different components of a cell.
+
+Cell membrane a membrane which encloses a cell or which surrounds certain organelles within a cell.
+
+Cell sap the solution (of sugars, amino acids and mineral salts) contained in the vacuoles of plant cells.
+
+Cellulose a polysaccharide comprising long, unbranched chains of glucose molecules.
+
+Cell wall a rigid structure found outside the cell surface membrane of plant, fungal and bacterial cells.
+
+Central nervous system(CNS) the CNS consists of the brain and spinal cord, and is responsible for coordinating the activities of the nervous system.
+
+Centrifuge a machine that separates materials of different densities by spinning them in a tube at high speed.
+
+Centrioles structures found in animal cells which play a role in spindle-formation during cell division.
+
+Centromore the part of a chromosome that attaches to the spindle during cell division.
+
+Chemosynthesis the synthesis of complex organic molecules from simple inorganic molecules, using the energy from chemical reactions.
+
+Chiasma(ta) the point(s) at which the chromatids of homologous chromosomes cross over each other during meiosis.
+
+Chitin a nitrogen-containing polysaccharide.
+
+Chlorofluorocarbons(CFCs) manufactured chemicals that act as atmospheric pollutants, degrading the ozone layer.
+
+Chlorophyll a green pigment found in photosynthesis organisms.
+
+Chlroplast an organelle found in the cells of plants and algae which is the site of photosynthesis.
+
+Cholestrol a steroid which performs a number of functions in living organisms.
+
+Cholinergic synapse any synapse in which the neurotransmitter is acetylcholine.
+
+Chordata the animal phylum containing fish, amphibians, reptiles, birds and mammals.
+
+Chromatid one of the two identical strands of genetic material that make up a chromosome.
+
+Chromatography a technique used to separate the individual components of a mixture.
+
+Chromosome a thread-like structure, composed of DNA and protein, found in the nucleus of plant and animal cells.
+
+Cilia short, hair-like structures found on the surface membranes of certain cells.
+
+Circadian rhythm a 24 hour cyclical change in the behaviour or physiology of organisms.
+
+Classification the system by which living organisms are organized into groups.
+
+Clone any of the genetically identical individuals that have arisen from a single parent by asexual reproduction.
+
+Cnidaria the animal phylum containing hydra, jellyfish, sea anemones and corals.
+
+Codominant alleles any two alleles which are both expressed in the phenotype of a heterozygous organisms.
+
+Codon a triplet of bases in messenger RNA (mRNA) that codes for a particular amino acid during the synthesis of proteins.
+
+Coelom a fluid-filled cavity formed in the mesoderm of triploblastic animals.
+
+Coenzyme an organic molecule that associates with an enzyme to catalyse a biochemical reaction.
+
+Cohesion tension theory a theory used to explain the movement of water through the xylem vessels of a plant.
+
+Collagen a fibrous protein found in the connective tissue of skin, tendons, cartilage and bone.
+
+Collecting duct the final section of a kidney nephron.
+
+Collencyma a type of plant tissue in which the cells have additional cellulose thickening in their walls.
+
+Colon part of the large intestine, found between the small intestine and the rectum
+
+Commensalism a relationship between two different species which results in benefit to one without affecting the other.
+
+Community all the living organisms present in a habitat.
+
+Competition the interaction between two or more organisms seeking the same environmental resources that are in short supply such as food or mates.
+
+Competitive inhibitions a reduction in the rate of an enzyme-catalysed reaction by a molecule that is similar in shape to the normal substrate.
+
+Condensation reaction a chemical reaction in which two molecules are joined together and a molecule of water is removed.
+
+Cone cell a light sensitive cell found in the retina of the eye./
+
+Coniferophta the plants phylum which contains pines, firs and other conifers.
+
+Connective tissue an animal tissue consisting of a number of cells embedded in a matrix of protein fibres and salts.
+
+Conservations the process of maintaining an ecosystem in order to retain maximum species diversity.
+
+Consumer any of the heterotrophic organisams in a food chain or food web.
+
+Continuous variation variation of a characteristic within a population, such that a complete range of forms can be seen. 
+
+Contractile vacuole an organelle found in some single-celled organisms which removes excess water from the cell.
+
+Corolla a collective name for the petals of a flower.
+
+Coronary heart disease the blockage of one or more of the coronary arteries which supply blood to the muscle of the heart.
+
+Corpus luteum a tissue that forms in the ovary of a mammal following the release of an ovum.
+
+Correlation a relationship between two variables such that a change in one of them is reflected by a change in the other.
+
+Cotyledon the seed leaf of a plant embryo.
+
+Counter-current system a mechanism by which fluids in adjacent systems flow in opposite directions in order to maintain a diffusion gradient between them
+
+Crossing over the exchange of genetic material between homologous chromosomes during meiosis.
+
+Cultural evolution the changes which have taken place in human societies over the course of time. 
+
+Cyclic AMP a molecule that acts as a second messenger in many physiological reactions induced by hormones.
+
+Cytochrome an iron-containing protein which forms part of an electron transport chain.
+
+Cytokinin a plant growth substance which stimulates cell division.
+
+Cytoplasm the contents of a cell surrounding the nucleus and enclosed by the cell surface membrane.
+
+Cytosine a pyrimidine nitrogenous base that is found in DNA and RNA.
+
+
+
+
+D
+
+
+
+
+Deamination the removal of an amino group from an amino acid.
+
+Decomposer an organism that breaks down dead material or waste products.
+
+Deflected succession a type of succession in which a climax community fails to become established due to human influences.
+
+Denitrification the process by which bacteria covert nitrates in the soil to nitrogen gas in the atmosphere.
+
+Density-dependant factor any factor limited the size of a population whose effect is proportional to the density of the population.
+
+Detritivore an animal that feeds on dead material or waste products.
+
+Diabetes a disease in which the concentration of glucose in the blood cannot be properly regulated.
+
+Dialysis a method for separating molecules of different sizes by diffusion through a partially permeable membrane.
+
+Dicotyledon a flowering plant that produces seeds with two cotyledons.
+
+Differentiation the process by which cells become specialized for a particular function.
+
+Diffusion the net movement of molecules or ions from a region of high concentration to a region of low concentration.
+
+Digestion the breakdown of food material into simple molecules that can be absorbed by the body.
+
+Dihybrid inheritance the inheritance of two different characteristics. 
+
+Diploblastic an animal with a body wall composed of only two layers of cells.
+
+Diploid a cell in which the nucleus contains two complete sets of chromosomes.
+
+Directional selection a type of natural selection which occurs when environmental change favours a form of an organism. 
+
+Dissacharide a type of carbohydrate formed from two monosaccharides.
+
+Discontinuos variation a type of variation in which there are clearly defined differences within a population.
+
+Disruptive selection a type of natural selection in which the environment favours forms at the extremes of the range of phenotypic variation.
+
+Diversity a measure of the number of different species present in a particular habitat.
+
+DNA a molecule that forms the genetic material of all living organisms. 
+
+DNA probe a single strand of DNA that is used to identify a particular gene.
+
+DNA replication the process by which a DNA polymerase.
+
+Dominant allele any allele that is always expressed in the phenotype of an organism.
+
+Double circulation a type of circulatory system in which blood passes through the heart twice during its journey around the body.
+
+Down’s syndrome a genetic disorder in humans caused by the presence of an additional chromosome.
+
+Duodenum the first section of the small intestine. 
+
+
+
+
+E
+
+
+
+
+Echinodermata the animal phylum containing sea urchins and starfish
+
+Ecology the study of the interactions of organisms with their biotic (living) and abiotic (non-living) environments
+
+Ecosystem a stable but dynamic system, characterized by the interaction of its botic (living) and abiotic (non-living) components
+
+Ectotherm an animal that uses the enviroment to regulate its body temperature
+
+Effector a cell or organ that responds to a stimulus
+
+Electrocardiogram (ECG) a graph showing the electrical activity in the heart during the cardiac cycle
+
+Electron a negatively charged particle normally found orbiting the nucleus of an atom
+
+Electron microscope a microscope that uses a beam of electrons to form highly magnified images of very small objects
+
+Electron transport chain a system carrier molecules which transfer electrons from one to the other, releasing energy for the production of ATP
+
+Electrophoresis a method used to separate a mixture of charged molecules
+
+Element any substance that cannot be broken down further by chemical means
+
+Embryo an animal or plant that develops from a zygote prior to birth, hatching or germination
+
+Emulsion test a biochemical test that can be used to show the presence of lipid
+
+Endocrine glands a gland that secretes a hormone directly into the blood
+
+Endocytosis the uptake of large particles or fluids through the surface membrane of a cell
+
+Endodermis a layer of cells surrounding vascular tissue in the root of a plant
+
+Endometrium the inner lining of the uterus of mammals
+
+Endopeptidase an enzyme that breaks peptide bonds at specific sites within a protein molecule
+
+Endoplasmic reticulum a system of membranes found in the cytoplasm of a cell
+
+Endoskeleton the supportive internal framework of an organism
+
+Endosperm a nutritious tissue found in the seeds of flowering plants
+
+Endotherm an animal that can regulate its body temperature using physiological mechanisms
+
+Enterokinase an enzyme secreted in the small intestine that converts trypsinogen to trypsin
+
+Environment the conditions found in the region in which an organism lives
+
+Enzyme a protein molecule which acts as a catalyst in living organisms 
+Epidermis the outer layer of cells in a plant or animal
+
+Epistasis a type of gene interaction, in which one gene controls the expression of another gene
+
+Epithelium a layer of closely packed cells which forms a covering around body structures
+
+Ethene a gaseous hydrocarbon (C2 H4) which acts as a plant growth substance
+
+Eukaryotic cells with a distinct nucleus containing a number of chromosomes
+
+Eutrophication a decrease in biodiversity resulting from the pollution of a river or lake by sewage or fertilizers
+
+Evolution the process by which new species arise as the result of gradual change to the genetic make-up of existing species over long periods of time
+
+Excretion the removal of the waste products of cellular metabolism
+
+Exocrine gland a gland that secretes substances through a duct to their place of action
+
+Exocrine gland a gland that secretes substances through a duct to their place of action
+
+Exocytosis the transport of large particles or fluids out of a cell via the the diffusion cell surface membrane
+
+Exopeptidase a protein-digesting enzyme that breaks peptide bonds at the end of polypeptide chain 
+
+Exoskeleton the supportive external framework of an organism
+
+Extracellular digestion the breakdown of food molecules that takes place outside the cells
+
+
+
+
+F
+
+
+
+
+F1 (first filial generation) the offspring resulting from a genetic cross between homozygous parents
+
+Facilitated diffusion the diffusion of a substance across a membrane, facilitated (assisted) by a protein carrier molecule
+
+Fatty acid organic compounds that are usually found as constituents of lipids
+
+Female an organism that produces female gamete (sex cells)
+
+Fermentation the breakdown of organic molecules in the absence of oxygen
+
+Fertilisation the fusion of male and female gametes during the process of sexual reproduction to produce a zygote
+
+Fertiliser a substance that is added to soil in order to increase its productivity
+
+Fetal Haemoglobin the type of haemoglobin found in the blood of a fetus
+
+Fetus (foetus) the stage of development of a mammalian embryo when the main features of the adult form can be seen
+
+Fibrin an insoluble protein that is the foundation of a blood clot
+
+Fick’s Law states that diffusion of a substance across a membrane is directly proportional to the surface area of a membrane and to the difference in concentration on either side, an inversely proportional to the thickness of the membrane
+
+Filicinophyta the plant phylum that contains the ferns
+
+Flagellum a long hair-like structure found on the surface of cells which is involved in locomotion
+
+Florigen a hypothetical plant growth substance that may stimulate flowering in plant
+
+Flower a structure that contains the sexual reproductive organs in certain plants
+
+Fluid mosaic model a theory that describes the structure of a cell membranes
+
+Follicle-stimulating hormone (FSH) a mammalian hormone that stimulates the production of gametes
+
+Food chain a sequence of feeding relationships in an environment
+
+Food web a system of interconnected food chains
+
+Fovea part of the retina of the eye, containing a very large number of cone cells
+
+Fruit the structure that encloses the seeds in a flowering plant
+
+Fungi the kingdom containing mushrooms, toadstools moulds and yeasts
+
+
+
+
+G
+
+
+
+
+Gall bladder a small sac which stores bile produced by the liver. 
+
+Gamete a reproductive cell that fuses with another gamete to form a zygote.
+
+Gametogenesis the formation of gametes
+
+Gametophyte the stage in the life cycle of a plant in which gametes are produced.
+
+Gaseous exchange the movement of gases between an organism and its environment.
+
+Gastric juice a mixture of hydrochloric acid, mucus and digestive enzymes secreted by gastric glands in the stomach wall.
+
+Gene a section of DNA that codes for the production of a particular polypeptide or protein.
+
+Gene mutation any change in the nucleotide sequence of a gene.
+
+Gene pool all the genes and their different alleles that are present in a particular population. 
+
+Gene probe a single strand of DNA which has a base sequence complementary to the gene being identified.
+
+Gene technology the process involved in changing the characteristic of an organism by inserting foreign genes into its DNA.
+
+Gene therapy the application of gene technology to alter or replace defective genes.
+
+Generator potential the rapid change in electrical charge across the cell surface membrane of a receptor as a result of a stimulus.
+
+Genetic code the method by which the genetic information in DNA controls the synthesis of specific proteins by the cell.
+
+Genetic conservation the preservation of genetic variation.
+
+Genetic counseling the advice given to people from families with a history of genetic disease about the risks of having children.
+
+Genetic engineering a means of altering the genetic make-up of an organism.
+
+Genetic fingerprint the technique in which an individual’s DNA is analysed to reveal a unique pattern of nucleotide sequences.
+
+Genotype the genetic composition of an organism.
+
+Geotropism the directional growth of part of a plant in response to gravity.
+
+Germination the initial growth of a seed, using stored food reserves.
+
+Gibberellin a plant growth substance which acts mainly as a growth stimulator.
+
+Gill the gas exchange organ of many aquatic animals, such as fish, mussels and tadpoles.
+
+Gland a group of cells that is specialized for secretion.
+
+Globular protein a protein whose molecules are curled into a relatively spherical shape and that is often water soluble and metabolically active.
+
+Glomerular filtrate the fluid found in the Bowman’s capsule of a kidney nephron.
+
+Glomerulus a group of capillaries enclosed by the cup-shaped end of a kidney nephron.
+
+Glucagon a hormone involved in the control of blood glucose.
+
+Gluconeogenesis the synthesis of glucose from non-carbohydrate sources, such as lipid and protein.
+
+Glucose a hexose (six-carbon) monosaccharide.
+
+Glycogenesis the conversion of gluscose to glycogen.
+
+Glycogenolysis the conversion of glycogen to glucose.
+
+Glycolysis the first stage of respiration, in which glucose is broken down to form pyruvate.
+
+Glycosidic bond a C-O-C link between two monosaccharide molecules.
+
+Gram staining a staining method used to classify bacteria.
+
+Greenhouse effect the way in which heat is trapped in the earth’s atmosphere.
+
+Growth a permanent increase in size of an organism.
+
+Guanine a purine nitrogenous base that is found in DNA and RNA.
+
+
+
+
+H
+
+
+
+
+Haber-bosch process a process by which dinitrogen is catalytically reduced to ammonia using hydrogen gas under conditions of relatively high temperature and pressure.
+
+Habitat the place where an organism, a population or a community lives.
+
+Habituation is a form of learning in which repeated application of a stimulus results in decreased responsiveness.
+
+Haemocoel collection of sinuses which are spaces within the body where blood is pumped to at relatively low pressure from the heart.
+
+Haemodialysis the first line of defence when a kidney failure worsens. It is carried out in an artificial kidney often referred to as dialysis machine.
+
+Haemoglobin the red pigment found in red blood cells whose molecules contain four iron ions within a globular protein made up of four polypeptides and that combines reversibly with oxygen.
+
+Halophytes plants found in areas of high salinity, such as estuaries and saltmarshes.
+
+Haploid a term referring to cells which contain only a single copy of each chromosome.
+
+Hardy-weinberg principle states that the proportion of dominant and recessive alleles of a particular gene remains the same if certain conditions are met.
+
+Haustorium a special organ for the digestion and absorption of host cell cytoplasm.
+
+Haversion canal a canal where blood vessels run through the matrix.
+
+Haversion system arrangement of compact bone consisting of osteocytes and matrix in cylinders of bone surrounding central haversion canals.
+
+Helicotrema a tiny hole where compartments communicate at the tip of the cochlea.
+
+Heparin a substance that prevents clotting under normal conditions.
+
+Hepatitis a condition of inflammation of the liver.
+
+Herbivore animals that feed directly on plants.
+
+Heterocysts vegetative cells which are photosynthetic and a few thick-walled cells.
+
+Heterogamy gametes differ in size and structure and in their roles in reproduction.
+
+Heterotrophic nutrition form of feeding in which the organism consumes complex organic material.
+
+Heterozygote a condition in which the alleles of a particular gene are different.
+
+Histology the study of the structure of tissues and organs.
+
+Homeostasis the maintenance of more or less constant internal conditions.
+
+Homoiothermic animals warm blooded animals.
+
+Homologous refers to structures which may have different functions but which have a common evolutionary origin.
+
+Homologous chromosomes a pair of chromosomes having the same gene loci and which are capable of pairing during meiosis.
+
+Homozygote a condition in which the allele of a particular gene are identical.
+
+Humus a black gum-like substance, derived from decayed plant and animal remains.
+
+Huntington’s disease a disease due to an autosomal dominant allele on chromosome 4.
+
+Hyaline cartilage the common form of cartilage in mammals.
+
+Hybridisation the crossing of carefully selected varieties in order to bring together desirable qualities from both parents in the offspring.
+
+Hybridoma an immortal cell formed by the fusion of a cancer cell with a B cell.
+
+Hydrogen bonds a relatively weak bond formed by the attraction between a group with a small positive charge on a hydrogen atom and another group carrying a small negative charge 
+
+Hydrolysis the breaking down of large molecules into smaller ones with the addition of a water molecule.
+
+Hydrophonics a means of growing plants without soil.
+
+Hydrophytes plants at the pioneer stage that live in or on water.
+
+Hydrosere a succession that begins with water.
+
+Hypertension abnormally high blood pressure.
+
+Hypertonic when external water potential is more negative than that of the cell (that is, the cell is surrounded by a solution of more negative water potential) 
+
+Hypocotyl the base of the radicle, just below the attachment of the cotyledons.
+
+Hypogeal germination a type of germination where the cotyledons remain below ground. The plumule is carried aloft by the growth of the epicotyl. The hooked shape taken on by the plumule as it is drawn up through the soil protects the tip from damage by soil abrasion.
+
+Hypoglycaemia the glucose level in the blood falls.
+
+Hypothalamus the main control center for the autonomic nervous system.
+
+Hypothermia a condition which results from the core body temperature falling below normal.
+
+Hypothyroidism overactivity of the thyroid gland.
+
+Hypotonic when the external water potential is less negative than that of the cell (that is the cell is surrounded by a solution with a less negative water potential) 
+
+Hypoxia a deficiency of oxygen reaching the tissues.
+
+
+
+I
+
+
+
+
+Ileum part of the small intestine in which the process of digestion is completed and absorption takes place
+
+Immobilisation a technique used in biotechnology in which enzymes are fixed to an unreactive material
+
+Immune a term used to describe an animal that is not susceptible to infection by certain disease-causing organisms ot that remains unaffected by their toxins
+
+Immune adherence the first cellular binding reaction involving the complement system to be recognized.
+
+Immune complex a more or less large cross-linked network of non-covalently attached antibody (Ab) and antigen (Ag) molecules.
+
+Immune response the specific, collective and coordinated response of a living organism to a particular antigenic challenge
+
+Immunology the biomedical branch that studies specific immunity,
+
+Implantation the process by which an embryo becomes embedded in the lining of the uterus of a mammal
+
+Impulse a signal that travels along a neurone (nerve cell)
+
+Induced fit hypothesis a model that describes the action of an enzyme 
+
+Inorganic any compound that is not based on carbon
+
+Inositol a small water-soluble cyclic sugar alcohol
+
+Insulin a hormone involved in the control of blood glucose
+
+Interferon a protein molecule that prevents the replication of viruses
+
+Interspecific competition competition for resources that occurs between members of different species
+
+Intraspecific competition competition for resources that occurs between members of the same species
+
+In vitro any biological processes that occurs outside body, in any artificial situation
+
+In vivo any biological processes that occurs within a living organism
+
+Iodine a nutrient that is required in very small quantities by living organisms
+
+Ion an electrically charged atom or molecule
+
+Ionizing radiation radiation that is able to remove electrons from an atoms or molecules
+
+Iron a nutrient that is required in small quantities by living organism
+
+Islets of Langherhans small group of cell found in the pancreas
+
+Isolation the process by which individuals of the same species are prevented from reproducing
+
+Isomer a molecule that contains the same atoms as another molecule but has a different structure
+
+Isotonic a solution that has the same water potential as another solution
+
+Isotope an atom of the same element as another atom but having a different mass
+
+
+
+
+
+K
+
+
+
+
+Kidneys a pair of organs found in mammals which play an important role in excretion and osmoregulation
+
+Kingdom the largest group used in classification
+
+Krebs Cycle an important pathway in aerobic respiration involving decarboxylation and oxidation.
+
+
+
+
+L
+
+
+
+
+Lactate (or lactic acid) the end product of anaerobic respiration, often produced by muscles during exercise 
+Lactation the production of milk by mammary glands
+
+Lactose a dissacharide found in milk
+
+Lag phase stage in the growth of a population where the organisms may increase in size but they do not increase in number.
+
+Leguminous plant a plant that plays an important role in the nitrogen cycle
+
+Lens a transparent structure in the eye which is responsible for focusing light onto the retina
+
+Lenticels small pores found in the stems of woody plants
+
+LH lutenising hormone
+
+Ligament a tough but flexible connective tissue that hold bones together as a movable joint
+
+Ligase any of a group of enzymes that are important in the synthesis and repair of many biological molecule
+
+Light-dependent reaction stage in photosynthesis in which light energy is required to produce ATP and reduced NADP.
+
+Light-independent reaction Stage of photosynthesis which does not require light energy and in which carbon dioxide is reduced to form carbohydrate.
+
+Lignin a complex polymer found in the cell walls of plant tissues
+
+Limiting factor a variable which limits the rate of a particular reaction.
+
+Linkage term used to describe the situation in which two or more genes are found on the same chromosomes.
+
+Link reaction the reaction that links glycolysis and the Krebs cycle during aerobic respiration
+
+Lipase an enzyme that breaks down lipids into fatty acids and glycerol
+
+Lipid any of a large group of organic substances which are insoluble in water but soluble in organic solvents such as ethanol
+
+Lipoprotein a compound consisting of a lipid combined with a protein
+
+Liver a large organ found in vertebrates that performs many important metabolic reactions
+
+Lock and key hypothesis simple model to explain the way in which the active site of the enzymes binds to the substrate to catalyze a reaction.
+
+Locus the position on a chromosome occupied by a particular gene
+
+Loop of Henle the hairpin-shaped section of a kidney nephron
+
+Log phase stage in the growth of a population in which there is a rapid increase in numbers.
+
+Lumen the space inside a vessel or duct
+
+Lung one of a pair of gas exchange organs found in air-breathing vertebrates
+
+Luteinising hormone (LH) a hormone that stimulates ovulation in females and the production of testosterone in males
+
+Lymph an almost colorless fluid, very similar in composition to blood plasma but with fewer plasma proteins, that is present in lymph vessels.
+
+Lymphocte a type of white blood cell that is involved in the immune response; unlike phagocytes they become active only in the presence of a particular antigen that ‘matches’ their specific receptors or antibodies
+
+Lysosome a small membrane-bound organelle found in the cytoplasm of many cells
+
+
+
+
+M
+
+
+
+
+Male an organism that produces male gamete (sex cells)
+
+Maltose a disaccharide found in germinating seeds
+
+Mass transport the transport of molecules in bulk from one part of an organism to another
+
+Magnification the number of times greater that an image is than the actual object. Magnification= image size / object size.
+
+Mean the arithmetic average of a set of numbers
+
+Mechanoreceptor a sensory receptor that responds to a mechanical stimulus such as touch sound and pressure
+
+Medulla the inner part of a kidney
+
+Medulla oblongata part of the brain which is responsible for regulating the breathing rate and blood flow around the body
+
+Meiosis the type of nuclear division in which the number of chromosomes is halved. 
+
+Menstrual cycle the cycle of events associated with ovulation and the development and breakdown of the endometrium
+
+Memory cells lymphocytes which develops during an immune response and retain the ability to respond quickly when an antigen enters the body on a second, or any subsequent, occasion.
+
+Mental disease a disease that affects the mind.
+
+Meristem a group of plant cells which are capable of mitotic division to bring about growth
+
+Messenger RNA(mRNA) a type of RNA which carries genetic information from the nucleus to the cytoplasm during protein synthesis
+
+Metabolic rate a measure of the rate of energy release by the body.
+
+Metabolism all the chemical processes that take place in living organisms
+
+Micronutrient nutrients required in very small quantities in order to maintain health
+
+Microorganism any organism that can be observed only with the aid of a microscope
+
+Mitochondria a rod-shape organelle found in the cytoplasm of eukaryotic cells
+
+Mitosis the type of nuclear division in which the daughter cells have the same number of chromosomes as the parent cell.
+
+Molecule a substance formed by the combination of atoms
+
+Monocotyledon a flowering plant that produces seeds with only one cotyledon (seed leaf)
+
+Monoculture term used to describe a large area of land in which only one type of crop is grown.
+
+Monocyte a type of white blood cells
+
+Monohybrid inheritance the inheritance of a single characteristic
+
+Monomer a molecule that can combine with similar molecules to form a polymer
+
+Monosaccharide the simplest form of carbohydrate
+
+Mucus a glycoprotein which has lubricating and protective functions
+
+Multiple alleles term used to describe a gene which has more than two possible alleles.
+
+Muscle a tissue consisting of contractile fibres that can produce movement
+
+Mutation a change in the amount or the arrangement of the genetic material in a cell.
+
+Mutualism a nutritional relationship between two species in which both gains some advantage
+
+Mycelium a network of hyphae that forms the body of many fungi
+
+Myelin a mixture of phospholipids and cholesterol which forms a sheath around many nerve cells
+
+Myofibrils the microscopic fibres that make up the larger fibres of skeletal muscle
+
+Myoglobin an iron-containing protein found in muscle
+
+Myosin a protein that forms the thick filaments in the microscopic fibres of skeletal muscle
+
+
+
+
+N
+
+
+
+
+NAD a molecule that acts as a hydrogen acceptor during respiration
+
+NADP a molecule that acts as a hydrogen acceptor during photosynthesis
+
+Natural immunity immunity gained by infected (active) or by receiving antibodies from the mother across the placenta or in the breast milk (passive).
+
+Natural selection the mechanism responsible for the evolution of new species
+
+Negative feedback a series of changes which result in a substance being restored to its normal level-an important part of homeostasis.
+
+Nephron the functional unit of the kidney
+
+Net productivity a measure of the rate at which an organism accumulates new body substances.
+
+Neromuscular junction the point at which a motor neurone connects with a muscle
+
+Neurone a cell specialized for the conduction of nerve impulses
+
+Neurotransmitter a chemical that permits the transmission of nerve impulses across a synapse
+
+Niche the precise point at which an organism fits into its environment, both in terms of where it lives and what it does.
+
+Nitrification the conversion of ammonium compounds to nitrites and nitrates.
+
+Nitrogen cycle one of several nutrient cycles, describing how the element nitrogen cycles in the environment
+
+Nitrogen fixation the incorporation of atmospheric nitrogen gas into organic nitrogen-containing compounds.
+
+Non-competitive inhibition the inhibition of enzyme activity due to the binding of an inhibitor molecule at a site other than the active sites
+
+Non-disjunction the failure of chromosomes to separate properly during meiosis.
+
+Non-infectious disease a disease that is not caused by an organism.
+
+Noradrenaline a chemical that allows the transmission of an impulse from one neurone (nerve cell) to another
+
+Nucleic acid a biological molecule consisting of a long chain of nucleotides
+
+Nucleolus part of the nucleus of a cell where ribosomal RNA is produced
+
+Nucleotide the basic unit from which nucleic acids are formed
+
+Nucleus a large organelle found in eukaryotic cells
+
+Null hypothesis a statement based on the assumption that there is no significant difference between two or more sets of experimental results.
+
+Nutrient a substance that is required in the diet, e.g. proteins, carbohydrates, fats, vitamins and minerals; water and fibers are not generally regarded as nutrients.
+
+Nutrient cycling the way in which elements move through ecosystems
+
+
+
+
+O
+
+
+
+
+Obesity a form of malnutrition in which energy consumption is much higher than energy expenditure, leading to storage of excessive amounts of fat; a person who is 20% or more above the recommend weight for their height is considered to be obese.
+
+Oesophagus the section of the digestive system that lies between the mouth and the stomach
+
+Oestrogen a sex hormone produced by the ovaries in female
+
+Oogenesis the process by which female gametes are formed in animal.
+
+Organ a structure within a multicellular organism that is made up different types of tissues working together to perorm a particular function, e.g. the stomach in a human or a leaf in a plant.
+
+Organelle a functionally and structurally distinct part of cell, for example a ribosome or mitochondrion
+
+Organic any molecules based on carbon
+
+Ornithine cycle biochemical pathway in the liver that converts ammonia to urea
+
+Osmoregulation the ability to control the concentration of body fluids.
+
+Osmosis the net movement of water molecules from a region of high water potential to a region of loe water potential through a partially permeable membrane, as a result of their random motion.
+
+Ovary an organ that produces female gametes
+
+Ovum a gamete produced by female vertebrates
+
+Oxidation a chemical reaction involving the loss of electrons.
+
+Oxidative phosphorylation the formation of ATP through the oxidation of hydrogen atoms in the electron transport system.
+
+Oxidoreductase a class of enzymes that catalyse biochemical reactions involving oxidation and reduction
+
+Oxygen debt the amount of oxygen needed to oxidize the lactic acid that accumulates during anaerobic respiration.
+
+Oxygen dissociation curve a graph illustrating the relationship between the partial pressure of oxygen and the percentage saturation of haemoglobin with oxygen. 
+
+
+
+
+P
+
+
+
+
+Palisade wall a type of cell found just beneath the upper epidermis pf a leaf
+
+Palmitoylation a process by which a protein can be attached to a membrane, which can be the plasma membrane or an intracellular membrane
+
+Pancreas a secretory organ found just below the stomach in vertebrates
+
+Papilla (e) cellular outgrowths which look like little bumps or fingers on the surface of cells.
+
+Parasite an organism that lives on or within a host (another organism); it obtains nutrients from the host without benefiting or killing (although it may damage) the host;
+
+Parasitism a type of symbiotic relationship in which one organism benefits and the other does not.
+
+Parasympathetic nervous system the part of the automatic nervous system which regulates physiological functions when the body is at rest
+
+Partially permeable membrane a membrane that is permeable to small molecules but does not allow the passage of larger molecules
+
+Parenchyma A generalized cell or tissue in a plant which may manufacture or store food, and can often divide or differentiate into other kinds of cells.
+
+Passive transport a process allowing small hydrophobic molecules to cross the membranes phospholipid bilayer, without any intervention of proteins or any consumption of energy.
+
+Pectin a polysaccharide found inplant cell walls
+
+Pentose a monosaccharide containing five carbon atoms.
+
+Pepsin a protein digesting enzyme produced by the stomach
+
+Peptidase an enzyme of the hydrolase group which hydrolyzes peptide bonds within peptide chains.
+
+Peptide a small natural or synthetic chain of amino acids connected by peptide bonds.
+
+Peptide bond an amide linkage between the carboxyl group of an amino acid and the amino group of another one which is a covalent bond, and it is formed by loss of a water molecule.
+
+Peristalsis the movement of material along a tube by waves of muscular contraction
+
+Pesticide any chemical compound that are used to kill pests
+
+Petal one of the outer appendages of a flower, located between the outer sepals and the stamens. Petals often display bright colors that serve to attract pollinators.
+
+pH an unit measuring the acidity of a solution.
+
+Phagocyte a specialized cell able to ingest and digest extracellular materials (pathogens, cell debris, particles ...) by phagocytosis.
+
+Phagocytosis the mechanism by which cells ingest extracellular large substances, including macromolecules, parts or totality of other cells and microorganisms
+
+Phagosome a cytosolic vacuole containing materials captured by phagocytosis, and which are destined to be destroyed.
+
+Pharynx cavity in the digestive tract just past the mouth itself. 
+
+Phatogenic Organism which causes a disease within another organism.
+
+Phenotype the physical or functional characteristics of an organism, produced by the interaction of genotype and environment during growth and development.
+
+Phenotypic variance variance of the phenotype due to genotypic and environmental factors combined. 
+
+Phloem Nutrient-conducting tissue of vascular plants.
+
+Phosphate an ion consisting of a phosphorus atom and four oxygen atoms. 
+
+Phospholipids a lipid whose one of the alcohol group is esterified by phosphoric acid. 
+
+Photoautograph an organism that synthesis complex organic molecules from simple inorganic molecules, using light energy
+
+Photophosphorylation the synthesis of ATP using light energy during photosynthesis
+
+Photoreceptor a cell which is sensitive to light
+
+Photsystem a system of photosynthesis pigments found in chloroplasts
+
+Photosythesis biochemical process in which light energy is absorbed by chlorophyll, and is used to fuel the building of sugar molecules.
+
+Phototropism a change in growth in response to light
+
+Phragmoplast the cell plate formed during cell division.
+
+Phylum a group used for the classification of organisms
+
+Phylogenetics Field of biology that deals with the relationships between organisms which includes the discovery of these relationships and the study of the causes behind this pattern.
+
+Physiology the study of the processes which sustain life in organisms, such as nutrition, respiration and reproduction
+
+Phytochrome a pigment found in plants which are important in regulating growth
+
+Phytolysis the splitting of water molecules that takes place during photosynthesis
+
+Pigment a coloured substance
+
+Pinocytosis one of the types of endocytosis. It is the mechanism by which cells ingest extracellular fluids
+
+Pinosome a small fluid-filled vesicle found in the cytoplasm during pinocytosis
+
+Pith any central region of parenchyma tissue within a plant stem.
+
+Pituitary gland an endocrine gland situated at the base of the brain
+
+Pituitary hormone a hormone released from the pituitary gland.
+
+Placenta a tissue formed within the uterus through which nutrients are passed from the mother to the embryo (and later the fetus) and its wastes are removed
+
+Plasmodesma the unique class of intercellular junction which, in plant cells, connects the cytoplasm of adjacent cells.
+
+Plantae the kingdom containing plants
+
+Plant growth substance an organic compund that plays an important role in the coordination of plant growth and development
+
+Plasma membrane the structure which envelops a cell, surrounds its cytoplasm and separates it from the extracellular environment 
+
+Plasma protein any of the protein constituents of blood plasma
+
+Plasmid circular loop of DNA in prokaryotes. 
+
+Plasmodesmata cytoplasmic connections between neighboring cells in plant tissues.
+
+Plasmogamy a process of fusion of the cytoplasm of two cells; the first step in syngamy.
+
+Plasmolysis the shrinkage of cytoplasm away from the cell wall in plant cells
+
+Plastid any of several pigmented cytoplasmic organelles found in plant cells and other organisms, having various 
+physiological functions, such as the synthesis and storage of food.
+
+Platelets disk-shaped structures, found in the blood of all mammals.
+
+Platyhelminthes the animal phylum containing flatworms, tapeworms and flukes
+
+Plumule the part of a plant embryo that develops into a shoot
+
+Pneumocyte a cell of the walls of the pulmonary alveoli.
+
+Pollen the microspore of seed plants.
+
+Pollen tube a tube produced by germinating pollen grain
+
+Polllination process of transferring the pollen from its place of production to the place where the egg cell is produced. 
+
+Pollinator animal which carries pollen from one seed plant to another, unwittingly aiding the plant in its reproduction. 
+
+Polymer a large molecule constructed from many smaller identical units. 
+
+Polymerase Chain Reaction a technique invented by Kary Mullis in 1984 to amplify a specific segment of DNA in vitro, 
+through primer extensions 
+
+Polynucleotide a polymer of mononucleotides, or nucleotides. 
+
+Polypeptide a long chain of amino acids connected by peptide bonds. 
+
+Polyploid an individual containing more than two sets of genes and chromosomes. 
+
+Polysaccharides carbohydrates which release more than ten monosaccharides during hydrolysis.
+
+Population a group of organisms, usually a group of sexual organisms that interbreed and share a gene pool, and are normally relatively isolated from other groups of the same species.
+
+Porins multipass transmembrane proteins in which the transmembrane segments are arranged as a b sheet rather than as a helices.
+
+Potocytosis the process by which ions or molecules are internalized into cells, through transient invaginations of the plasma membrane 
+
+Predator organism which hunts and eats other organisms. 
+
+Prenyl group a long unsaturated fatty acyl chain which allows proteins to be attached to the plasma membrane or to intracellular membranes
+
+Prenylation a post-translational lipid modification which can add an isoprenoid group, or prenyl group, to proteins, and attach them to both the plasma membrane and intracellular membranes
+
+Prey organism hunted and eaten by a predator.
+
+Primary lymphoid organs the sites of B lymphocyte and T lymphocyte generation and maturation.
+
+Producer any organism which brings energy into an ecosystem from inorganic sources. 
+
+Progesterone a progestational steroid hormone which inhibits ovulation during pregnancy, induces differentiation and 
+maturation of ovocyte, stimulates mammary glands and maintains an optimal intrauterine environment for sustaining 
+pregnancy.
+
+Prokaryotes the simplest organisms found on our earth constituting of a single small cell with no membrane-bounded nucleus
+
+Prokaryotic cells that have no internal membranes or cytoskeleton. 
+
+Prolactin a hormone secreted by anterior pituitary gland.
+
+Prostele When a plant's vascular tissue develops in a solid central bundle
+
+Prosthetic group the non-polypeptidic constituent of a heteroprotein which is essential for its biological activity.
+
+Protein a polypeptide constructed from amino acids.
+
+Proteinaceous describes any structure which is composed of protein.
+
+Prothrombin a protein which is one of the blood coagulation factors, and is secreted by liver in the presence of vitamin K.
+
+Protist An organism that belongs to the Kingdom Protista, which includes forms with both plant and animal affinities 
+
+Protoplasm All the contents of a cell, including the nucleus.
+
+Purine bases aromatic nitrogen-containing compounds, which are not naturally found free and have urate as the end 
+product of their degradation.
+
+
+
+
+Q
+
+
+
+
+Q10 the increase in the rate of a process when the temperature is increased by 10 degrees celsius.
+
+Quadrat a square frame used to mark out an area in which organisms can be investigated
+
+Quatenary structure the type of structure shown by a protein made up from more than one polepeptide chain
+
+Quinones hydrophobic molecules which are able to transport electrons and are conjugated aromatic diketones, derived from benzene.
+
+
+
+
+R
+
+
+
+
+Radial symmetry describes an organism that can be divided in any longitudinal plane to give two approximately identical halves.
+
+Radicle the part of plant embryo that develops into a root
+
+Receptor a cell or group of cells speacialised to detect a particular stimulus
+
+Recessive allele any allele that is only exposed in the phenotype of an organism if the dominant allele is not present
+
+Receptors proteins that can bind to other specific molecules eg to antibodies or hormones.
+
+Recombinant an individual or a cell which is the product of a genetic recombination of alleles not present in the parents
+
+Red blood cell a cell speacialised for transporting respiratory gases in blood
+
+Reducing sugar any carbohydrate which has a reducing properties
+
+Reduction the addition of an electron to a molecule
+
+Reductase an enzyme of the oxidoreductase group which catalyzes the reduction of a given substrate.
+
+Reflex a rapid automatic response to a particular stimulus
+
+Refractory period the time interval during which a nerve cell is incapable of responding to a stimulus
+
+Renin an enzyme secreted by the kidney in response to a fall in blood pressure
+
+Reproductive isolation the prevention of interbreeding between members of different species that inhabit the same geographical area.
+
+Resistance the ability of an organism to tolerate substances which would normally be toxic to them
+
+Respiration the oxidation of organic molecules by cells in order to release energy
+
+Respiratory quotient (RQ) the ratio of the volume of carbon dioxide produced to the volume of oxygen consumed during respiration
+
+Resting potential the difference in electrical charges across the cell surface membrane of a nerve cell.
+
+Restriction endonuclease an enzyme that cuts DNA molecules at specific sites
+
+Restriction enzymes endonucleases present in most bacteria whose ability is to restrict the possibilities for a foreign DNA to take over the transcription and translation machinery of the bacterium.
+
+Reproduction the manufacture of offspring as part of an organism's life cycle. 
+
+Resting ion channels ion channels which are permanently open
+
+Retina a layer of light-sensitive cells found at the back of the eye.
+
+Retinal a photosensitive compound derived from beta-carotene.
+
+Retinoate an oxidized derivative of retinol is formed by carboxylation of the aldehyde group of retinal.
+
+Retrovirus a type of virus that contains RNA as its nucleic acid
+
+Rhizobium a genus of nitrogen-fixing bacteria which form a mutualistic relationship with leguminous plants.
+
+Rhizoid a cellular outgrowth of a plant that usually aids in anchoring to the surface and increasing surface area to acquire water or nutrients
+
+Rhizome a horizontal underground stem, such as found in many ferns, where only the leaves may stick up into the air
+
+Ribonucleases globular proteins which are mainly composed of a helices and b sheets.
+
+Ribonucleoproteins conjugated proteins consisting in a non covalent association between a ribonucleic acid and a basic protein (RNP protein)
+
+Ribonucleoside a compound built of a nitrogenous base in N-glycosidic linkage with a sugar
+
+Ribonucleotide a compound built of a ribonucleoside in linkage with one, two or three phosphate groups 
+
+Ribose a five-carbon sugar found in RNA
+
+Ribosomal RNA an RNA molecule which is an integral component of a ribosome.
+
+Ribosome small structures present in all prokaryotic and eukaryotic cells which contains large complexes of RNA and protein molecules, about 20 to 30 nm in diameter.
+
+Ribosome receptor a specific receptor which is able to anchor ribosomes to the cytosolic face of the endoplasmic reticulum (ER) membrane.
+
+Ribulose biphosphate (RuBP) a five-carbon sugar which combines with carbon dioxide during the light-independent reaction of photosynthesis.
+
+RNA(ribonucleic acid) a type of nucleic acid molecule
+
+RNA polymerase an enzyme that catalyses the synthesis of RNA
+
+Rod cell a light sensitive cell found in the retina of the eye
+
+Rough endoplasmic reticulum the region of endoplasmic reticulum (ER) whose outer surface bears ribosomes.
+
+Root the part of the plant that goes downwards, normally into the ground, anchoring the plant and absorbing and conducting water and mineral nutrients.
+
+Root pressure the force exerted by roots which pushes water into the xylem and up the plant
+
+Ruminant any mammal that posseses a rumen (a chamber found at the interior of the gut)
+
+
+
+
+S
+
+
+
+
+Salinity a measure of the salt concentration of water.
+
+Saliva a watery fluid secreted by the salivary glands in the mouth
+
+Saltatory conduction the mechanism by which an impulse is transmitted along a myelinated nerve cell.
+
+Sampling the selection of a number of items or individuals from a population
+
+Saprophytes any organism that obtains its nutrients from dead or decaying matter by secreting digestive enzymes onto the food and then absorbing the soluble products of digestion
+
+Sarcolemma the membrane that surrounds a muscle fibre
+
+Saturated fatty acid a fatty acid which has the maximum number of hydrogen atoms attached to its carbon
+
+Scavenger an organism that feeds upon dead and dying organisms.
+
+Schwann cell a cell that produces the mylin sheath around a nerve cell
+
+Sclerenchyma a support tissue in plants
+
+Sclerotin an insoluble tanned protein permeating and stiffening the chitin of the cuticle of arthropods
+
+Second messenger a molecule found within a cell which is activated by the binding of a chemical messenger to a receptor on the cell surface membrane
+
+Secondary structure the way in which a polypeptide is coiled or folded
+
+Sediment any solid material that has settled out of a state of suspension in liquid.
+
+Seed a structure produced by seed plants which encapsulates the embryo. 
+
+Seed bank a collection of seeds which is used as a store of genetic material
+
+Selection process which favors one feature of organisms in a population over another feature found in the population. 
+
+Selective breeding the breeding of plants or animals in order to select certain favourable characteristics within the population
+
+
+Semi-conservative replication the mechanism by which DNA produces identical copies of itself
+
+Semilunar valve a valve that prevents the backflow of blood
+
+Sepal the outermost structures of a flower that makes up the calyx.
+
+Septum partition which divides up a larger region into smaller ones
+
+Serum blood plasma from which the fibrinogen and other clotting factors have been removed. 
+
+Sex chromosomes a pair of chromosomes which determine the sex of an organism
+
+Sex determination the mechanism by which sex is determined in a species
+
+Sex linkage the inheritance of a characteristic which is determined by a gene on one of the sex chromosomes.
+
+Sexual reproduction the fusion of male and female gametes to produce a zygote 
+
+Shoot usually, the above ground portion of a plant, bearing the leaves. 
+
+Single circulation a type of circulatory system in which the blood passes only once through the heart in each complete circuit of the body 
+
+Sink part of an organism where substances are removed from a mass transport system
+
+
+Sino-atrial node (SAN) a collection of specialized muscle cells in the right atrium of the heart
+
+Sinusoid a blood-filled space in the liver
+
+Skeletal muscle muscle tissue that is found attached to the skeleton
+
+Skeleton support structure in animals, against which the force of muscles acts. 
+
+Sliding-filament hypothesis a hypothesis to account for the mechanism of contraction in skeletal muscle 
+
+Smooth muscle muscle tissue that is not under conscious control
+
+Solute potential the component of water potential that is due to the presence of solute molecules
+
+Source part of organism where substances enter a mass transport system
+
+Speciation the formation of a new species of organisms
+
+Species an important classificatory category, which can be variously defined by the biological species concept, cladistic species concept, ecological species concept, phenetic species concept, and recognition species concept. 
+
+Sperm a gamete produced by male animals
+
+Spermatogenesis the production of sperms by the testis
+
+Sphincter muscle a specialized muscle surrounding an opening within the body 
+
+Spinal cord part of the central nervous system that is enclosed by the backbone
+
+Spiracles pores in the exoskeleton of an insect which lead to the trachea
+
+Sporangium a chamber inside of which spores are produced through meiosis.
+
+Spore a single cell that is dispersed as a reproductive unit, or that encapsulates a cell during unfavorable environmental conditions
+
+Sporophyte the stage in the life cycle of a plant in which spores are produced.
+
+Stabilising selection a type of natural selection in which the environment acts against forms at the extreme of the range of phenotypic ratio
+
+Stamen part of a flower, the tip of which produces pollen 
+
+Standard deviation a measure of the spread of data about the mean
+
+Starch a complex polymer of glucose, used by plants and green algae to store surplus sugar for later use.
+
+Steroid a type of lipid molecule with a number of biological functions
+
+Stigma the sticky tip of a pistil or the dense region of pigments found in many photosynthetic protists which is sensitive to light
+
+Stimulus a change in the internal or external environment which produces a response in an organism
+
+Stomach part of the digestive system, located between the oesophagus and the duodenum
+
+Stomata openings in the epidermis of a stem or leaf of a plant which permit gas exchange with the air. 
+
+Style the narrow stalk of the pistil, located above the ovary but below the stigma.
+
+Suberin a waxy substance consisting of a long chains of fatty acids
+
+Substrate the substance acted upon by an enzyme in biochemical reactions
+
+Succession the progressive change which occurs in a community of organisms over a period of time
+
+Sucrose a disaccharide found in plants
+
+Summation a process which occurs in synapses due to the addictive effect of a number of stimuli
+
+Supernatant the liquid layer which is left on top after a suspension has been centrifuged
+
+Surface area to volume ratio the ratio between the surface area of an organism to its volume
+
+Symbiosis a close interaction between individuals at different species
+
+Sympathetic nervous system the part of the autonomic nervous system which regulates physiological functions when the 
+body is active
+
+Sympatric speciation the development of one or more species which occurs when populations of the parent species living in the same area are prevented from interbreeding
+
+Symplastic pathway the route by which water and solutes travel through the cytoplasm and plasmodesmata of plant cells
+
+Synapse the junction between two nerve cells
+
+Synergistic effect two substances whose combined action produces a greater effect than would be expected from adding the individual effects of each substance 
+
+Syngamy the process of union of two gametes; sometimes called fertilization
+
+Synovial joint a moveable joint between two bones
+
+
+
+
+T
+
+
+
+
+Taxonomy the study of the classification of living organisms
+
+T-cell one of a group of lymphocytes which play an important role in the immune response of an organism
+
+Tendon a band of connective tissue that attaches skeletal muscle to bone
+
+Tertiary structure the irregular folding of a polypeptide
+
+Testa the protective outer covering of a seed
+
+Test cross a genetic cross used to identify the genotype of an individual
+
+Testis an organ that produces male gametes
+
+Testosterone a sex hormone produced by the testis in males
+
+Termal pollution an increase in the temperature of the environment due to the release heat from industrial processes
+
+Thermoregulation the control of body temperature in animal
+
+Thylakoid one of a collection of flattened membrane-bound sacs found in a chloroplast
+
+Thymine a pyramidine nitrogenous base that is found in DNA
+
+Thyroid-stimulating hormone(TSH) a hormone secreted by the pituitary gland which stimulates the secretion by the hypothalamus which stimulates the secretion of thyroxine
+
+Thyrotrophic-releasing hormone(TRH) a hormone secreted by the hypothalamus which stimulates the secretion of thyroid-stimulating hormone
+
+Thyroxine a hormone secreted by the thyroid gland
+
+Tissue a group of cells with a specific function in the body of an organism. 
+
+Tissue fluid the fluid which surrounds the cells in an animal
+
+Trachea(mammal) a tube which links the mouth and nose to the lungs in air-breathing vertebrates
+
+Trachea(insects) tubes which form part of the gas exchange
+
+Tracheid a type of cell found in the xylem tissue of plants
+
+Transamination a biochemical reaction in which an amino group is transferred from one amino acid to form a new amino acid
+
+Transcription the copying of the genetic code from DNA to messenger RNA during protein synthesis
+
+Transect a technique used in ecology to sample the organisms across an area
+
+Transfer RNA a type of RNA which carries amino acids to a ribosome during protein synthesis
+
+Translation the transport of substances from one part of a plant to another
+
+Transpiration the loss of water vapour from a plant
+
+Tricuspid valve the valve between the right atrium and the right ventricle in the heart of a mammal
+
+Triglyceride a lipid molecule consisting of three fatty acids linked to a molecule of glycerol
+
+Trioblastic any animal with a body cmposed of three layers of cells
+
+Trophic level the position occupied by an organism in a food chain
+
+Tropism the directional growth of part of a plant in response to an external stimulus
+
+Trypsin a protein-digesting enzyme produced by pancreas
+
+Tuber an underground stem which has been modified for storage of nutrients, such as a potato.
+
+Turgid cell a cell which contains the maximum amount of water
+
+Turgor pressure force exerted outward on a cell wall by the water contained in the cell. 
+
+
+
+
+
+
+
+
+Ultrafiltration filtration which occurs on a molecular scale
+
+Ultrastructure the structure of cells and organelles as seen using an electron microscope
+
+Unsaturated Fatty Acid a fatty acid which has less than the maximum number of hydrogen atoms attached to its carbon atom
+
+Uracil a pyrimidine nitrogenous base that is found in RNA
+
+Urea the main nitrogenous waste product of mammals 
+
+Urine an aqueous solution produced by the kidneys in mammals, that contains urea, inorganic salts and water.
+
+Uterus the organ in which the embryo develops in female mammals
+
+
+
+
+
+
+
+
+Vacuole a membrane-bound space within the cytoplasm of a cell
+
+Variation the phenotypic differences between individuals within a species
+
+Vascular System a system of vessels for the transportation of substances from one part of an organism to another
+
+Vasoconstriction a decrease in the internal diameter of an article
+
+Vasodilation an increase in the internal diameter of an arteriole
+
+Vector any organism which acts as a carrier
+
+Vein(animal) a vessel that carries blood toward the heart
+
+Vein(plant) part of the vascular system in the leaves of plants
+
+Vena Cava the main vein of the body
+
+Ventilation the mechanism by which respiratory gases are delivered to and from a gas exchange surface
+
+Ventricle a chamber of the heart that pumps blood to the organs of the body
+
+Venule a vessel that receives blood from capillaries and carries it to a vein
+
+Vesicle a small-membrane sac found in the cytoplasm of a cell
+
+Vessel a type of cell found in the xylem tissue of plants
+
+Villus a finger-shaped projection of the lining of the small intestine
+
+Virus a microorganism which can only reproduce inside a living thing
+
+Vitamin an organic molecule required by living things organisms in small amounts in order to maintain normal health
+
+
+
+Water Potential a measure of the ability of a solution to give out water
+
+White Blood Cell a nucleated cell found in the blood
+
+Wilting the condition that occurs in plants when more water is lost by transpiration than is absorbed from the soil
+
+
+
+
+
+
+
+
+x-Chromosome one of the sex hormones
+
+Xerophyte a plant which is adapted for growing in dry environments.
+Xylem the plant vascular tissue concerned with the transport of water and inorganic salts
+Y-Chromosome one of the sex chromosomes
+Zygote a diploid cell that results from the fusion of two gametes during sexual reproduction
+In biology, a hybrid, or crossbreed, is the result of combining the qualities of two organisms of different breeds, varieties, species or genera through sexual reproduction. Hybrids are not always intermediates between their parents (such as in blending inheritance), but can show hybrid vigour, often growing larger or taller than either parent. The concept of a hybrid is interpreted differently in regards to either animal or plant breeding, where there is interest in the individual parentage. In genetics, attention is focused on the numbers of chromosomes. In taxonomy, a key question is how closely related the parent species are.
+
+Species are reproductively isolated by strong barriers to hybridisation, which include morphological differences, differing times of fertility, mating behaviors and cues, and physiological rejection of sperm cells or the developing embryo. Some act before fertilization and others after it. Similar barriers exist in plants, with differences in flowering times, pollen vectors, inhibition of pollen tube growth, somatoplastic sterility, cytoplasmic-genic male sterility and the structure of the chromosomes. A few animal species and many plant species, however, are the result of hybrid speciation, including important crop plants such as wheat, where the number of chromosomes has been doubled.
+
+Human impact on the environment has resulted in an increase in the intrabreeding between species, with introduced species worldwide, which has resulted in an increase in hybridization. The genetic mixing may threaten many species with extinction, while genetic erosion in crop plants may be damaging the gene pools of many species for future breeding. Many commercially useful fruits, flowers, garden herbs and trees have been produced by hybridization. One flower, Oenothera lamarckiana, was central to early genetics research into mutationism and polyploidy.
+Sexual reproduction is a form of reproduction where two morphologically distinct types of specialized reproductive cells called gametes fuse together, involving a female's large ovum (or egg) and a male's smaller sperm. Each gamete contains half the number of chromosomes of normal cells. They are created by a specialized type of cell division, which only occurs in eukaryotic cells, known as meiosis. The two gametes fuse during fertilization to produce DNA replication and the creation of a single-celled zygote which includes genetic material from both gametes. In a process called genetic recombination, genetic material (DNA) joins up so that homologous chromosome sequences are aligned with each other, and this is followed by exchange of genetic information. Two rounds of cell division then produce four daughter cells with half the number of chromosomes from each original parent cell, and the same number of chromosomes as both parents, though self-fertilization can occur. For instance, in human reproduction each human cell contains 46 chromosomes, 23 pairs, except gamete cells, which only contain 23 chromosomes, so the child will have 23 chromosomes from each parent genetically recombined into 23 pairs. Cell division initiates the development of a new individual organism in multicellular organisms,[1] including animals and plants, for the vast majority of whom this is the primary method of reproduction.[2]
+
+The evolution of sexual reproduction is a major puzzle because asexual reproduction should be able to outcompete it as every young organism created can bear its own young. This implies that an asexual population has an intrinsic capacity to grow more rapidly with each generation.[3] This 50% cost is a fitness disadvantage of sexual reproduction.[4] The two-fold cost of sex includes this cost and the fact that any organism can only pass on 50% of its own genes to its offspring. One definite advantage of sexual reproduction is that it prevents the accumulation of genetic mutations.[5]
+
+Sexual selection is a mode of natural selection in which some individuals out-reproduce others of a population because they are better at securing mates for sexual reproduction.[6][7] It has been described as "a powerful evolutionary force that does not exist in asexual populations."
+The first fossilized evidence of sexual reproduction in eukaryotes is from the Stenian period, about 1 to 1.2 billion years ago.[9]
+
+Biologists studying evolution propose several explanations for why sexual reproduction developed and why it is maintained. These reasons include fighting the accumulation of deleterious mutations, increasing rate of adaptation to changing environments,[10] dealing with competition, or masking deleterious mutations.[11][12][13] All of these ideas about why sexual reproduction has been maintained are generally supported, but ultimately the size of the population determines if sexual reproduction is entirely beneficial. Larger populations appear to respond more quickly to benefits obtained through sexual reproduction than do smaller population sizes.[14]
+
+Maintenance of sexual reproduction has been explained by theories that work at several levels of selection, though some of these models remain controversial.
+
+New models presented in recent years suggest a basic advantage for sexual reproduction in slowly reproducing complex organisms. Sexual reproduction allows these species to exhibit characteristics that depend on the specific environment that they inhabit, and the particular survival strategies that they employ.
+In order to sexually reproduce, both males and females need to find a mate. Generally in animals mate choice is made by females while males compete to be chosen. This can lead organisms to extreme efforts in order to reproduce, such as combat and display, or produce extreme features caused by a positive feedback known as a Fisherian runaway. Thus sexual reproduction, as a form of natural selection, has an effect on evolution. Sexual dimorphism is where the basic phenotypic traits vary between males and females of the same species. Dimorphism is found in both sex organs and in secondary sex characteristics, body size, physical strength and morphology, biological ornamentation, behavior and other bodily traits. However, sexual selection is only implied over an extended period of time leading to sexual dimorphism.
+Animals typically produce gametes directly by meiosis. Male gametes are called sperm, and female gametes are called eggs or ova. In animals, fertilization follows immediately after meiosis. Plants on the other hand have mitosis occurring in spores, which are produced by meiosis. The spores germinate into the gametophyte phase. The gametophytes of different groups of plants vary in size; angiosperms have as few as three cells in pollen, and mosses and other so called primitive plants may have several million cells. Plants have an alternation of generations where the sporophyte phase is succeeded by the gametophyte phase. The sporophyte phase produces spores within the sporangium by meiosis.
+
+Flowering plants[edit]
+
+Flowers are the sexual organs of flowering plants.
+Flowering plants are the dominant plant form on land and they reproduce either sexually or asexually. Often their most distinguishing feature is their reproductive organs, commonly called flowers. The anther produces pollen grains which contain the male gametophytes (sperm). For pollination to occur, pollen grains must attach to the stigma of the female reproductive structure (carpel), where the female gametophytes (ovules) are located inside the ovary. After the pollen tube grows through the carpel's style, the sex cell nuclei from the pollen grain migrate into the ovule to fertilize the egg cell and endosperm nuclei within the female gametophyte in a process termed double fertilization. The resulting zygote develops into an embryo, while the triploid endosperm (one sperm cell plus two female cells) and female tissues of the ovule give rise to the surrounding tissues in the developing seed. The ovary, which produced the female gametophyte(s), then grows into a fruit, which surrounds the seed(s). Plants may either self-pollinate or cross-pollinate.
+
+Nonflowering plants like ferns, moss and liverworts use other means of sexual reproduction.
+
+In 2013, flowers dating from the Cretaceous (100 million years before present) were found encased in amber, the oldest evidence of sexual reproduction in a flowering plant. Microscopic images showed tubes growing out of pollen and penetrating the flower's stigma. The pollen was sticky, suggesting it was carried by insects.[25]
+
+Ferns[edit]
+Ferns mostly produce large diploid sporophytes with rhizomes, roots and leaves; and on fertile leaves called sporangium, spores are produced. The spores are released and germinate to produce short, thin gametophytes that are typically heart shaped, small and green in color. The gametophytes or thallus, produce both motile sperm in the antheridia and egg cells in separate archegonia. After rains or when dew deposits a film of water, the motile sperm are splashed away from the antheridia, which are normally produced on the top side of the thallus, and swim in the film of water to the archegonia where they fertilize the egg. To promote out crossing or cross fertilization the sperm are released before the eggs are receptive of the sperm, making it more likely that the sperm will fertilize the eggs of different thallus. A zygote is formed after fertilization, which grows into a new sporophytic plant. The condition of having separate sporephyte and gametophyte plants is called alternation of generations. Other plants with similar reproductive means include the Psilotum, Lycopodium, Selaginella and Equisetum.
+
+Bryophytes[edit]
+The bryophytes, which include liverworts, hornworts and mosses, reproduce both sexually and vegetatively. They are small plants found growing in moist locations and like ferns, have motile sperm with flagella and need water to facilitate sexual reproduction. These plants start as a haploid spore that grows into the dominate form, which is a multicellular haploid body with leaf-like structures that photosynthesize. Haploid gametes are produced in antherida and archegonia by mitosis. The sperm released from the antherida respond to chemicals released by ripe archegonia and swim to them in a film of water and fertilize the egg cells thus producing a zygote. The zygote divides by mitotic division and grows into a sporophyte that is diploid. The multicellular diploid sporophyte produces structures called spore capsules, which are connected by seta to the archegonia. The spore capsules produce spores by meiosis, when ripe the capsules burst open and the spores are released. Bryophytes show considerable variation in their breeding structures and the above is a basic outline. Also in some species each plant is one sex while other species produce both sexes on the same plant.[26]
+
+Fungi[edit]
+Main article: Mating in fungi
+Further information: Fungus § Reproduction
+
+Puffballs emitting spores
+Fungi are classified by the methods of sexual reproduction they employ. The outcome of sexual reproduction most often is the production of resting spores that are used to survive inclement times and to spread. There are typically three phases in the sexual reproduction of fungi: plasmogamy, karyogamy and meiosis. The cytoplasm of two parent cells fuse during plasmogamy and the nuclei fuse during karyogamy. New haploid gametes are formed during meiosis and develop into spores.
+
+Bacteria and archaea[edit]
+Three distinct processes in prokaryotes are regarded as similar to eukaryotic sex: bacterial transformation, which involves the incorporation of foreign DNA into the bacterial chromosome; bacterial conjugation, which is a transfer of plasmid DNA between bacteria, but the plasmids are rarely incorporated into the bacterial chromosome; and gene transfer and genetic exchange in archaea.
+
+Bacterial transformation involves the recombination of genetic material and its function is mainly associated with DNA repair. Bacterial transformation is a complex process encoded by numerous bacterial genes, and is a bacterial adaptation for DNA transfer.[11][12] This process occurs naturally in at least 40 bacterial species.[27] For a bacterium to bind, take up, and recombine exogenous DNA into its chromosome, it must enter a special physiological state referred to as competence (see Natural competence). Sexual reproduction in early single-celled eukaryotes may have evolved from bacterial transformation,[13] or from a similar process in archaea (see below).
+
+On the other hand, bacterial conjugation is a type of direct transfer of DNA between two bacteria through an external appendage called the conjugation pilus.[28] Bacterial conjugation is controlled by plasmid genes that are adapted for spreading copies of the plasmid between bacteria. The infrequent integration of a plasmid into a host bacterial chromosome, and the subsequent transfer of a part of the host chromosome to another cell do not appear to be bacterial adaptations.[11][29]
+
+Exposure of hyperthermophilic archaeal Sulfolobus species to DNA damaging conditions induces cellular aggregation accompanied by high frequency genetic marker exchange.[30][31] Ajon et al.[31] hypothesized that this cellular aggregation enhances species-specific DNA repair by homologous recombination. DNA transfer in Sulfolobus may be an early form of sexual interaction similar to the more well-studied bacterial transformation systems that also involve species-specific DNA transfer leading to homologous recombinational repair of DNA damage.
+In molecular biology, transformation is the genetic alteration of a cell resulting from the direct uptake and incorporation of exogenous genetic material from its surroundings through the cell membrane(s). For transformation to take place, the recipient bacteria must be in a state of competence, which might occur in nature as a time-limited response to environmental conditions such as starvation and cell density, and may also be induced in a laboratory.[1]
+
+Transformation is one of three processes for horizontal gene transfer, in which exogenous genetic material passes from bacterium to another, the other two being conjugation (transfer of genetic material between two bacterial cells in direct contact) and transduction (injection of foreign DNA by a bacteriophage virus into the host bacterium).[1] In transformation, the genetic material passes through the intervening medium, and uptake is completely dependent on the recipient bacterium.[1]
+
+As of 2014 about 80 species of bacteria were known to be capable of transformation, about evenly divided between Gram-positive and Gram-negative bacteria; the number might be an overestimate since several of the reports are supported by single papers.[1]
+
+"Transformation" may also be used to describe the insertion of new genetic material into nonbacterial cells, including animal and plant cells; however, because "transformation" has a special meaning in relation to animal cells, indicating progression to a cancerous state, the process is usually called "transfection".
+Researchers in molecular biology use specific techniques native to molecular biology but increasingly combine these with techniques and ideas from genetics and biochemistry. There is not a defined line between these disciplines. The figure to the right is a schematic that depicts one possible view of the relationships between the fields:[3]
+
+Biochemistry is the study of the chemical substances and vital processes occurring in live organisms. Biochemists focus heavily on the role, function, and structure of biomolecules. The study of the chemistry behind biological processes and the synthesis of biologically active molecules are examples of biochemistry.[4]
+Genetics is the study of the effect of genetic differences on organisms. This can often be inferred by the absence of a normal component (e.g. one gene). The study of "mutants" – organisms which lack one or more functional components with respect to the so-called "wild type" or normal phenotype. Genetic interactions (epistasis) can often confound simple interpretations of such "knockout" studies.[5]
+Molecular biology is the study of molecular underpinnings of the processes of replication, transcription, translation, and cell function. The central dogma of molecular biology where genetic material is transcribed into RNA and then translated into protein, despite being an oversimplified picture of molecular biology, still provides a good starting point for understanding the field. This picture, however, is undergoing revision in light of emerging novel roles for RNA.
+One of the most basic techniques of molecular biology to study protein function is molecular cloning. In this technique, DNA coding for a protein of interest is cloned using PCR and/or restriction enzymes into a plasmid ( expression vector). A vector has 3 distinctive features: an origin of replication, a multiple cloning site (MCS), and a selective marker usually antibiotic resistance. The origin of replication will have promoter regions upstream from the replication/transcription start site. This plasmid can be inserted into either bacterial or animal cells. Introducing DNA into bacterial cells can be done by transformation via uptake of naked DNA, conjugation via cell-cell contact or by transduction via viral vector. Introducing DNA into eukaryotic cells, such as animal cells, by physical or chemical means is called transfection. Several different transfection techniques are available, such as calcium phosphate transfection, electroporation, microinjection and liposome transfection. The plasmid may be integrated into the genome, resulting in a stable transfection, or may remain independent of the genome, called transient transfection.[6][7]
+
+DNA coding for a protein of interest is now inside a cell, and the protein can now be expressed. A variety of systems, such as inducible promoters and specific cell-signaling factors, are available to help express the protein of interest at high levels. Large quantities of a protein can then be extracted from the bacterial or eukaryotic cell. The protein can be tested for enzymatic activity under a variety of situations, the protein may be crystallized so its tertiary structure can be studied, or, in the pharmaceutical industry, the activity of new drugs against the protein can be studied.
+DNA is a long polymer made from repeating units called nucleotides.[8][9] The structure of DNA is dynamic along its length, being capable of coiling into tight loops, and other shapes.[10] In all species it is composed of two helical chains, bound to each other by hydrogen bonds. Both chains are coiled round the same axis, and have the same pitch of 34 ångströms (3.4 nanometres). The pair of chains has a radius of 10 ångströms (1.0 nanometre).[11] According to another study, when measured in a different solution, the DNA chain measured 22 to 26 ångströms wide (2.2 to 2.6 nanometres), and one nucleotide unit measured 3.3 Å (0.33 nm) long.[12] Although each individual nucleotide repeating unit is very small, DNA polymers can be very large molecules containing millions to hundreds of millions of nucleotides. For instance, the DNA in the largest human chromosome, chromosome number 1, consists of approximately 220 million base pairs[13] and would be 85 mm long if straightened.
+
+In living organisms, DNA does not usually exist as a single molecule, but instead as a pair of molecules that are held tightly together.[14][15] These two long strands entwine like vines, in the shape of a double helix. The nucleotide contains both a segment of the backbone of the molecule (which holds the chain together) and a nucleobase (which interacts with the other DNA strand in the helix). A nucleobase linked to a sugar is called a nucleoside and a base linked to a sugar and one or more phosphate groups is called a nucleotide. A polymer comprising multiple linked nucleotides (as in DNA) is called a polynucleotide.[16]
+
+The backbone of the DNA strand is made from alternating phosphate and sugar residues.[17] The sugar in DNA is 2-deoxyribose, which is a pentose (five-carbon) sugar. The sugars are joined together by phosphate groups that form phosphodiester bonds between the third and fifth carbon atoms of adjacent sugar rings. These asymmetric bonds mean a strand of DNA has a direction. In a double helix, the direction of the nucleotides in one strand is opposite to their direction in the other strand: the strands are antiparallel. The asymmetric ends of DNA strands are said to have a directionality of five prime (5') and three prime (3'), with the 5' end having a terminal phosphate group and the 3' end a terminal hydroxyl group. One major difference between DNA and RNA is the sugar, with the 2-deoxyribose in DNA being replaced by the alternative pentose sugar ribose in RNA.[15]
+
+
+A section of DNA. The bases lie horizontally between the two spiraling strands.[18] (animated version).
+The DNA double helix is stabilized primarily by two forces: hydrogen bonds between nucleotides and base-stacking interactions among aromatic nucleobases.[19] In the aqueous environment of the cell, the conjugated p bonds of nucleotide bases align perpendicular to the axis of the DNA molecule, minimizing their interaction with the solvation shell. The four bases found in DNA are adenine (A), cytosine (C), guanine (G) and thymine (T). These four bases are attached to the sugar-phosphate to form the complete nucleotide, as shown for adenosine monophosphate. Adenine pairs with thymine and guanine pairs with cytosine. It was represented by A-T base pairs and G-C base pairs.[20][21]
+
+Nucleobase classification
+The nucleobases are classified into two types: the purines, A and G, being fused five- and six-membered heterocyclic compounds, and the pyrimidines, the six-membered rings C and T.[15] A fifth pyrimidine nucleobase, uracil (U), usually takes the place of thymine in RNA and differs from thymine by lacking a methyl group on its ring. In addition to RNA and DNA, many artificial nucleic acid analogues have been created to study the properties of nucleic acids, or for use in biotechnology.[22]
+
+Uracil is not usually found in DNA, occurring only as a breakdown product of cytosine. However, in several bacteriophages, Bacillus subtilis bacteriophages PBS1 and PBS2 and Yersinia bacteriophage piR1-37, thymine has been replaced by uracil.[23] Another phage - Staphylococcal phage S6 - has been identified with a genome where thymine has been replaced by uracil.[24]
+
+Base J (beta-d-glucopyranosyloxymethyluracil), a modified form of uracil, is also found in several organisms: the flagellates Diplonema and Euglena, and all the kinetoplastid genera.[25] Biosynthesis of J occurs in two steps: in the first step, a specific thymidine in DNA is converted into hydroxymethyldeoxyuridine; in the second, HOMedU is glycosylated to form J.[26] Proteins that bind specifically to this base have been identified.[27][28][29] These proteins appear to be distant relatives of the Tet1 oncogene that is involved in the pathogenesis of acute myeloid leukemia.[30] J appears to act as a termination signal for RNA polymerase.

@@ -1,0 +1,1631 @@
+Chemistry is a branch of physical science that studies the composition, structure, properties and change of matter.[1][2] Chemistry includes topics such as the properties of individual atoms, how atoms form chemical bonds to create chemical compounds, the interactions of substances through intermolecular forces that give matter its general properties, and the interactions between substances through chemical reactions to form different substances.
+
+Chemistry is sometimes called the central science because it bridges other natural sciences, including physics, geology and biology.[3][4] For the differences between chemistry and physics see comparison of chemistry and physics.[5]
+
+The history of chemistry can be traced to alchemy, which had been practiced for several millennia in various parts of the world.
+
+Matter
+Main article: Matter
+In chemistry, matter is defined as anything that has rest mass and volume (it takes up space) and is made up of particles. The particles that make up matter have rest mass as well - not all particles have rest mass, such as the photon. Matter can be a pure chemical substance or a mixture of substances.[51]
+
+Atom
+
+A diagram of an atom based on the Rutherford model
+The atom is the basic unit of chemistry. It consists of a dense core called the atomic nucleus surrounded by a space called the electron cloud. The nucleus is made up of positively charged protons and uncharged neutrons (together called nucleons), while the electron cloud consists of negatively charged electrons which orbit the nucleus. In a neutral atom, the negatively charged electrons balance out the positive charge of the protons. The nucleus is dense; the mass of a nucleon is appromixately 1,836 times that of an electron, yet the radius of an atom is about 10,000 times that of its nucleus.[52][53]
+
+The atom is also the smallest entity that can be envisaged to retain the chemical properties of the element, such as electronegativity, ionization potential, preferred oxidation state(s), coordination number, and preferred types of bonds to form (e.g., metallic, ionic, covalent).
+
+Element
+
+Standard form of the periodic table of chemical elements. The colors represent different categories of elements
+Main article: Chemical element
+A chemical element is a pure substance which is composed of a single type of atom, characterized by its particular number of protons in the nuclei of its atoms, known as the atomic number and represented by the symbol Z. The mass number is the sum of the number of protons and neutrons in a nucleus. Although all the nuclei of all atoms belonging to one element will have the same atomic number, they may not necessarily have the same mass number; atoms of an element which have different mass numbers are known as isotopes. For example, all atoms with 6 protons in their nuclei are atoms of the chemical element carbon, but atoms of carbon may have mass numbers of 12 or 13.[53]
+
+The standard presentation of the chemical elements is in the periodic table, which orders elements by atomic number. The periodic table is arranged in groups, or columns, and periods, or rows. The periodic table is useful in identifying periodic trends.[54]
+
+Compound
+
+Carbon dioxide (CO2), an example of a chemical compound
+Main article: Chemical compound
+A compound is a pure chemical substance composed of more than one element. The properties of a compound bear little similarity to those of its elements.[55] The standard nomenclature of compounds is set by the International Union of Pure and Applied Chemistry (IUPAC). Organic compounds are named according to the organic nomenclature system.[56] The names for Inorganic compounds are created according to the inorganic nomenclature system. When a compound has more than one component, then they are divided into two classes, the electropositive and the electronegative components.[57] In addition the Chemical Abstracts Service has devised a method to index chemical substances. In this scheme each chemical substance is identifiable by a number known as its CAS registry number.
+
+Molecule
+Main article: Molecule
+
+A ball-and-stick representation of the caffeine molecule (C8H10N4O2).
+A molecule is the smallest indivisible portion of a pure chemical substance that has its unique set of chemical properties, that is, its potential to undergo a certain set of chemical reactions with other substances. However, this definition only works well for substances that are composed of molecules, which is not true of many substances (see below). Molecules are typically a set of atoms bound together by covalent bonds, such that the structure is electrically neutral and all valence electrons are paired with other electrons either in bonds or in lone pairs.
+
+Thus, molecules exist as electrically neutral units, unlike ions. When this rule is broken, giving the "molecule" a charge, the result is sometimes named a molecular ion or a polyatomic ion. However, the discrete and separate nature of the molecular concept usually requires that molecular ions be present only in well-separated form, such as a directed beam in a vacuum in a mass spectrometer. Charged polyatomic collections residing in solids (for example, common sulfate or nitrate ions) are generally not considered "molecules" in chemistry. Some molecules contain one or more unpaired electrons, creating radicals. Most radicals are comparatively reactive, but some, such as nitric oxide (NO) can be stable.
+
+
+A 2-D skeletal model of a benzene molecule (C6H6)
+The "inert" or noble gas elements (helium, neon, argon, krypton, xenon and radon) are composed of lone atoms as their smallest discrete unit, but the other isolated chemical elements consist of either molecules or networks of atoms bonded to each other in some way. Identifiable molecules compose familiar substances such as water, air, and many organic compounds like alcohol, sugar, gasoline, and the various pharmaceuticals.
+
+However, not all substances or chemical compounds consist of discrete molecules, and indeed most of the solid substances that make up the solid crust, mantle, and core of the Earth are chemical compounds without molecules. These other types of substances, such as ionic compounds and network solids, are organized in such a way as to lack the existence of identifiable molecules per se. Instead, these substances are discussed in terms of formula units or unit cells as the smallest repeating structure within the substance. Examples of such substances are mineral salts (such as table salt), solids like carbon and diamond, metals, and familiar silica and silicate minerals such as quartz and granite.
+
+One of the main characteristics of a molecule is its geometry often called its structure. While the structure of diatomic, triatomic or tetra atomic molecules may be trivial, (linear, angular pyramidal etc.) the structure of polyatomic molecules, that are constituted of more than six atoms (of several elements) can be crucial for its chemical nature.
+
+Substance and mixture
+Cín.pngSulfur-sample.jpg
+Diamants maclés 2(République d'Afrique du Sud).jpgSugar 2xmacro.jpg
+Sal (close).jpgSodium bicarbonate.jpg
+Examples of pure chemical substances. From left to right: the elements tin (Sn) and sulfur (S), diamond (an allotrope of carbon), sucrose (pure sugar), and sodium chloride (salt) and sodium bicarbonate (baking soda), which are both ionic compounds.
+A chemical substance is a kind of matter with a definite composition and set of properties.[58] A collection of substances is called a mixture. Examples of mixtures are air and alloys.[59]
+
+Mole and amount of substance
+Main article: Mole
+The mole is a unit of measurement that denotes an amount of substance (also called chemical amount). The mole is defined as the number of atoms found in exactly 0.012 kilogram (or 12 grams) of carbon-12, where the carbon-12 atoms are unbound, at rest and in their ground state.[60] The number of entities per mole is known as the Avogadro constant, and is determined empirically to be approximately 6.022×1023 mol-1.[61] Molar concentration is the amount of a particular substance per volume of solution, and is commonly reported in moldm-3.[62]
+
+Phase
+
+Example of phase changes
+Main article: Phase
+In addition to the specific chemical properties that distinguish different chemical classifications, chemicals can exist in several phases. For the most part, the chemical classifications are independent of these bulk phase classifications; however, some more exotic phases are incompatible with certain chemical properties. A phase is a set of states of a chemical system that have similar bulk structural properties, over a range of conditions, such as pressure or temperature.
+
+Physical properties, such as density and refractive index tend to fall within values characteristic of the phase. The phase of matter is defined by the phase transition, which is when energy put into or taken out of the system goes into rearranging the structure of the system, instead of changing the bulk conditions.
+
+Sometimes the distinction between phases can be continuous instead of having a discrete boundary, in this case the matter is considered to be in a supercritical state. When three states meet based on the conditions, it is known as a triple point and since this is invariant, it is a convenient way to define a set of conditions.
+
+The most familiar examples of phases are solids, liquids, and gases. Many substances exhibit multiple solid phases. For example, there are three phases of solid iron (alpha, gamma, and delta) that vary based on temperature and pressure. A principal difference between solid phases is the crystal structure, or arrangement, of the atoms. Another phase commonly encountered in the study of chemistry is the aqueous phase, which is the state of substances dissolved in aqueous solution (that is, in water).
+
+Less familiar phases include plasmas, Bose–Einstein condensates and fermionic condensates and the paramagnetic and ferromagnetic phases of magnetic materials. While most familiar phases deal with three-dimensional systems, it is also possible to define analogs in two-dimensional systems, which has received attention for its relevance to systems in biology.
+
+Bonding
+Main article: Chemical bond
+
+An animation of the process of ionic bonding between sodium (Na) and chlorine (Cl) to form sodium chloride, or common table salt. Ionic bonding involves one atom taking valence electrons from another (as opposed to sharing, which occurs in covalent bonding)
+Atoms sticking together in molecules or crystals are said to be bonded with one another. A chemical bond may be visualized as the multipole balance between the positive charges in the nuclei and the negative charges oscillating about them.[63] More than simple attraction and repulsion, the energies and distributions characterize the availability of an electron to bond to another atom.
+
+A chemical bond can be a covalent bond, an ionic bond, a hydrogen bond or just because of Van der Waals force. Each of these kinds of bonds is ascribed to some potential. These potentials create the interactions which hold atoms together in molecules or crystals. In many simple compounds, valence bond theory, the Valence Shell Electron Pair Repulsion model (VSEPR), and the concept of oxidation number can be used to explain molecular structure and composition.
+
+An ionic bond is formed when a metal loses one or more of its electrons, becoming a positively charged cation, and the electrons are then gained by the non-metal atom, becoming a negatively charged anion. The two oppositely charged ions attract one another, and the ionic bond is the electrostatic force of attraction between them. For example, sodium (Na), a metal, loses one electron to become an Na+ cation while chlorine (Cl), a non-metal, gains this electron to become Cl-. The ions are held together due to electrostatic attraction, and that compound sodium chloride (NaCl), or common table salt, is formed.
+
+
+In the methane molecule (CH4), the carbon atom shares a pair of valence electrons with each of the four hydrogen atoms. Thus, the octet rule is satisfied for C-atom (it has eight electrons in its valence shell) and the duet rule is satisfied for the H-atoms (they have two electrons in their valence shells).
+In a covalent bond, one or more pairs of valence electrons are shared by two atoms: the resulting electrically neutral group of bonded atoms is termed a molecule. Atoms will share valence electrons in such a way as to create a noble gas electron configuration (eight electrons in their outermost shell) for each atom. Atoms that tend to combine in such a way that they each have eight electrons in their valence shell are said to follow the octet rule. However, some elements like hydrogen and lithium need only two electrons in their outermost shell to attain this stable configuration; these atoms are said to follow the duet rule, and in this way they are reaching the electron configuration of the noble gas helium, which has two electrons in its outer shell.
+
+Similarly, theories from classical physics can be used to predict many ionic structures. With more complicated compounds, such as metal complexes, valence bond theory is less applicable and alternative approaches, such as the molecular orbital theory, are generally used. See diagram on electronic orbitals.
+
+Energy
+Main article: Energy
+In the context of chemistry, energy is an attribute of a substance as a consequence of its atomic, molecular or aggregate structure. Since a chemical transformation is accompanied by a change in one or more of these kinds of structures, it is invariably accompanied by an increase or decrease of energy of the substances involved. Some energy is transferred between the surroundings and the reactants of the reaction in the form of heat or light; thus the products of a reaction may have more or less energy than the reactants.
+
+A reaction is said to be exergonic if the final state is lower on the energy scale than the initial state; in the case of endergonic reactions the situation is the reverse. A reaction is said to be exothermic if the reaction releases heat to the surroundings; in the case of endothermic reactions, the reaction absorbs heat from the surroundings.
+
+Chemical reactions are invariably not possible unless the reactants surmount an energy barrier known as the activation energy. The speed of a chemical reaction (at given temperature T) is related to the activation energy E, by the Boltzmann's population factor {\displaystyle e^{-E/kT}} e^{-E/kT}  - that is the probability of a molecule to have energy greater than or equal to E at the given temperature T. This exponential dependence of a reaction rate on temperature is known as the Arrhenius equation. The activation energy necessary for a chemical reaction to occur can be in the form of heat, light, electricity or mechanical force in the form of ultrasound.[64]
+
+A related concept free energy, which also incorporates entropy considerations, is a very useful means for predicting the feasibility of a reaction and determining the state of equilibrium of a chemical reaction, in chemical thermodynamics. A reaction is feasible only if the total change in the Gibbs free energy is negative, {\displaystyle \Delta G\leq 0\,}  \Delta G \le 0 \,; if it is equal to zero the chemical reaction is said to be at equilibrium.
+
+There exist only limited possible states of energy for electrons, atoms and molecules. These are determined by the rules of quantum mechanics, which require quantization of energy of a bound system. The atoms/molecules in a higher energy state are said to be excited. The molecules/atoms of substance in an excited energy state are often much more reactive; that is, more amenable to chemical reactions.
+
+The phase of a substance is invariably determined by its energy and the energy of its surroundings. When the intermolecular forces of a substance are such that the energy of the surroundings is not sufficient to overcome them, it occurs in a more ordered phase like liquid or solid as is the case with water (H2O); a liquid at room temperature because its molecules are bound by hydrogen bonds.[65] Whereas hydrogen sulfide (H2S) is a gas at room temperature and standard pressure, as its molecules are bound by weaker dipole-dipole interactions.
+
+The transfer of energy from one chemical substance to another depends on the size of energy quanta emitted from one substance. However, heat energy is often transferred more easily from almost any substance to another because the phonons responsible for vibrational and rotational energy levels in a substance have much less energy than photons invoked for the electronic energy transfer. Thus, because vibrational and rotational energy levels are more closely spaced than electronic energy levels, heat is more easily transferred between substances relative to light or other forms of electronic energy. For example, ultraviolet electromagnetic radiation is not transferred with as much efficacy from one substance to another as thermal or electrical energy.
+
+The existence of characteristic energy levels for different chemical substances is useful for their identification by the analysis of spectral lines. Different kinds of spectra are often used in chemical spectroscopy, e.g. IR, microwave, NMR, ESR, etc. Spectroscopy is also used to identify the composition of remote objects - like stars and distant galaxies - by analyzing their radiation spectra.
+
+
+Emission spectrum of iron
+The term chemical energy is often used to indicate the potential of a chemical substance to undergo a transformation through a chemical reaction or to transform other chemical substances.
+
+Reaction
+Main article: Chemical reaction
+
+During chemical reactions, bonds between atoms break and form, resulting in different substances with different properties. In a blast furnace, iron oxide, a compound, reacts with carbon monoxide to form iron, one of the chemical elements, and carbon dioxide.
+When a chemical substance is transformed as a result of its interaction with another substance or with energy, a chemical reaction is said to have occurred. A chemical reaction is therefore a concept related to the "reaction" of a substance when it comes in close contact with another, whether as a mixture or a solution; exposure to some form of energy, or both. It results in some energy exchange between the constituents of the reaction as well as with the system environment, which may be designed vessels—often laboratory glassware.
+
+Chemical reactions can result in the formation or dissociation of molecules, that is, molecules breaking apart to form two or more smaller molecules, or rearrangement of atoms within or across molecules. Chemical reactions usually involve the making or breaking of chemical bonds. Oxidation, reduction, dissociation, acid-base neutralization and molecular rearrangement are some of the commonly used kinds of chemical reactions.
+
+A chemical reaction can be symbolically depicted through a chemical equation. While in a non-nuclear chemical reaction the number and kind of atoms on both sides of the equation are equal, for a nuclear reaction this holds true only for the nuclear particles viz. protons and neutrons.[66]
+
+The sequence of steps in which the reorganization of chemical bonds may be taking place in the course of a chemical reaction is called its mechanism. A chemical reaction can be envisioned to take place in a number of steps, each of which may have a different speed. Many reaction intermediates with variable stability can thus be envisaged during the course of a reaction. Reaction mechanisms are proposed to explain the kinetics and the relative product mix of a reaction. Many physical chemists specialize in exploring and proposing the mechanisms of various chemical reactions. Several empirical rules, like the Woodward–Hoffmann rules often come in handy while proposing a mechanism for a chemical reaction.
+
+According to the IUPAC gold book, a chemical reaction is "a process that results in the interconversion of chemical species."[67] Accordingly, a chemical reaction may be an elementary reaction or a stepwise reaction. An additional caveat is made, in that this definition includes cases where the interconversion of conformers is experimentally observable. Such detectable chemical reactions normally involve sets of molecular entities as indicated by this definition, but it is often conceptually convenient to use the term also for changes involving single molecular entities (i.e. 'microscopic chemical events').
+
+Ions and salts
+
+The crystal lattice structure of potassium chloride (KCl), a salt which is formed due to the attraction of K+ cations and Cl- anions. Note how the overall charge of the ionic compound is zero.
+Main article: Ion
+An ion is a charged species, an atom or a molecule, that has lost or gained one or more electrons. When an atom loses an electron and thus has more protons than electrons, the atom is a positively charged ion or cation. When an atom gains an electron and thus has more electrons than protons, the atom is a negatively charged ion or anion. Cations and anions can form a crystalline lattice of neutral salts, such as the Na+ and Cl- ions forming sodium chloride, or NaCl. Examples of polyatomic ions that do not split up during acid-base reactions are hydroxide (OH-) and phosphate (PO43-).
+
+Plasma is composed of gaseous matter that has been completely ionized, usually through high temperature.
+
+Acidity and basicity
+
+When hydrogen bromide (HBr), pictured, is dissolved in water, it forms the strong acid hydrobromic acid
+Main article: Acid–base reaction
+A substance can often be classified as an acid or a base. There are several different theories which explain acid-base behavior. The simplest is Arrhenius theory, which states than an acid is a substance that produces hydronium ions when it is dissolved in water, and a base is one that produces hydroxide ions when dissolved in water. According to Brønsted–Lowry acid–base theory, acids are substances that donate a positive hydrogen ion to another substance in a chemical reaction; by extension, a base is the substance which receives that hydrogen ion.
+
+A third common theory is Lewis acid-base theory, which is based on the formation of new chemical bonds. Lewis theory explains that an acid is a substance which is capable of accepting a pair of electrons from another substance during the process of bond formation, while a base is a substance which can provide a pair of electrons to form a new bond. According to this theory, the crucial things being exchanged are charges.[68] There are several other ways in which a substance may be classified as an acid or a base, as is evident in the history of this concept.[69]
+
+Acid strength is commonly measured by two methods. One measurement, based on the Arrhenius definition of acidity, is pH, which is a measurement of the hydronium ion concentration in a solution, as expressed on a negative logarithmic scale. Thus, solutions that have a low pH have a high hydronium ion concentration, and can be said to be more acidic. The other measurement, based on the Brønsted–Lowry definition, is the acid dissociation constant (Ka), which measures the relative ability of a substance to act as an acid under the Brønsted–Lowry definition of an acid. That is, substances with a higher Ka are more likely to donate hydrogen ions in chemical reactions than those with lower Ka values.
+
+Redox
+Main article: Redox
+Redox (reduction-oxidation) reactions include all chemical reactions in which atoms have their oxidation state changed by either gaining electrons (reduction) or losing electrons (oxidation). Substances that have the ability to oxidize other substances are said to be oxidative and are known as oxidizing agents, oxidants or oxidizers. An oxidant removes electrons from another substance. Similarly, substances that have the ability to reduce other substances are said to be reductive and are known as reducing agents, reductants, or reducers.
+
+A reductant transfers electrons to another substance, and is thus oxidized itself. And because it "donates" electrons it is also called an electron donor. Oxidation and reduction properly refer to a change in oxidation number—the actual transfer of electrons may never occur. Thus, oxidation is better defined as an increase in oxidation number, and reduction as a decrease in oxidation number.
+
+Equilibrium
+Main article: Chemical equilibrium
+Although the concept of equilibrium is widely used across sciences, in the context of chemistry, it arises whenever a number of different states of the chemical composition are possible, as for example, in a mixture of several chemical compounds that can react with one another, or when a substance can be present in more than one kind of phase.
+
+A system of chemical substances at equilibrium, even though having an unchanging composition, is most often not static; molecules of the substances continue to react with one another thus giving rise to a dynamic equilibrium. Thus the concept describes the state in which the parameters such as chemical composition remain unchanged over time.
+Analytical chemistry is the analysis of material samples to gain an understanding of their chemical composition and structure. Analytical chemistry incorporates standardized experimental methods in chemistry. These methods may be used in all subdisciplines of chemistry, excluding purely theoretical chemistry.
+Biochemistry is the study of the chemicals, chemical reactions and chemical interactions that take place in living organisms. Biochemistry and organic chemistry are closely related, as in medicinal chemistry or neurochemistry. Biochemistry is also associated with molecular biology and genetics.
+Inorganic chemistry is the study of the properties and reactions of inorganic compounds. The distinction between organic and inorganic disciplines is not absolute and there is much overlap, most importantly in the sub-discipline of organometallic chemistry.
+Materials chemistry is the preparation, characterization, and understanding of substances with a useful function. The field is a new breadth of study in graduate programs, and it integrates elements from all classical areas of chemistry with a focus on fundamental issues that are unique to materials. Primary systems of study include the chemistry of condensed phases (solids, liquids, polymers) and interfaces between different phases.
+Neurochemistry is the study of neurochemicals; including transmitters, peptides, proteins, lipids, sugars, and nucleic acids; their interactions, and the roles they play in forming, maintaining, and modifying the nervous system.
+Nuclear chemistry is the study of how subatomic particles come together and make nuclei. Modern Transmutation is a large component of nuclear chemistry, and the table of nuclides is an important result and tool for this field.
+Organic chemistry is the study of the structure, properties, composition, mechanisms, and reactions of organic compounds. An organic compound is defined as any compound based on a carbon skeleton.
+Physical chemistry is the study of the physical and fundamental basis of chemical systems and processes. In particular, the energetics and dynamics of such systems and processes are of interest to physical chemists. Important areas of study include chemical thermodynamics, chemical kinetics, electrochemistry, statistical mechanics, spectroscopy, and more recently, astrochemistry.[71] Physical chemistry has large overlap with molecular physics. Physical chemistry involves the use of infinitesimal calculus in deriving equations. It is usually associated with quantum chemistry and theoretical chemistry. Physical chemistry is a distinct discipline from chemical physics, but again, there is very strong overlap.
+Theoretical chemistry is the study of chemistry via fundamental theoretical reasoning (usually within mathematics or physics). In particular the application of quantum mechanics to chemistry is called quantum chemistry. Since the end of the Second World War, the development of computers has allowed a systematic development of computational chemistry, which is the art of developing and applying computer programs for solving chemical problems. Theoretical chemistry has large overlap with (theoretical and experimental) condensed matter physics and molecular physics.
+Other disciplines within chemistry are traditionally grouped by the type of matter being studied or the kind of study. These include inorganic chemistry, the study of inorganic matter; organic chemistry, the study of organic (carbon-based) matter; biochemistry, the study of substances found in biological organisms; physical chemistry, the study of chemical processes using physical concepts such as thermodynamics and quantum mechanics; and analytical chemistry, the analysis of material samples to gain an understanding of their chemical composition and structure. Many more specialized disciplines have emerged in recent years, e.g. neurochemistry the chemical study of the nervous system (see subdisciplines).
+
+Other fields include agrochemistry, astrochemistry (and cosmochemistry), atmospheric chemistry, chemical engineering, chemical biology, chemo-informatics, electrochemistry, environmental chemistry, femtochemistry, flavor chemistry, flow chemistry, geochemistry, green chemistry, histochemistry, history of chemistry, hydrogenation chemistry, immunochemistry, marine chemistry, materials science, mathematical chemistry, mechanochemistry, medicinal chemistry, molecular biology, molecular mechanics, nanotechnology, natural product chemistry, oenology, organometallic chemistry, petrochemistry, pharmacology, photochemistry, physical organic chemistry, phytochemistry, polymer chemistry, radiochemistry, solid-state chemistry, sonochemistry, supramolecular chemistry, surface chemistry, synthetic chemistry, thermochemistry, and many others.
+
+Chemical industry
+Main article: Chemical industry
+The chemical industry represents an important economic activity worldwide. The global top 50 chemical producers in 2013 had sales of US$980.5 billion with a profit margin of 10.3%.[72]
+
+absolute zero – a theoretical condition concerning a system at zero Kelvin where a system does not emit or absorb energy (all atoms are at rest)
+absorbance -
+accuracy – how close a value is to the actual or true value; also see precision
+acid – a compound that, when dissolved in water, gives a pH of less than 7.0 or a compound that donates a hydrogen ion
+acid anhydride – a compound with two acyl groups bound to a single oxygen atom
+acid dissociation constant – an equilibrium constant for the dissociation of a weak acid
+actinides – the fifteen chemical elements that are between actinium (89) and lawrencium (103)
+activated complex – a structure that forms because of a collision between molecules while new bonds are formed
+activation energy – the minimum energy that must be input to a chemical system
+activity series
+actual yield
+addition reaction – within organic chemistry, when two or more molecules combine to make a larger one
+adhesion -
+aeration – the mixing of air into a liquid or solid
+alcohol -
+aldehyde -
+alkali metals – the metals of Group 1 on the periodic table
+alkaline earth metals – the metals of Group 2 on the periodic table
+alkane -
+alkene -
+alkyl group -
+alkyne -
+allomer – a substance that has different composition than another, but has the same crystalline structure
+allotropy – elements that can have different structures (and therefore different forms), such as Carbon (diamonds, graphite, and fullerene)
+amplitude – the maximum distance that the particles of the medium carrying the wave move away from their rest position
+anion – negatively charge ions
+anode – the positive side of a dry cell battery or a cell
+aromaticity – chemical property of conjugated rings that results in unusual stability. See also benzene.
+atom – a chemical element in its smallest form, and is made up of neutrons and protons within the nucleus and electrons circling the nucleus
+atomic mass unit
+atomic number – the number representing an element which corresponds with the number of protons within the nucleus
+atomic orbital – the region where the electron of the atom may be found
+atomic radius
+average atomic mass
+Avogadro's law
+Avogadro's number – is the number of particles in a mole of a substance (6.02×1023)
+B[edit]
+barometer – a device used to measure the pressure in the atmosphere
+base – a substance that accepts a proton and has a high pH; a common example is sodium hydroxide (NaOH)
+base anhydride – oxides of group I and II metal elements
+beat – a slow oscillation in amplitude of a complex wave
+Beer-Lambert law -
+biochemistry – the chemistry of organisms
+Bohr model -
+boiling – the phase transition of liquid vaporizing
+boiling point – the temperature in which the substance starts to boil
+boiling-point elevation – the process where the boiling point is elevated by adding a substance
+bond – the attraction and repulsion between atoms and molecules that is a cornerstone of chemistry
+Boyle's law – for a given mass of gas at constant temperature, the volume varies inversely with the pressure
+Bragg's law -
+Brønsted-Lowrey acid – A chemical species that donates a proton
+Brønsted–Lowry acid–base reaction -
+Brønsted-Lowrey base – A chemical species that accepts a proton
+buckminsterfullerene -
+buffered solution – An aqueous solution consisting of a weak acid and its conjugate base or a weak base and its conjugate acid that resists changes in pH when strong acids or bases are added
+bumping -
+burette (also buret) – glassware used to dispense specific amounts of liquid when precision is necessary (e.g. titration and resource dependent reactions)
+C[edit]
+
+An example of combustion
+calorimeter -
+catalyst – a chemical (element or compound) used to speed up a reaction, but is regenerated at the end of the reaction.
+cation – positively charged ion
+centrifugation -
+centrifuge – equipment used to separate substances based on density by rotating the tubes around a centred axis
+cell potential – the force in a galvanic cell that pulls electron through reducing agent to oxidizing agent
+chain reaction -
+Charles's law -
+chelation -
+chemical formula -
+chemical law – certain rules that pertain to the laws of nature and chemistry – examples
+chemical reaction – the change of one or more substances into another or multiple substances
+closed system -
+colligative properties -
+colloid – mixture of evenly dispersed substances, such as many milks
+combustion – an exothermic reaction between an oxidant and fuel with heat and often light
+compression – an area in a longitudinal wave where the particles are closer and pushed in
+compound – a substance that is made up of two or more chemically bonded elements
+condensation – the phase change from gas to liquid
+conductor – material that allows electric flow more freely
+conjugate acid -
+conjugated system -
+cooling curve -
+covalent bond – chemical bond that involves sharing electrons
+crest – the highest point in a wave
+crystal – a solid that is packed with ions, molecules or atoms in an orderly fashion
+cuvette – glassware used in spectroscopic experiments. It is usually made of plastic, glass or quartz and should be as clean and clear as possible
+D[edit]
+Dalton's law of partial pressures -
+deionization – the removal of ions, and in water's case mineral ions such as sodium, iron and calcium
+deliquescence – substances that absorb water from the atmosphere to form liquid solutions
+density – The amount of mass per unit volume. d = m/V
+deposition – settling of particles within a solution or mixture
+diffusion -
+dipolar bond -
+dipole – electric or magnetic separation of charge
+dipole moment – the polarity of a polar covalent bond
+dissolution or solvation – the spread of ions in a monosaccharide
+double bond – sharing of two pairs of electrons (in a covalent bond)
+diatomic-consistent of two atoms
+E[edit]
+
+Microcentrifuge or Eppendorf tube with Coomassie Blue solution
+earth metal – see alkaline earth metal
+electrolyte – a solution that conducts a certain amount of current and can be split categorically as weak and strong electrolytes
+electrochemical cell – using a chemical reaction's current, electromotive force is made
+electromagnetic radiation – a type of wave that can go through vacuums as well as material and classified as a self-propagating wave
+electromagnetism – fields that have electric charge and electric properties that change the way that particles move and interact
+electromotive force – a device that gains energy as electric charges pass through it
+electron – a subatomic particle with a net charge that is negative
+electron shells – an orbital around the atom's nucleus that has a fixed number electrons (usually two or eight)
+electric charge – a measured property (coulombs) that determine electromagnetic interaction
+element – an atom that is defined by its atomic number
+energy – A system's ability to do work
+enthalpy – measure of the total energy of a thermodynamic system (usually symbolized as H)
+entropy – the amount of energy not available for work in a closed thermodynamic system (usually symbolized as S)
+enzyme – a protein that speeds up (catalyses) a reaction
+Empirical formula – also called the simplest formula, gives the simplest whole -number ratio of atoms of each element present in a compound.
+eppendorf tube – generalized and trademarked term used for a type of tube; see microcentrifuge
+exothermic process -
+extrinsic property -
+F[edit]
+freezing – phase transition from liquid to solid
+Faraday constant – a unit of electrical charge widely used in electrochemistry and equal to ~ 96,500 coulombs.
+It represents 1 mol of electrons, or the Avogadro number of electrons: 6.022 × 1023 electrons. F = 96 485.339 9(24) C/mol
+Faraday's laws of electrolysis – a two part law that Michael Faraday published about electrolysis
+the mass of a substance altered at an electrode during electrolysis is directly proportional to the quantity of electricity transferred at that electrode
+the mass of an elemental material altered at an electrode is directly proportional to the element's equivalent weight.
+Fick's laws of diffusion -
+frequency – number of cycles per unit of time. Unit: 1 hertz = 1 cycle per 1 second
+G[edit]
+Galvanic cell – battery made up of electrochemical with two different metals connected by salt bridge
+gas – particles that fill their container though have no definite shape or volume
+Gay-Lussac's Law – The expression Gay-Lussac's law is used for each of the two relationships named after the French chemist Joseph Louis Gay-Lussac and which concern the properties of gases, though it is more usually applied to his law of combining volumes
+geochemistry – the chemistry of and chemical composition of the Earth
+Gibbs energy – value that indicates the spontaneity of a reaction (usually symbolized as G)
+"gram-atom"-one gram atom of an element means collection of 6.023X10^23 atoms
+group – the elements in a column of the periodic table. A family of elements
+H[edit]
+halogens – Group 17 on the Periodic Table and are all non-metals
+hadron – a subatomic particle of a type including the baryons and mesons that can take part in the strong interaction
+heat – energy transferred from one system to another by thermal interaction
+Henry's law -
+Hess's law -
+Hund's rules -
+I[edit]
+ideal gas -
+ideal gas law – the volume of a gas is proportional to the amount of gas and its Kelvin temperature and inversely proportional to its pressure
+indicator – a special compound added to solution that changes color depending on the acidity of the solution; different indicators have different colors and effective pH ranges
+induced radioactivity – radioactivity caused by bombarding a stable isotope with elemental particles, forming a radioactive isotope
+inorganic compound – compounds that do not contain carbon, though there are exceptions (see main article)
+inorganic chemistry – a part of chemistry concerned with inorganic compounds
+IUPAC – International Union of Pure and Applied Chemistry
+insulator – material that resists the flow of electric current
+intrinsic property -
+ion – a molecule that has gained or lost one or more electrons
+ionic bond – electrostatic attraction between oppositely charged ions
+ionization -The breaking up of a compound into separate ions.
+J[edit]
+Joule – The SI unit of energy, defined as a newton-meter.
+K[edit]
+kelvin – A unit of measure for temperature based upon an absolute scale.
+ketone – an organic compound with a carbonyl group between two carbon atoms
+Kinetics – A sub-field of chemistry specializing in reaction rates
+Kinetic energy – The energy of an object due to its motion.
+L[edit]
+lanthanides – Elements 57 through 71
+lattice – Unique arrangement of atoms or molecules in a crystalline liquid or solid.
+Laws of thermodynamics
+Lewis acid -
+Lewis base -
+liquid – A state of matter in which cohesive force is less than or equal to the separating force.
+light – Portion of the electromagnetic spectrum which is visible to the naked eye. Also called "visible light."
+London dispersion forces – A weak intermolecular force
+laws of motion – An object in motion stays in motion; an object at rest stays at rest unless an unbalanced force acts on it.
+
+
+M[edit]
+magnetic quantum number -
+malleability – the ability of a metal to be harmered into different shapes
+manometer - Instrument to measure pressure, invented by Evangelista Torricelli in 1643.
+mass -
+mass concentration -
+mass fraction -
+metal – Chemical element that is a good conductor of both electricity and heat and forms cations and ionic bonds with non-metals.
+melting – The phase change from a solid to a liquid
+metalloid – A substance possessing both the properties of metals and non-metals
+methylene blue – a heterocyclic aromatic chemical compound with the molecular formula C16H18N3SCl
+microcentrifuge – a small plastic container that is used to store small amounts of liquid
+molar attenuation coefficient -
+molar mass -
+mole – abbreviated mol – a measurement of an amount of substance; a single mole contains approximately 6.022×1023 units or entities
+a mole of water contains 6.022×1023 H2O molecules
+molecular formula -
+molecular orbital – region where an electron can be found in a molecule (as opposed to an atom)
+molecular orbital diagram -
+molecule – a chemically bonded number of atoms that are electrically neutral
+N[edit]
+neat – conditions with a liquid reagent or gas performed with no added solvent or cosolvent
+neutron – a neutral unit or subatomic particle that has no net charge
+neutrino – a particle that can travel at speeds close to the speed of light and are created as a result of radioactive decay
+nucleus – the centre of an atom made up of neutrons and protons, with a net positive charge
+noble gases – group 18 elements, those whose outer electron shell is filled
+non-metal – an element which is not metallic
+nuclear – of or pertaining to the atomic nucleus
+nuclear magnetic resonance spectroscopy – technique that exploits the magnetic properties of certain nuclei, useful for identifying unknown compounds
+number density – a measure of concentration of countable objects (atoms, molecules, etc.) in space; number per volume
+O[edit]
+orbital – may refer to either an atomic orbital or a molecular orbital
+organic compound – compounds that contain carbon
+organic chemistry – a part of chemistry concerned with organic compounds
+organic redox reaction -
+oxidation -
+oxidation state -
+oxidizing agent -
+P[edit]
+pH – the measure of acidity (or basicity) of a solution
+Passivation (chemistry)
+plasma – state of matter similar to gas in which a certain portion of the particles are ionized
+other metal – metallic elements in the p-block, characterized by having a combination of relatively low melting points (all less than 950 K) and relatively high electronegativity values (all more than 1.6, revised Pauling)
+potential energy – energy stored in a body or in a system due to its position in a force field or due to its configuration
+precipitate – formation of a solid in a solution or inside another solid during a chemical reaction or by diffusion in a solid
+precision – How close the results of multiple experimental trials are. See also accuracy.
+photon – a carrier of electromagnetic radiation of all wavelength (such as gamma rays and radio waves)
+proton – a positive unit or subatomic particle that has a positive charge
+protonation – the addition of a proton (H+) to an atom, molecule, or ion
+Q[edit]
+Quantum mechanics – the study of how atoms, molecules, subatomic particles, etc. behave and are structured
+quarks – elementary particle and a fundamental constituent of matter
+quanta- It is the minimum amount of bundle of energy
+R[edit]
+radiation – energy in the form of waves or subatomic particles when there is a change from high energy to low energy states
+radioactive decay – the process of an unstable atomic nucleus losing energy by emitting radiation
+Raoult's law -
+reactivity series -
+reagent -
+redox -
+reducing agent -
+reduction potential -
+S[edit]
+s-block elements – Group 1 and 2 elements (alkali and alkaline metals), which includes Hydrogen and Helium
+salts – ionic compounds composed of anions and cations
+salt bridge – devices used to connection reduction with oxidation half-cells in an electrochemical cell
+saline solution – general term for NaCl in water
+Schrödinger equation – quantum state equation which represents the behaviour of an election around an atom
+semiconductor – an electrically conductive solid that is between a conductor and an insulator
+single bond – sharing of one pair of electrons
+sol – a suspension of solid particles in liquid. Artificial examples include sol-gels.
+solid – one of the states of matter, where the molecules are packed close together, there is a resistance of movement/deformation and volume change; see Young's modulus
+solute – the part of the solution that is mixed into the solvent (NaCl in saline water)
+solution – homogeneous mixture made up of multiple substances. It is made up of solutes and solvents.
+solvent – the part of the solution that dissolves the solute (H2O in saline water)
+spectrochemistry -
+spectroscopy – study of radiation and matter, such as X-ray absorption and emission spectroscopy
+speed of light – the speed of anything that has zero rest mass (Energyrest = mc² where m is the mass and c is the speed of light)
+Standard conditions for temperature and pressure or SATP – a standardisation used in order compare experimental results (25 °C and 100.000 kPa)
+state of matter – matter having a homogeneous, macroscopic phase; gas, plasma, liquid, and solid are the most well known (in increasing concentration)
+structural formula -
+sublimation – a phase transition from solid to limewater fuel or gas
+subatomic particles – particles that are smaller than an atom; examples are protons, neutrons and electrons
+substance – material with definite chemical composition
+T[edit]
+
+Phase diagram showing the triple and critical points of a substance
+talc – a mineral representing the one on the Mohs Scale and composed of hydrated magnesium silicate with the chemical formula H2Mg3(SiO3)4 or Mg3Si4O10(OH)2
+temperature – the average energy of microscopic motions of particles
+theoretical yield – see yield
+theory – a model describing the nature of a phenomenon
+thermal conductivity – a property of a material to conduct heat (often noted as {\displaystyle k} k)
+thermochemistry – the study of absorption/release of heat within a chemical reaction
+thermodynamics – the study of the effects of changing temperature, volume or pressure (or work, heat, and energy) on a macroscopic scale
+thermodynamic stability – when a system is in its lowest energy state with its environment (equilibrium)
+thermometer – device that measures the average energy of a system
+titration – the process of titrating one solution with another, also called volumetric analysis
+torr – a unit to measure pressure (1 Torr is equivalent to 133.322 Pa or 1.3158×10-3 atm)
+transition metal – elements that have incomplete d sub-shells, but also may be referred to as the d-block elements
+transuranic element – element with atomic number greater than 92; none of the transuranic elements are stable
+triple bond – the sharing of three pairs of electrons within a covalent bond (example N2)
+triple point – the place where temperature and pressure of three phases are the same (Water has a special phase diagram)
+Tyndall effect – the effect of light scattering by colloidal (mixture where one substance is dispersed evenly through another) or suspended particles
+U[edit]
+UN number – a four digit code used to note hazardous and flammable substances
+uncertainty – a characteristic that any measurement that involves estimation of any amount cannot be exactly reproducible
+Uncertainty principle – knowing the location of a particle makes the momentum uncertain, while knowing the momentum of a particle makes the location uncertain
+unit cell – the smallest repeating unit of a lattice
+unit factor – statements used in converting between units
+universal or ideal gas constant – proportionality constant in the ideal gas law (0.08206 L·atm/(K·mol))
+V[edit]
+valence electron – the outermost electrons of an atom, which are located in electron shells
+Valence bond theory – a theory explaining the chemical bonding within molecules by discussing valencies, the number of chemical bonds formed by an atom
+valency – The combining capacity of an element.
+van der Waals force – one of the forces (attraction/repulsion) between molecules
+van 't Hoff factor – ratio of moles of particles in solution to moles of solute dissolved
+vapor – when a substance is below the critical temperature while in the gas phase
+vapour pressure – pressure of vapour over a liquid at equilibrium
+vaporization – phase change from liquid to gas
+viscosity – the resistance of a liquid to flow (oil)
+volt – one joule of work per coulomb – the unit of electrical potential transferred
+voltmeter – instrument that measures the cell potential
+volumetric analysis – see titration
+W[edit]
+water – H2O – a chemical substance, a major part of cells and Earth, and covalently bonded
+wave function – a function describing the electron's position in a three-dimensional space
+work – the amount of force over distance and is in terms of joules (energy)
+X[edit]
+X-ray – form of ionizing, electromagnetic radiation, between gamma and UV rays
+X-ray diffraction – a method for establishing structures of crystalline solids using singe wavelength X-rays and looking at diffraction pattern
+X-ray photoelectron spectroscopy – a spectroscopic technique to measure composition of a material
+Y[edit]
+yield – the amount of product produced during a chemical reaction
+Z[edit]
+zone melting – a way to remove impurities from an element by melting it and slowly travel down an ingot (cast)
+Zwitterion – is a chemical compound whose net charge is zero and hence is electrically neutral. But there are some positive and negative charges in it, due to the formal charge, owing to the partial charges of its constituent atoms.
+zinc-an element or a metal with symbol Zn
+
+A
+acid
+any substance capable of giving up a proton; a substance that ionizes in solution to give the positive ion of the solvent; a solution with a pH measurement less than 7.
+acidity
+the quantitative capacity of aqueous solutions to react with hydroxyl ions. It is measured by titration with a standard solution of base to a specified end point.
+acre-foot
+the volume of water, 43,560 cubic feet, that will cover an area of one acre to a depth of one foot; a term used in sewage treatment in measuring the volume of material in a trickling filter.
+activated sludge process
+removes organic matter from sewage by saturating it with air and microbial organisms.
+activation
+treatment of a substance by heat, radiation, or activating reagent to produce a more complete or rapid chemical or physical change.
+advanced waste treatment
+any treatment method or process employed following biological treatment (1) to reduce pollution load (2) to remove substances that may be harmful to receiving waters or the environment (3) to produce a high-quality effluent suitable for reuse in any specific manner or for discharge under critical conditions. The term tertiary treatment is commonly used to denote advanced waste treatment methods.
+adsorption
+the adhesion of an extremely thin layer solid, liquid, or vapor molecules to the surface of a solid or liquid.
+aerobic
+living or occurring only in the presence of oxygen.
+aerobic biological oxidation
+any waste treatment process or other process utilizing aerobic organisms, in the presence of air or oxygen, as the agent for reducing pollution load, oxygen demand, or the amount of organic substance in waste. The term is used in reference to secondary treatment of wastes.
+alcohol
+Any class of organic compounds containing the hydroxyl group, OH. Specifically, the term is applied to ethyl alcohol (C2H5OH).
+algaecide
+chemical agent added to water to destroy algae.
+alkalinity
+the capacity of water to neutralize acids, a property imparted by the water's content of carbonate, bicarbonate, hydroxide, and on occasion borate, silicate, and phosphate. It is expressed in milligrams per liter of equivalent calcium carbonate (mg/l CaCO3).
+alternating current (ac)
+current that reverses its direction at regular intervals, such as a common 115 volt circuit.
+alum
+technically, a double sulfate of ammonium or a univalent or trivalent metal but commonly used to denote aluminum sulfate (Al2(SO4)3.
+amines
+a class of organic compounds of nitrogen that may be considered as derived from ammonia (NH3) by replacing one or more of the hydrogen atoms by organic radicals, such as CH3 or C6H5, as in methylamine and aniline. The former is a gas at ordinary temperature and pressure, but other amines are liquids or solids. All amines are basic in nature and usually combine readily with hydrochloric or other strong acids to form salts.
+anaerobic
+living or occurring only in the absence of free oxygen.
+anaerobic biological treatment
+any waste treatment process utilizing anaerobic or facultative organisms in the absence of air to reduce the organic matter in water.
+anaerobic waste treatment
+(sludge processing) waste stabilization brought about through the action of microorganisms in the absence of air or elemental oxygen.
+anhydrous
+a term meaning without water.
+angstrom
+a unit of length, used especially in expressing the length of light waves, equal to one ten-thousandth of a micron, or one hundredth-millionth of a centimeter (1 x 10E-8 cm).
+anion
+ion having a negative charge; an atom with extra electrons. Atoms of non-metals, in solution, become anions.
+aquifer
+a subsurface geological structure that contains water.
+atom
+the smallest particle of an element which can exist alone or enter into a chemical combination.
+atomic absorption
+quantitative chemical method used for the analysis of elemental constituents.
+atomic mass
+the mass of an atom expressed in atomic mass units (amu); the total number of protons and neutrons in the nucleus.
+atomic mass unit (amu)
+a unit of mass equal to 1/12 the mass of the carbon isotope with mass number 12, approximately 1.6604 x 10E-24 gram.
+atomic number
+the number of protons in the nucleus of an atom.
+atomic weight
+the average weight of an atom of an element, usually expressed relative to one atom of the carbon isotope taken to have a standard weight of 12.
+autooxidation
+oxidation caused by the atmosphere; an oxidation reaction that is self-catalyzed and spontaneous; an oxidation reaction begun only by an inductor.
+Back to top
+B
+backflow prevention
+a system designed to protect potable water from wastewater contamination which could occur if wastewater pressure exceeds potable water pressure over a cross-connection where one or more check valves fail.
+backsiphonage
+the backflow of contaminated or polluted water, from a plumbing fixture or cross-connection into a water supply line, due to a lowering of the pressure in the line.
+backwashing
+the process of cleaning a rapid sand or mechanical filter by reversing the flow of water.
+bacteria
+any of numerous unicellular microorganisms of the class Schizomycetes, occurring in a wide variety of forms, existing either as free-living organisms or parasites, and having a wide range of biochemical, often pathogenic properties. Some bacteria are capable of causing human, animal or plant diseases; others are essential in pollution control because they break-down organic matter in air and water.
+bacterial examination
+the examination of water and wastewater to determine the presence, number, and identification of bacteria. Also called bacterial analysis.
+banks, sludge
+accumulations of solid, sewage, or industrial waste deposits on the bed of a waterway.
+base
+any substance which contains hydroxyl (OH) groups and furnishes hydroxide ions in solution; a molecular or ionic substance capable of combining with a proton to form a new substance; a substance that provides a pair of electrons for a covalent bond with an acid; a solution with a pH of greater than 7.
+bioassay
+an assay method using a change in biological activity as a qualitative or quantitative means of analyzing a material response to industrial waste and other wastewater by using viable organisms or live fish as test organisms.
+biochemical oxygen demand (BOD)
+the quantity of oxygen used in the biochemical oxidation of organic matter in a specified time, at a specified temperature, and under specified conditions; standard test used in assessing wastewater biological oxygen demand.
+biocides
+chemical agents with the capacity to kill biological life forms. Bactericides, insecticides, pesticides, etc. are examples.
+biodegradability
+the susceptibility of a substance to decomposition by microorganisms; specifically, the rate at which compounds may be chemically broken down by bacteria and/or natural environmental factors.
+biological wastewater treatment
+forms of wastewater treatment in which bacterial or biochemical action is intensified to stabilize, oxidize, and nitrify the unstable organic matter present. Intermittent sand filters, contact beds, trickling filters, and activated sludge processes are examples.
+biomonitoring
+the use of living organisms to test the suitability of effluent for discharge into receiving waters and to test the quality of such waters downstream from a discharge.
+blowdown
+removal of liquids and/or solids from a process vessel or storage vessel or line by the use of pressure; often used to remove materials which, in high concentrations, could cause damage to the vessel or line, or exceed limits established by best engineering practices.
+blowoff
+a controlled outlet on a pipeline, tank, or conduit which is used to discharge water or accumulations of material carried by the water.
+breakdown
+failure of insulator or insulating medium to prevent discharge or current flow.
+british thermal unit (btu)
+the quantity of heat necessary to raise the temperature of 1 pound of water by 1 oF.
+buffer
+a solution selected or prepared to minimize changes in hydrogen ion concentration which would otherwise occur as a result of a chemical reaction..
+bulking agent
+a fine, solid material which is sometimes added to a wastewater stream to produce clarification or coagulation by adding bulk to the solids.
+Back to top
+C
+cake, sludge
+the material resulting from air drying or dehydrating sludge.
+calibration
+the checking, adjusting, or systematic standardizing of the graduations of a quantitative measuring instrument.
+calorie
+the quantity of heat necessary to raise the temperature of 1 gram of water 1 oC at 1 atmosphere pressure.
+catalyst
+a substance that alters the velocity of a chemical reaction and may be recovered essentially unaltered in form and amount at the end of the reaction.
+cation
+a positively charged atom or group of atoms, or a radical which moves to the negative pole (cathode) during electrolysis.
+caustic
+capable of destroying or eating away by chemical action; a hydroxide of a light metal.
+caustic soda
+sodium hydroxide, NaOH.
+chemical analysis
+the use of a standard chemical analytical procedures to determine the concentration of a specific analyte in a sample, or qualitatively or quantitatively measure a specific parameter of a sample.
+chemical coagulation
+the destabilization and initial aggregation of colloidal and finely divided suspended matter by the addition of a floc-forming chemical.
+chemical oxygen demand
+the amount of oxygen required for the chemical oxidation of organics in a liquid; a chemical test that determines the oxygen equivalent of the amount of organic matter oxidizable by potassium dichromate in a 50% sulfuric acid solution.
+chemical precipitation
+(1) the process of utilizing chemicals to produce a separable solid phase within a liquid medium; in analytical chemistry, precipitation is used to separate a solid phase in an aqueous solution. (2) the process of softening water by the addition of lime and soda ash as the precipitants.
+chlorination
+the addition of chlorine to water or wastewater, generally for the purpose of disinfecting, but frequently done to achieve other biological or chemical results.
+chlorination break point
+the addition of chlorine to water, sewage, or industrial waste containing free ammonia to the point where free residual chlorine is available.
+chlorination, free residual
+the addition of chlorine to water, sewage or industrial wastes to produce, directly or through the destruction of ammonia or certain organic nitrogenous compounds, a free available chlorine residual.
+chlorine, available
+the quantity of chlorine released by a bleaching powder when treated with acid.
+chlorine, combined available residual
+that portion of the total residual chlorine remaining in water, sewage or industrial waste at the end of a specified contact period, which will react chemically and biologically as chloramines or organic chloramines.
+chlorine demand
+the quantity of chlorine absorbed by wastewater (or water) in a given length of time.
+chlorine, total residual
+free residual chlorine plus combined residual chlorine.
+circuit
+a path through which an electrical current can flow when the path is complete.
+clarification
+the composite wastewater treatment process consisting of flash mixing of coagulants, pH adjusting chemicals, and/or polyelectrolytes, flocculation, and sedimentation.
+clarifier
+a unit which provides for settling and removal of solids from wastewater.
+coagulation
+the clumping of particles in order to settle out impurities; often induced by chemicals such as lime or alum.
+coliform organisms
+any of a number of organisms whose presence in wastewater is an indicator of pollution and of potentially dangerous bacterial contamination.
+complexing
+the use of chelating or sequestering agents to form relatively loose chemical bonding as a means of treating certain pollutants such as nickel, copper, and cobalt.
+compound
+two of more elements combined; a substance having different properties than of the elements used.
+concentrated
+being of full strength, or undiluted.
+concentration
+in solutions, the mass, volume, or number of moles of solute present in proportion to the amount of solvent or total solution Common measures are: molarity, normality, percent, molality, and by specific gravity scales.
+condensate
+water obtained by evaporation or a product that has changed from a gaseous or vaporous form to a liquid form.
+conductance
+a measure of the conducting power of a solution equal to the reciprocal of the resistance. The resistance is expressed in ohms.
+conductivity
+ability of a material to carry current or heat.
+contact coagulation
+a water clarification process which involves the addition of a coagulant with appropriate mixing for the purpose of floc formation within a filter media, which will be periodically back-flushed to permit the separation of the resulting solids from the main wastewater stream.
+contamination
+a general term signifying the introduction into water of microorganisms, chemicals, wastes or sewage which renders the water unfit for its intended use.
+cooling tower
+a device for cooling water through a combination of sensing and evaporative heat transfer. Water passes over a number a wooden or plastic racks known as “fill”, that act as a heat-transfer surface.
+current
+a movement of electrons through a conductor. Measured in amperes.
+Back to top
+D
+decant
+to remove the liquid portion of a settled mixture without disturbing the sediment.
+dechlorination process
+a process by which excess chlorine is removed from water to a desired level. Usually accomplished by chemical reduction, by passage through carbon beds or by aeration at a suitable pH.
+degradable
+that which can be reduced, broken down or chemically separated.
+degreasing
+the process of removing greases and oils from sewage, waste, and sludge.
+demineralization
+removal from water of mineral contaminants. Methods include ion exchange, flash distillation, electrodialysis, or reverse osmosis.
+detention time
+the time allowed for solids to collect in a settling tank. Theoretically detention time is equal to the volume of the tank divided by the flow rate.
+dew point
+the temperature at which the condensation of a vapor begins; the term is usually applied to condensation of moisture from the water vapor in the atmosphere.
+dialysis
+the separation of a colloid from a substance in solution by allowing the solution to diffuse through a semipermeable membrane.
+diatomaceous earth
+a filter medium used for filtration of effluents from secondary and tertiary treatments, particularly when a very high grade of water for reuse in certain industrial purposes is required; used as an absorbant for oils and oily emulsions in some wastewater treatment designs; also used historically in preparing standard suspensions for turbidity measurements.
+digestion
+the biochemical decomposition of organic matter which results in the formation of mineral compounds and simple organic compounds.
+DI water
+deionized water, having had all the ions removed.
+diluent
+the thinning agent used to dilute a fluid, usually water.
+dilute
+to thin out, or having been thinned out; less than full strength.
+diode
+a component that readily passes current in one direction but opposes current flow in the opposite direction.
+direct current (dc)
+a non-oscillating current that flows continually in one direction through a circuit
+disinfection
+effective killing by chemical or physical processes of all organisms capable of causing infectious disease. Chlorination is the disinfection method commonly employed in sewage-treatment processes.
+dissolved oxygen (DO)
+the oxygen dissolved in sewage, water, or other liquid, usually expressed in milligrams per liter or percent of saturation. It is the test used in BOD determination. dissolved solids: the total amount of dissolved material, organic and inorganic, contained in water or wastewater. Excessive dissolved solids make water unpalatable for drinking and unsuitable for industrial use. Measurements are expressed as ppm or mg/L.
+distillation
+the process of heating a liquid to its boiling point, removing the vapors through a cooling and condensing apparatus, and finally collecting the condensed liquid in a separate receiver. It is commonly used for the separation of two or more liquids in a mixture, or for the separation of the solvent from dissolved substances.
+distilled water
+water that has been purified by distillation (boiling the water off as steam and condensing it back to a liquid, leaving the impurities behind). Having been boiled, it is also sterile.
+Back to top
+E
+edta titration (edta)
+ethylenediaminetetraacetic acid (or its salts). A standard method of measuring the hardness of a solution
+effluent
+a liquid that has passed through a processing operation.
+effluent limitation
+any restriction (including schedules of compliance) established by a state or EPA on quantities, rates, and concentrations of chemical, physical, biological, and other constituents which are discharged from point sources into navigable water, the waters of the contiguous zone, or the ocean.
+electron
+the sub-atomic particle, with a negative charge, that orbits the nucleus of an atom.
+element
+a substance that cannot be resolved into two or more other substances; a substance made up of atoms with the same atomic number.
+emulsion
+a liquid system in which one liquid is finely dispersed in another liquid in such a manner that the two will not separate through the action of gravity alone.
+end point
+that stage in the titration at which an effect, such as a color change, occurs, indicating that a desired point in the titration has been reached.
+enrichment
+the addition of nitrogen, phosphorous, and carbonaceous compounds, or other nutrients into a lake or other waterway that greatly increases the growth potential for algae and other aquatic plants. Most frequently, enrichment results from the inflow of sewage effluents or from agricultural runoff.
+Back to top
+F
+facultative
+having the power to live under different conditions either with or without oxygen.
+fats (wastes)
+triglyceride-esters of fatty acids. Erroneously used as synonymous with grease.
+filtration
+the process of separating solids from a liquid by means of a porous substance through which only the liquid can pass.
+filter backwash
+the reversal of flow though a filter to wash clogged material out of the filter medium and reduce conditions causing loss in flow through the filter.
+floatation
+the process of removing finely divided particles from a liquid suspension by agitating the liquid with gas bubbles thus increasing the buoyancy of the particles, and concentrating them at the surface of the liquid medium.
+floc
+a very fine, fluffy mass formed by the aggregation of fine suspended particles.
+flocculation
+the process of separating suspended solids from wastewater by chemical creation of a coagulated, or flocculent masses.
+flowrate
+usually expressed as liters/minute (gallons/minute) or liters/day. Design flowrate is that used to size the wastewater treatment process. Peak flowrate is 1.5 to 2.5 times design and relates to the hydraulic flow limit and is specified for each plant.
+fluid
+a substance which yields readily to any force which tends to alter its shape; fluids possess no definite shape; the term includes both liquids and gases.
+flux
+a material used to promote joining of metals in soldering.
+formazin
+a polymer suspension used as the standard for turbidity.
+formazin nephelometric unit (FNU)
+an industry standard unit measurement used in the European Union, equivalent to NTU.
+formazin turbidity unit (FTU)
+a measure of water turbidity equivalent, but not equal, to Jackson Turbidity Units (JTU).
+formula
+an expression of chemical composition, using symbols and figures.
+FNU
+see formazin nephelometric unit.
+FTU
+see formazin turbidity unit.
+fuse
+a protective device containing a short piece of wire that melts and breaks when current through it exceeds a rated value, thus de-energizing the circuit.
+Back to top
+G
+gas
+a fluid having neither independent shape nor volume, but tending to expand indefinitely. The word is often used to denote anesthetics, combustibles (gasoline), poisonous materials, etc., whether liquid or solids at ordinary temperatures.
+grab sample
+a single sample of wastewater taken at neither set time nor flow.
+group
+a family of elements with similar chemical properties, represented by a vertical column in the periodic table.
+ground wire
+a conductor leading from electrical equipment to a low resistance connection with the earth.
+Back to top
+H
+hardness
+a characteristic of water, imparted by salts of calcium, magnesium, and iron, such as bicarbonates, carbonates, sulfates, chlorides, and nitrates that cause curdling of soap, deposition of scale in boilers, damage in some industrial process, and sometimes objectionable taste. It may be determined by a standard laboratory procedure or computed from the amounts of calcium and magnesium as well as iron, aluminum, manganese, barium, strontium, and zinc; expressed as equivalent parts per million of calcium carbonate.
+heavy metals
+a general term given to the ions of metallic elements such as copper, zinc, chromium, and aluminum. They are removed from wastewater by forming an insoluble precipitate (usually a metallic hydroxide).
+hertz (Hz)
+in electrical/electronic applications with alternating current, a unit of frequency where 1 Hz equals one cycle per second.
+hot (circuit)
+connected, alive, energized.
+hydrocarbon
+a chemical compound containing only hydrogen and carbon; the largest source of hydrocarbons comes from petroleum crude oil.
+hydrogenation
+the infusing of unsaturated or impure hydrocarbons with hydrogen gas at controlled temperatures and pressures for the purpose of obtaining saturated hydrocarbons and/or removing various impurities such as sulfur and nitrogen.
+hydrogen ion concentration
+the normality of a solution with respect to hydrogen ions, H+; it is related to acidity measurements in most cases by the equation pH= log 1/2[1/(H+)] where H+ is the hydrogen ion concentration in gram equivalents per liter of solution.
+hydroxyl radical
+an oxygen and hydrogen atom occurring as a group (OH-).
+Back to top
+I
+impedance
+total opposition to flow of current, measured in ohms; combined effort of resistance, inductance, and capacitance.
+incineration
+the combustion of organic matter in wastewater sludge solids after water evaporation from the solids.
+indicator
+a compound that changes color at a particular pH, or over a particular narrow range of pH, used to show titration end points.
+influent
+sewage, water or other liquid, either raw or partly treated, flowing into a reservoir basin, or treatment plant or any part thereof.
+ion
+an isolated electron or positron; an atom or molecule which by loss or gain of one or more electrons has acquired a net electric charge.
+ion exchange
+a chemical reaction in which mobile hydrated ions of a solid are exchanged, equivalent for equivalent, for ions of like charge in solution. The process can be used to remove ionic pollutants from wastewater.
+ionization
+a process by which a neutral atom or molecule loses or gains electrons, thereby acquiring a net charge and becoming an ion; occurs as the result of the dissociation of the atoms of a molecule in solution or of a gas in an electric field.
+isomer
+chemical compound that has the same number, and kinds of atoms as another compound, but a different structural arrangement of the atoms.
+Back to top
+J
+jackson turbidity unit (JTU)
+a measure of the turbidity of water, proportional to the ppm silica, where 100 ppm silica equals 21.5 JTU. This method was the standard for turbidity for many years; it applied the use of a candle, measuring tube, and the human eye for determining the value. This method has since been replaced by the use of a known turbidity standard, Formazin, and the use of analytical instruments that will detect forward-scattered light and light scattered at 90 degrees.
+JTU
+see jackson turbidity unit.
+Back to top
+K
+(empty)
+
+Back to top
+L
+lagoon
+in wastewater treatment, a shallow pond where sunlight, bacterial action, and oxygen interact to restore wastewater to a reasonable state of purity.
+lime
+any of a family of chemicals consisting essentially of calcium hydroxide made from limestone (calcite) which is composed mostly of calcium carbonate or a mixture of calcium carbonate and magnesium carbonate.
+limnology
+the study of the physical, chemical, meteorological and biological aspects of fresh water.
+Back to top
+M
+manometer
+an instrument for measuring pressure liquids and gasses. It usually consists of a U-shaped tube containing a liquid, the surface of which is in one end of the tube; moves proportionally with changes in pressure on the liquid in the other end. Also, a tube type differential pressure gauge.
+mass
+the quantity of matter in a body as measured by its resistance to a change in acceleration; different but proportional to weight.
+mass number
+the total number of protons and neutrons in an atomic nucleus.
+meniscus
+the curved upper surface of a non-turbulent liquid in a container; it is concave (curves upward) if it wets the container walls, and convex (curves downward) if it does not. For accurate measurements, readings should be taken at the flat center of the meniscus.
+micro
+a prefix meaning one-millionth of a unit.
+microorganism
+organisms (microbes) observable only through a microscope; larger, visible types are called macroorganisms.
+milligrams per liter (mg/l)
+this is a weight per volume designation used in water and wastewater analysis. 1mg/L = 1ppm.
+molal
+a solution concentration having a mole of solute per 1,000 grams of solvent, usually water.
+molality
+a measure of solution concentration expressed in moles of solute per 1,000 grams of solvent.
+molar
+a solution concentration having one mole of solute per liter of solution.
+molarity
+a measure of solution concentration expressed in moles of solute per liter of solution.
+mole
+an amount of a substance weighing the number of grams equal to the total atomic weight in one molecule (or atom). Equivalent to gram-atomic, gram-molecular, and gram-formula weights.
+molecular weight
+the sum of the atomic weights of all the atoms in a molecule.
+molecule
+the simplest structural unit of a substance that retains the properties of the substance, and is composed of one or more atoms.
+most probable number (MPN)
+that number of organisms per unit volume that, in accordance with statistical theory, would be more likely than any other number to be yielded with the greatest frequency in a specific test. Expressed as density of organisms per 100 ml. Results are computed from the number of positive findings of coliform-group organisms resulting from multiple-portion decimal-dilution plantings.
+Back to top
+N
+nephelometer
+an instrument that measures scattered light in a liquid.
+nephelometric turbidity unit (NTU)
+a standard unit of turbidity measurement, equivalent to FNU.
+neutralization
+chemical addition of either acid or base to a solution such that the pH is adjusted to 7.
+neutron
+an uncharged sub-atomic particle, with a mass nearly equal to that of a proton. Present in the nucleus of all atoms except hydrogen.
+nitrification
+the conversion of nitrogenous matter or free nitrogen into nitrates and ammonia by bacteria.
+non-ionic surfactants
+a general family of surfactants so called because in solution the entire molecule remains associated. Non-ionic molecules orient themselves at surfaces not by an electrical charge, but through separate grease-solublizing and water-soluble groups within the molecule.
+nonsettleable matter
+the suspended matter which neither settles nor floats to the surface of water in a period of one hour.
+nonsettleable solids
+wastewater matter that will stay in suspension for an extended period of time. Such period may be arbitrarily taken for testing purposes as one hour.
+normal
+a solution concentration of one gram equivalent per liter of solution.
+normality
+a measure of solution concentration expressed in equivalent weights of solute per liter of solution.
+NTU
+see nephelometric turbidity unit.
+nutrients
+materials which are considered essential to the support of biological life.
+Back to top
+O
+ohm
+a unit of electrical resistance equal to that of a conductor in which a current of one ampere is produced by a potential of one volt across its terminals.
+organic matter
+chemical compounds based on carbon chains or rings, and also containing hydrogen with or without oxygen, nitrogen, or other compounds.
+organic nitrogen
+nitrogen combined in organic molecules such as protein, amines, and amino acids.
+orthophosphate
+an acid or salt containing phosphorus as PO4, such as K3PO4 (potassium phosphate).
+oxidant
+a chemical agent that oxidizes.
+oxidation
+in a broad sense oxidation is the increase in positive valence of any element in a substance. On the basis of the electron theory, oxidation is a process in which an element loses electrons. In a narrow sense, oxidation means the chemical addition of oxygen to a substance.
+ozone
+oxygen in molecular form with three atoms of oxygen forming each molecule (O3). Atmospheric oxygen is molecular in form but each molecule contains only two atoms of oxygen. Ozone is formed by passing high voltage electric charges through dry air. The third atom of oxygen in each molecule of ozone is loosely bound and is easily released, thus making it a powerful oxidant; used to purify water and treat industrial wastes.
+Back to top
+P
+parts per million (ppm)
+the unit commonly used to represent the degree of pollutant concentration where the concentrations are small. Larger concentrations are given in percentages. 1ppm = 1mg/L. In BOD analysis, the results are expressed in ppm, whereas in the suspended solids test, the values are expressed in percents. In air, ppm is usually a volume/volume ratio; in water, ppm represents a weight/volume ratio.
+pathogenic bacteria
+bacteria which may cause disease in the organisms by their parasitic growth.
+period
+a series of elements, arranged in order of atomic number represented by a horizontal row on the Periodic Table.
+periodic table
+a table in which the elements are commonly arranged in order of increasing atomic number. Elements of similar properties are placed one under the other, yielding eight families or groups of elements. Within each group there is a gradation of chemical and physical properties, but in general a similarity of chemical behavior. From group to group, however, there is a progressive shift of chemical behavior from one end of the table to the other.
+pH
+the negative logarithm of the hydrogen ion concentration (-log10[H+]) where H+ is the hydrogen-ion concentration in moles per liter. Neutral water has a pH value of 7.
+pH adjustment
+a means of maintaining the optimum pH through the use of chemical additives.
+phenolphthalein alkalinity
+a measure of the hydroxides plus one-half of the normal carbonates in aqueous suspension. Measured by the amount of sulfuric acid required to bring the water to a pH value of 8.3, as indicated by a change in color of phenolphthalein. It is expressed in ppm of calcium carbonate (CaCO3).
+potable water
+water suitable for drinking or cooking purposes from both health and aesthetic considerations.
+prechlorination
+chlorination of water prior to filtration, or chlorination of sewage prior to treatment.
+precipitant
+a chemical or chemicals that cause a precipitate to form when added to a solution.
+precipitate
+the discrete particles of material separate from the liquid solution.
+precipitation, chemical
+to cause a solid substance to be separated (precipitate out) of a solution by the addition of chemical additives; the process of softening water by the addition of lime and soda ash as the precipitants.
+pretreatment
+any wastewater treatment process used to partially reduce pollution load before the wastewater is introduced into a main sewer system or delivered to a treatment plant; a substantial reduction of the pollution load.
+process, biological
+the process by which the life activities of bacteria, and other microorganisms in the search for food, break down complex organic material into simple, more stable substances. Self-purification of sewage, polluted streams, sludge digestion, and all so-called secondary sewage treatments result from this process. Also called biochemical process.
+process, oxidation
+any method of sewage treatment for the oxidation of the decomposable organic matter that brings about the decomposition of such matter. The usual methods are biological filtration, and activated sludge processes.
+proton
+a sub-atomic particle, positively charged, in the nucleus of atoms.
+putrefaction
+biological decomposition of organic matter accompanied by the production of a foul smell associated with anaerobic condition.
+Back to top
+Q
+quantitative analysis
+chemical determination of the amounts or proportions of constituents in a substance.
+Back to top
+R
+radical
+an atom or group of atoms with at least one unpaired electron.
+reagent
+a chemical substance used to cause a reaction for the purpose of chemical analysis.
+recorder
+a device that makes a graph or other automatic record of the stage, pressure, depth, velocity, or the movement or position of water controlling devices, usually as a function of time.
+reduction
+chemical reaction in which an atom or molecule gains an electron; decrease in positive valence; addition of hydrogen to a molecule.
+reduction treatment
+the opposite of oxidation treatment wherein a reductant is used to lower the valence state of a pollutant to a less toxic form; e.g. the use of SO2 to reduce Cr6+ to Cr3+ in an acidic solution.
+residual chlorine
+chlorine remaining in water or wastewater at the end of specified contact period as combined or free chlorine.
+resistance
+the opposition which a device or material offers to the flow of current; measured in ohms.
+resistor
+a component of an electrical circuit intended to offer resistance to electrical current flow.
+Back to top
+S
+salinity
+(1) the relative concentration of salts, usually sodium chloride, in a given water. It is usually expressed in terms of the number of ppm of chloride. (2) a measure of the concentration of dissolved mineral substances in water.
+salt
+any compound formed by combination of any negative ion (except hydroxide) with any positive ion (except hydrogen or hydronium); the precipitate produced as the result of neutralization of an acid with a base.
+saturated
+(1) in organics, a chemical compound with all carbon bonds satisfied; it does not contain double or triple bonds and thus cannot add elements or compounds. (2) in liquids, a solution that contains enough of a dissolved solid, liquid, or gas so that no more will dissolve into the solution at a given temperature and pressure.
+scale
+the precipitate that forms on surfaces in contact with water as the results of a physical or chemical change, often due to the presence of calcium carbonate (CaCO3) or magnesium carbonate (MgCO3).
+sedimentation
+the deposition of suspended matter carried by water, wastewater, or other liquids, by gravity. It is usually accomplished by reducing the velocity of the liquid below the point at which it can transport the suspended material. Also called settling.
+settleable solids
+particles of debris and fine matter heavy enough to settle out of wastewater.
+sewage
+the total of organic waste and wastewater generated by residential and commercial establishments.
+sewage, combined
+a sewage containing both sanitary sewage and surface or storm water with or without industrial wastes.
+sewage, dilute
+sewage containing less than 150 ppm of suspended solids and BOD (weak sewage).
+sewage, industrial
+sewage in which industrial wastes predominate.
+sewage, raw
+sewage prior to receiving any treatment.
+sewage, settled
+sewage from which most of the settleable solids have been removed by sedimentation.
+sewage, storm
+liquid flowing in sewers during or following a period of heavy rainfall.
+sludge
+the solids (and accompanying water and organic matter) which are separated from sewage or industrial wastewater in treatment plant facilities. Sludge separation and disposal is one of the major expenses in wastewater treatment operations.
+sludge conditioning
+a process employed to prepare sludge for final disposal, e.g., thickening, digesting, heat treatment or other procedures.
+sludge digestion
+the process by which organic or volatile matter in sludge is gasified, liquefied, mineralized, or converted into more stable organic matter through the activities of either anaerobic or aerobic organisms.
+sludge disposal
+the final disposal of solid wastes including the use of sewage sludge as fertilizers and soil builders, and fill for low-lying lands.
+sludge thickening
+the increase in solids concentrations of sludge in the sedimentation of digestion tank.
+slurry
+a watery mixture or suspension of solids.
+soda ash
+a common water treating chemical, sodium carbonate.
+softening
+the removal of hardness—calcium and magnesium—from water.
+solder
+an alloy of lead/tin used for making permanent electrical connections between parts and wire.
+solute
+the substance that is dissolved to form a solution.
+solution
+a liquid (solvent) that contains a dissolved substance (solute).
+solvent
+a liquid used to dissolve another substance.
+specific gravity
+a comparison by weight to an equal volume of pure water, at a standard temperature.
+standard (or standardized solution)
+a solution containing a known, precise concentration of an element or chemical compound, often used to calibrate analytical chemistry measurement devices.
+surface tension
+the property, due to molecular forces in the surface film, that tends to contract the liquid into a form having the least surface/volume ratio.
+surfactant
+a surface-active substance, such as a detergent or soap, that lowers the surface tension of a solvent (usually water).
+suspended matter
+(1) solids in suspension in water, wastewater or effluent. (2) solids in suspension that can be removed readily by standard filtering procedures in a laboratory.
+suspended solids
+(1) solids that either float on the surface of, or are in suspension in, water, wastewater, or other liquids, and which are largely removable by laboratory filtering. (2) the quantity of material removed from wastewater in a laboratory test, as prescribed in “Standard Methods” and referred to as nonfilterable residue.
+Back to top
+T
+tertiary treatment
+process utilized to remove practically all solids and organic matter from wastewater. Granular activated carbon filtration is a tertiary treatment process. Phosphate removal by chemical coagulation is also regarded as a step in tertiary treatment.
+thermistor
+a semiconductor whose resistance will vary with temperature.
+titration
+a method of analyzing the composition of a solution by adding known amounts of a standardized solution until a given reaction (color change, precipitation, or conductivity change) is produced.
+tracer
+(1) a foreign substance mixed with or attached to a given substance for the determination of the location or distribution of the substance. (2) an element or compound that has been made radioactive so that it can be easily followed (traced) in biological and industrial processes. Radiation emitted by the radioisotope pinpoints its location.
+treatment efficiency
+usually refers to the percentage reduction of a specific or group of pollutants by a specific wastewater treatment step or treatment plant.
+turbidimeter
+an instrument for measurement of turbidity in which a standard suspension is used for reference.
+turbidity
+(1) a condition in water or wastewater caused by the presence of suspended matter, resulting in the scattering and absorption of light rays. (2) a measure of fine suspended matter in liquids. (3) an analytical quantity usually reported in turbidity units (NTU/FNU, FTU, JTU) determined by measurements of light diffraction.
+Back to top
+U
+unsaturated
+any chemical compound with more than one bond between adjacent atoms, usually carbon, and thus reactive toward the addition of other atoms at that point; for example: olefins, diolefins, and unsaturated fatty acids.
+Back to top
+V
+valence
+the relative ability of a biological substance to react or combine; a positive number that characterizes the combining power of an element for other elements, as measured by the number of bonds to other atoms which one atom of the given element forms upon chemical combination – hydrogen is assigned valence 1, and the valence is the number of hydrogen atoms, or their equivalent, with which an atom of the given element combines.
+viscosity
+the resistance offered by a fluid (liquid or gas) to flow. The viscosity is a characteristic property and is a measure of the combined effects of adhesion and cohesion.
+volatile solids
+the quantity of solid in water, wastewater or other liquids, lost on ignition of the dry solids at 600 oC.
+voltage
+the electrical pressure (electromotive force) that makes current flow through a conductor.
+volume
+the space occupied in three dimensions.
+Back to top
+W
+washdown
+water resulting from cleaning of equipment, walls, floors, etc., within a plant.
+watt
+the practical unit of electrical power.
+wire gauge
+wire size, measured in diameter.
+Back to top
+X, Y, Z
+zeolite process
+an ion-exchange process for softening water. The zeolite exchanges sodium ions for hardness constituents (calcium, magnesium, etc.) in the water.
+a-carbon - An alpha carbon is the carbon in a molecule bonded to an atom or moiety of interest. a-carbon is the most common notation for the alpha carbon.
+
+a-hydrogen - a hydrogen atom bonded to the a-carbon in a molecule.
+
+
+ a-hydrogen is the most common notation for alpha hydrogen.
+
+Abegg's rule -Abegg's rule states the sum of the absolute values of the maximum positive and negative valence of an atom is often equal to eight.
+
+abhesive - a material that prevents two surfaces from sticking together.
+
+Antonym: adhesive
+
+Examples: Teflon is an abhesive material used to make frying pans non-stick.
+
+ab initio -Ab initio is Latin for "from first principles". Ab initio refers to predictions or calculations which are based entirely on theory as opposed to experimentation.
+
+ablation -the process of transferring heat by removing material by melting, vaporization or other erosive process.
+
+abrasive
+
+absolute alcohol
+
+absolute error
+
+absolute pressure - the gauge pressure plus atmospheric pressure.
+
+absolute temperature
+
+absolute uncertainty
+
+absolute vacuum - a volume of space containing no matter. Also Known As: perfect vacuum
+
+absolute zero - the lowest possible state at which matter can exist, 0 K or -273.15°C.
+
+absorbance
+
+absorbed dose - the amount of energy from radiation deposited or absorbed by an object per unit mass. The SI unit of absorbed dose is the Gray (Gy) or J/kg.
+
+absorption
+
+absorption cross section
+
+absorption spectroscopy
+
+absorption spectrum
+
+absorptivity - the absorption cross section or extinction coefficient.
+
+
+Absorptivity varies with wavelength and is defined as the absorbance of a solution per unit path length and concentration:
+
+a = A/(bc)
+
+where a is absorptivity, A is absorbance, b is path length, and c is the concentration
+
+abstraction - a chemical reaction where an atom or ion is removed from one molecule by a radical.
+
+Hydrogen abstraction is different from deprotonization. In abstraction, the hydrogen atom supplies an electron to the bonding where deprotonization, the base supplies both electrons in the bond.
+
+Example: Hydrogen abstraction of acetone by chlorine radical.
+
+CH4 + Cl- ? H3C- + HCl
+
+abundance ratio -  the ratio of the number of atoms of one isotope to the number of atoms of another isotope in the same sample.
+
+AC or A/C - refers to alternating current. AC or alternating current is an electric current that reverses its direction at regular intervals.
+
+accelerator - a substance that speeds up (accelerates) a chemical reaction. The term often is applied to polymerization. An accelerator can speed the vulcanization of rubber or cause it to occur at a lower temperature than normal. More generally, an accelerator can speed cross-linking of polymer subunits or cause polymerization to occur at a lower temperature than normal.
+
+accuracy
+
+acetal - an organic molecule where two separate oxygen atoms are single bonded to a central carbon atom. Acetals have the general structure of R2C(OR')2.
+
+An older definition of acetal had one at least one R group as a derivative of an aldehyde where R = H, but an acetal can contain derivatives of ketones where neither R group is a hydrogen. This type of acetal is called a ketal.
+
+Acetals that contain different R' groups are called mixed acetals. Acetal is also a common name for the compound 1,1-diethoxyethane. Dimethoxymethane is an example of an acetal compound.
+
+acetate - 1. acetate ion (CH3COO-, C2H3O2-) an ion formed by removing the acidic hydrogen from acetic acid.
+2. a fiber made from cellulose acetate.
+3. a compound resulting from replacing the acidic hydrogen in acetic acid.
+
+achiral - Achiral literally means "not chiral".
+
+Achiral refers to an object which can be superimposed on its mirror image. Synonym: amphichiral
+
+Methane is an example of an achiral molecule. The image shows methane's structure and its mirrored reflection. The reflection can be rotated 180° to match up with the original structure.
+
+acid
+
+acid anhydride
+
+acid-base indicator
+
+acid-base titration
+
+acid dissociation constant - Ka
+
+acid catalysis -is a chemical reaction that requires the presence of an acid to act as a catalyst in order to proceed. The acid catalyst typically acts as a supply of protons to activate bonding sites in a molecule to induce a reaction.
+
+acidic solution
+
+acid promoted -refers to a chemical reaction that needs an acid to proceed but does not act as a catalyst for the reaction. Reactions where the acid acts as a catalyst are acid catalysis reactions.
+
+acidulant -a food additive that lowers the pH to give a tart or bitter taste.
+
+acology - is the study of medical remedies.
+
+acrylic fiber - a polymer that contains at least 85% by mass acrylonitrile monomers. Also Known As: acrylic
+
+actinic -refers to light capable of initiating a chemical reaction.
+
+Example: Ultraviolet light is actinic since it can cause photosynthesis.
+
+actinides - Usually, the actinides are considered to be elements 90 (thorium) through 103 (lawrencium). Otherwise, the actinides are defined according to their common properties.
+
+Examples: thorium, uranium, plutonium
+
+actinium - the name for the element with atomic number 89 and is represented by the symbol Ac. It is a member of the actinide group.
+
+activated carbon or activated charcoal - a processed form of carbon treated to be more porous. 
+
+Example: Activated charcoal is used as an absorbent material to remove impurities in water.
+
+activated complex
+
+activation energy - Ea
+
+active ingredient - a chemical or substance that has a biological effect. The term is applied to drugs, pesticides, herbicides, and herbal medicine. The other ingredients are termed excipients or inert ingredients. Excipients are either biologically nonreactive or else do not affect the biochemical process that is targeted by the product.
+
+A formulation may contain more than one active ingredient.
+
+Also Known As: AI, Active Pharmaceutical Ingredient (API), bulk active, active substance, pharmacon, pharmakon
+
+active transport
+
+activity series
+
+actual yield
+
+acute health effect
+
+acylating agent - a compound that supplies the acyl group in an acylation reaction.
+
+acylation - a chemical reaction that adds an acyl group to a molecule. Synonym: alkanoylation
+
+acyl group
+
+acyl halide - a functional group with formula R-COX where X is a halogen atom.
+
+Acyl halide also refers to organic compounds containing the acyl halide functional group.
+
+Acyl halides are formed by substituting a hydroxyl group of an oxoacid with a halogen atom.
+
+addition compound -a compound containing two or more simple compounds combined into an orderly defined crystal matrix. The two simple compounds are separated by a dot (·) in their formula.
+
+addition polymer - a polymer produced through the reaction of a monomer adding to itself. No further product is formed. The monomer is most commonly a derivative of ethylene.
+
+addition reaction - the insertion of a small molecule (e.g., H2) directly into a double or triple carbon bond.
+
+adenosine triphosphate - ATP is the acronym for the molecule adenosine triphosphate. The empirical formula of ATP is C10H16N5O13P3.
+
+ATP is a nucleoside triphosphate made by bonding three phosphate groups to adenosine (adenine ring plus a ribose sugar). This organic compound often is termed the 'energy currency' of cellular metabolism because hydrolysis of the phosphate bonds releases considerable energy.
+
+In addition to its function for intracellular energy transport, ATP serves as a substrate for enzymes that produce cyclic AMP (adenosine monophosphate) and phosphorylate lipids and proteins.
+
+adhesive - a material which bonds together the surfaces of two other materials. Examples: glues and cements
+
+adsorption
+
+adulterant
+
+aeration - a process where air is forced into a substance. Example: Aquarium bubblers increase the oxygen content of the water by aeration.
+
+aerosol
+
+aether
+
+air
+
+ala - an abbreviation for the amino acid alanine. Alanine is also abbreviated as A.
+
+alchemy -Several definitions of alchemy exist. Originally, alchemy was an ancient tradition of sacred chemistry used to discern the spiritual and temporal nature of reality, its structure, laws, and functions.
+
+alcohol
+
+alcoholate - alcoholate can refer to either alkoxide anions or salts where alcohol replaces the water of crystallization in hydrated crystals.
+
+alcohol dehydrogenase -an enzyme that facilitates reactions to oxidizes alcohol to an aldehyde or ketone in conjunction with NADH. In reverse, alcohol dehydrogenases assist to reduce aldehydes and ketones to alcohols.
+
+alcoholysis - a substitution chemical reaction which has an alcohol as a reactant that is incorporated into part of the product molecule. Alcoholysis reactions have the form:
+
+Alcohol + R-LG ? R-Alcohol + LG
+
+where LG is a leaving group.
+
+aldehyde - an organic compound containing the -CHO functional group at the end of a hydrocarbon chain. Aldehyde also refers to the aldehyde functional group R-CHO appearing at the endpoints of molecules. 
+
+aldoheptose - a heptose carbohydrate with an aldehyde functional group at the first carbon.
+
+aldohexose -a hexose carbohydrate with an aldehyde functional group at the first carbon.
+
+aldoxime -an oxime where one R group is a hydrogen.
+
+aldopentose - a pentose carbohydrate with an aldehyde functional group at the first carbon.
+
+aldose - a molecule made up of a monosaccharide bonded to an aldehyde chain. Aldose molecules have a general chemical formula of Cn(H2O)n.
+
+aldotetrose -a tetrose carbohydrate with an aldehyde functional group at the first carbon.
+
+algaecide or algicide - a substance used to control or kill algae. Example: Copper sulfate is used as an algaecide in aquariums and ornamental ponds.
+
+aliphatic - refers to organic molecules or functional groups where the carbon bonds are not aromatic. Examples: All simple alkane chains are aliphatic.
+
+aliphatic amino acid
+
+aliphatic compound
+
+aliphatic group - a functional group where the group is made up of carbon and hydrogen atoms and not aromatic. Example: The propyl functional group is an aliphatic group.
+
+aliphatic hydrocarbon
+
+alkali metal
+
+alkaline
+
+alkaline earth metal - an element belonging to group 2 of the periodic table. The alkaline earth metals, as a group, share characteristic properties.
+
+Alternate Spellings: alkaline earths
+
+Examples: beryllium, magnesium, calcium, barium.
+
+alkalinity
+
+alkaloid - a class of organic compounds with at least one nitrogen in a heterocyclic ring. Alkaloids often have pharmacological effects on humans.
+
+Examples of alkaloids: caffiene, nicotine, morphine, cocaine, theobromine
+
+alkane - a hydrocarbon containing only single carbon-carbon bonds.
+
+alkanoylation - a chemical reaction that adds an acyl group to a molecule. Synonym: acylation
+
+alkene
+
+alkenyl group
+
+alkoxide
+
+alkoxy group
+
+alkylammonium salt - an ammonium salt where the ammonium cation has the general structure NRxH4-x where x = 1-4. Dimethylamine hydrochloride is an alkylammonium salt. It is also known by the name dimethyl ammonium chloride.
+
+alkylate - the product formed by the reaction of an alkane and an alkyne.
+
+alkylation - the the process where an alkyl group is introduced into a molecule.
+
+alkyl group - a hydrocarbon group, such as CH3- or C3H7-.
+
+alkyne - a hydrocarbon containing a triple carbon-carbon bond. Example: Acetylene
+
+allotrope
+
+alloy
+
+alpha carbon - the carbon in a molecule bonded to an atom or moiety of interest. a-carbon is the most common notation for the alpha carbon.
+
+alpha decay
+
+alpha hydrogen - a hydrogen atom bonded to the a-carbon in a molecule. a-hydrogen is the most common notation for alpha hydrogen.
+
+alpha particle - a He2+ ion or the helium nucleus. This particle is commonly denoted by the Greek letter a.
+
+alpha radiation
+
+alternating copolymer - a type of polymer consisting of two different repeating mer units in which the mer units alternate positions within the chain of the molecule.
+
+aluminum or aluminium - the name for the element with atomic number 13 and is represented by the symbol Al. It is a member of the metal group.
+
+amalgam - any alloy of mercury and one or more other metals.
+
+americium
+
+amide
+
+amidogen - a radical composed of a nitrogen and two hydrogen atoms (NH2)
+
+Synonyms: amino radical (preferred IUPAC name), amido, azanyl
+
+amine
+
+amine functional group - a functional group containing three substituents around a central nitrogen atom containing a lone pair of electrons.
+
+Amines are further classified by the number of substituents replaced by hydrogen. Primary amines have two substituents replaced by hydrogen. Secondary amines have one substituent replaced by hydrogen. Tertiary amines have no hydrogen substituents. Ammonia is formed when all three substituents are hydrogen.
+
+amino acid
+
+aminolysis - Aminolysis is a substitution chemical reaction which has an amine as a reactant that is incorporated into part of the product molecule. Aminolysis reactions have the form:
+Amine + R-LG ? R-Amine + LG
+where LG is a leaving group.
+
+ammeter - An ammeter (or ampmeter) is an instrument used to measure current.
+
+ammonium - Ammonium is a cation with formula NH4+. It is the conjugate acid of ammonia. Ammonium is also added into the name of any molecule where a nitrogen atom has four single bonds and positive formal charge.
+
+ammonium salt - An ammonium salt is a salt containing an ammonium cation and any anion. Ammonium nitrate and ammonium chloride are both ammonium salts.
+
+amorphography - Amorphography is the science concerned with the classification and characterization of amorphous solids.
+
+amorphous
+
+ampere
+
+amphetamine - An amphetamine is a psychostimulant drug, based on the chemical formula C9H13N. Amphetamine is contraction of alphamethyl-phenylethylamine, which has the systematic name 1-phenylpropan-2-amine. It belongs to the phenethylamine class of molecules. Derivatives of amphetamines, such as dextroamphetamine or the sulfate or phosphate of amphetamine, also are considered to be amphetamines. Pure amphetamine is a pure colorless liquid.
+
+amphiprotic
+
+amphoteric
+
+amphoteric oxide
+
+amplitude - Amplitude refers to the magnitude of change in an oscillating system. Peak to peak amplitude refers to the total change between maximum and minimum values of the oscillating system. Semi-amplitude is half the peak to peak amplitude. In general use, the term amplitude refers to the semi-amplitude.
+
+amu
+
+anaerobic - Anaerobic means "without oxygen".
+
+analyte - Analyte is the substance being analyzed in a analytical procedure.
+
+analytical chemistry
+
+angstrom
+
+angular momentum quantum number
+
+anhydrous
+
+anion
+
+androgen - Androgen is the name given to any natural or synthetic compound that stimulates or controls male sex characteristics. Androgens typically are steroid hormones. Androgens are precursor molecules to estrogens, the female sex hormones.
+Examples: testosterone, dihydroxytestosterone
+
+anisotropy - Anisotropy refers to a material exhibiting different values of a property in different crystallographic directions.
+
+annealing - Annealing is a term used to denote any heat treatment in which the microstructrure and therefore the properties of a material are altered. Annealing typically refers to heat treatment in which a cold-worked metal is softened by allowing it to recrystallize.
+
+anode
+
+anodize - Anodize refers to coating a metal with a protective layer by means of electrolysis.
+
+anti addition - Anti addition is an addition reaction that adds two substituents to opposite sides of a double or triple bond such that the bond order of the bond decreases but the number of substituents increases.
+
+antiarmomaticity - Antiaromaticity refers to a planar ring molecules with 4n conjugated delocalized p-electrons in the rings where n is an integer. Antiaromatic molecules are unstable and highly reactive. Antiaromaticity differs from aromaticity by the number of p-electrons. Antiaromaticity has 4n, aromaticity has 4n+2.
+
+antibonding orbital
+
+antichlor - An antichlor is a substance that removes excess chlorine to stop a bleaching reaction.
+Example: Sodium bisulfate and other trisulfates are antichlors.
+
+antiferromagnetism - Antiferromagnetism refer to a phenomenon exhibited by some materials in which complete magnetic moment cancellation occurs as a result of antiparallel coupling of adjacent atoms or ions. The macroscopic solid of an antiferromagnetic material has no net magnetic moment.
+
+anti-Markovnikov addition
+
+antimony - Antimony is the name for the element with atomic number 36 and is represented by the symbol Kr. It is a member of the metalloid group.
+
+antioxidant - An antioxidant is defined as an enzyme or other organic molecule that can counteract the damaging effects of oxygen in tissues. Although the term technically applies to molecules reacting with oxygen, it is often applied to molecules that protect from any free radical (molecules with unpaired electron).
+Examples: beta-carotene, lycopene, vitamin E
+
+anti-periplanar
+
+aprotic solvent - An aprotic solvent is a solvent that does not does not donate hydrogen (or proton).
+Example: Acetone is an aprotic solvent. 
+
+aqueous
+
+aqueous solution
+
+aqua fortis - Aqua fortis is an old name for nitric acid (HNO3).
+Also Known As: acid of nitre, acid of spirit, spirit of nitre
+
+aqua regia
+
+aqua vitae - Aqua vitae or aqua vita is an old word for a concentrated solution of ethanol in water or strong spirits.
+
+arene - An arene is a aromatic hydrocarbon molecule. Benzene is a simple arene. Arenes are also called simply aromatic hydrocarbons or aryl hydrocarbons.
+
+arg - Arg is an abbreviation for the amino acid arginine. Arginine is also abbreviated as R.
+
+argentum - Argentum is the Latin name for the element silver. Silver's symbol Ag comes from argentum.
+
+argon - Argon is the name for the element with atomic number 18 and is represented by the symbol Ar. It is a member of the noble gases group.
+
+aromatic compound
+
+Arrhenius acid
+
+Arrhenius base
+
+Arrhenius rate equation - The Arrhenius rate equation is a mathematical expression which relates the rate constant of a chemical reaction to the exponential value of the temperature.
+
+arsenic
+
+aryl
+
+aryl halide - An aryl halide is a molecule where a halogen atom is bonded to a carbon atom that is part of an aryl ring.
+Also Known As: haloarene, halogenoarene
+Examples: Chlorobenzene, fluorobenzene and bromobenzene are all aryl halide molecules.
+
+asbestos - Asbestos is the general name for a class of materials comprised of silicate fibers. The material is known for its resistance to heat, electrical resistance and chemical inertness. The use of asbestos was reduced when it was discovered it was linked to lung disorders and lung cancer.
+
+asn - Asn is an abbreviation for the amino acid asparagine. Asparagine is also abbreviated as N.
+
+asp - Asp is an abbreviation for the amino acid aspartic acid. Aspartic acid is also abbreviated as D.
+
+asphalt or asphaltic - Asphalt is a brownish-black semisolid or solid mixture of bitumens, either from a native source or as a petroleum by-product. Sometimes the term asphalt refers to a mixture of asphalt with sand, gravel or crushed stone.
+Also Known As: asphaltic (adjective)
+Common Misspellings: aphsalt
+
+asphyxiant - An asphyxiant is a gas or vapor that can displace or dilute air. Asphyxiants can cause unconsciousness and/or death if inhaled.
+Examples: hydrogen gas, helium gas, propane, carbon dioxide are all asphyxiants.
+
+astatine - Astatine is the name for the element with atomic number 85 and is represented by the symbol At. It is a member of the halogen group.
+
+astrochemistry - Astrochemistry is the chemistry of outer space. It is usually applied to regions beyond the solar system (which is sometimes termed cosmochemistry). Astrochemistry is an integration of astronomy and chemistry.
+
+atactic - Atactic refers to a polymer chain configuration in which the side groups are poitioned randomly on one or the other side of the polymer backbone.
+
+atom
+
+atomic ion - An atomic ion is an atom which has gained or lost at least one electron resulting in a net positive or negative charge on the atom.
+Example: The hydride ion, H- is an atomic ion
+
+atomic mass
+
+atomic mass unit (amu)
+
+atomic number
+
+atomic radius
+
+atomic solid
+
+atomic volume
+
+atomic weight
+
+atmosphere
+
+ATP - ATP is the acronym for the molecule adenosine triphosphate. The empirical formula of ATP is C10H16N5O13P3.
+
+atto - Atto is a decimal prefix for SI units equal to 10-18. The symbol for atto is a.
+Example: 100,000 carbon atoms weighs approximately 20 attograms.
+
+Aufbau principle
+
+aurum - Aurum is the Latin name for the element gold. Gold's symbol Au comes from the name aurum.
+
+austenite
+
+autoionization - Autoionization is an ionization reaction which occurs between identical molecules.
+
+Avogadro's Law
+
+Avogadro's number
+
+azeotrope
+
+azide - An azide is an anion with the molecular formula N3-. The azide functional group has the general molecular formula of RN3.
+Also Known As: atisine
+
+azimuthal quantum number
+
+azo compound
+
+azo group - The azo group is a functional group consisting of a diazene molecule (HN=NH) where the hydrogen atoms are replaced with alkyl or aryl groups. The general formula for an azo group is R-N=N-R'.
+A chemical bond is a lasting attraction between atoms that enables the formation of chemical compounds. The bond may result from the electrostatic force of attraction between atoms with opposite charges, or through the sharing of electrons as in the covalent bonds. The strength of chemical bonds varies considerably; there are "strong bonds" or "primary bond" such as metallic, covalent or ionic bonds and "weak bonds" or "secondary bond" such as Dipole-dipole interaction, the London dispersion force and hydrogen bonding.
+
+Since opposite charges attract via a simple electromagnetic force, the negatively charged electrons that are orbiting the nucleus and the positively charged protons in the nucleus attract each other. An electron positioned between two nuclei will be attracted to both of them, and the nuclei will be attracted toward electrons in this position. This attraction constitutes the chemical bond. Due to the matter wave nature of electrons and their smaller mass, they must occupy a much larger amount of volume compared with the nuclei, and this volume occupied by the electrons keeps the atomic nuclei in a bond relatively far apart, as compared with the size of the nuclei themselves.
+
+In general, strong chemical bonding is associated with the sharing or transfer of electrons between the participating atoms. The atoms in molecules, crystals, metals and diatomic gases—indeed most of the physical environment around us—are held together by chemical bonds, which dictate the structure and the bulk properties of matter.
+
+
+Examples of Lewis dot-style representations of chemical bonds between carbon (C), hydrogen (H), and oxygen (O). Lewis dot diagrams were an early attempt to describe chemical bonding and are still widely used today.
+All bonds can be explained by quantum theory, but, in practice, simplification rules allow chemists to predict the strength, directionality, and polarity of bonds. The octet rule and VSEPR theory are two examples. More sophisticated theories are valence bond theory which includes orbital hybridization and resonance, and molecular orbital theory which includes linear combination of atomic orbitals and ligand field theory. Electrostatics are used to describe bond polarities and the effects they have on chemical substances.
+A chemical compound (or just compound if used in the context of chemistry) is an entity consisting of two or more atoms, at least two from different chemical elements, which associate via chemical bonds. There are four types of compounds, depending on how the constituent atoms are held together: molecules held together by covalent bonds, ionic compounds held together by ionic bonds, intermetallic compounds held together by metallic bonds, and certain complexes held together by coordinate covalent bonds. Many chemical compounds have a unique numerical identifier assigned by the Chemical Abstracts Service (CAS): its CAS number.
+
+A chemical formula is a way of expressing information about the proportions of atoms that constitute a particular chemical compound, using the standard abbreviations for the chemical elements, and subscripts to indicate the number of atoms involved. For example, water is composed of two hydrogen atoms bonded to one oxygen atom: the chemical formula is H2O.
+
+A compound can be converted to a different chemical composition by interaction with a second chemical compound via a chemical reaction. In this process, bonds between atoms are broken in both of the interacting compounds, and then bonds are reformed so that new associations are made between atoms. Schematically, this reaction could be described as {\displaystyle {\text{AB}}+{\text{CD}}\rightarrow {\text{AC}}+{\text{BD}}} {\displaystyle {\text{AB}}+{\text{CD}}\rightarrow {\text{AC}}+{\text{BD}}}, where A, B, C, and D are each unique atoms; and AB, CD, AC, and BD are each unique compounds.
+
+A chemical element bonded to an identical chemical element is not a chemical compound since only one element, not two different elements, is involved. Examples are the diatomic molecule hydrogen (H2) and the polyatomic molecule sulfur (S8).
+An atom is the smallest constituent unit of ordinary matter that has the properties of a chemical element. Every solid, liquid, gas, and plasma is composed of neutral or ionized atoms. Atoms are very small; typical sizes are around 100 picometers (a ten-billionth of a meter, in the short scale).
+
+Atoms are small enough that attempting to predict their behavior using classical physics – as if they were billiard balls, for example – gives noticeably incorrect predictions due to quantum effects. Through the development of physics, atomic models have incorporated quantum principles to better explain and predict the behavior.
+
+Every atom is composed of a nucleus and one or more electrons bound to the nucleus. The nucleus is made of one or more protons and typically a similar number of neutrons. Protons and neutrons are called nucleons. More than 99.94% of an atom's mass is in the nucleus. The protons have a positive electric charge, the electrons have a negative electric charge, and the neutrons have no electric charge. If the number of protons and electrons are equal, that atom is electrically neutral. If an atom has more or fewer electrons than protons, then it has an overall negative or positive charge, respectively, and it is called an ion.
+
+The electrons of an atom are attracted to the protons in an atomic nucleus by this electromagnetic force. The protons and neutrons in the nucleus are attracted to each other by a different force, the nuclear force, which is usually stronger than the electromagnetic force repelling the positively charged protons from one another. Under certain circumstances, the repelling electromagnetic force becomes stronger than the nuclear force, and nucleons can be ejected from the nucleus, leaving behind a different element: nuclear decay resulting in nuclear transmutation.
+
+The number of protons in the nucleus defines to what chemical element the atom belongs: for example, all copper atoms contain 29 protons. The number of neutrons defines the isotope of the element. The number of electrons influences the magnetic properties of an atom. Atoms can attach to one or more other atoms by chemical bonds to form chemical compounds such as molecules. The ability of atoms to associate and dissociate is responsible for most of the physical changes observed in nature and is the subject of the discipline of chemistry.A chemical element or element is a species of atoms having the same number of protons in their atomic nuclei (i.e. the same atomic number, or Z).[1] There are 118 elements that have been identified, of which the first 94 occur naturally on Earth with the remaining 24 being synthetic elements. There are 80 elements that have at least one stable isotope and 38 that have exclusively radioactive isotopes, which decay over time into other elements. Iron is the most abundant element (by mass) making up Earth, while oxygen is the most common element in the Earth's crust.[2]
+
+Chemical elements constitute all of the ordinary matter of the universe. However astronomical observations suggest that ordinary observable matter makes up only about 15% of the matter in the universe: the remainder is dark matter; the composition of this is unknown, but it is not composed of chemical elements.[3] The two lightest elements, hydrogen and helium, were mostly formed in the Big Bang and are the most common elements in the universe. The next three elements (lithium, beryllium and boron) were formed mostly by cosmic ray spallation, and are thus rarer than those that follow.[clarification needed] Formation of elements with from 6 to 26 protons occurred and continues to occur in main sequence stars via stellar nucleosynthesis. The high abundance of oxygen, silicon, and iron on Earth reflects their common production in such stars. Elements with greater than 26 protons are formed by supernova nucleosynthesis in supernovae, which, when they explode, blast these elements as supernova remnants far into space, where they may become incorporated into planets when they are formed.[4]
+
+The term "element" is used for atoms with a given number of protons (regardless of whether or not they are ionized or chemically bonded, e.g. hydrogen in water) as well as for a pure chemical substance consisting of a single element (e.g. hydrogen gas).[1] For the second meaning, the terms "elementary substance" and "simple substance" have been suggested, but they have not gained much acceptance in English chemical literature, whereas in some other languages their equivalent is widely used (e.g. French corps simple, Russian ??????? ????????). A single element can form multiple substances differing in their structure; they are called allotropes of the element.
+
+When different elements are chemically combined, with the atoms held together by chemical bonds, they form chemical compounds. Only a minority of elements are found uncombined as relatively pure minerals. Among the more common of such native elements are copper, silver, gold, carbon (as coal, graphite, or diamonds), and sulfur. All but a few of the most inert elements, such as noble gases and noble metals, are usually found on Earth in chemically combined form, as chemical compounds. While about 32 of the chemical elements occur on Earth in native uncombined forms, most of these occur as mixtures. For example, atmospheric air is primarily a mixture of nitrogen, oxygen, and argon, and native solid elements occur in alloys, such as that of iron and nickel.
+
+The history of the discovery and use of the elements began with primitive human societies that found native elements like carbon, sulfur, copper and gold. Later civilizations extracted elemental copper, tin, lead and iron from their ores by smelting, using charcoal. Alchemists and chemists subsequently identified many more; almost all of the naturally occurring elements were known by 1900.
+
+The properties of the chemical elements are summarized in the periodic table, which organizes the elements by increasing atomic number into rows ("periods") in which the columns ("groups") share recurring ("periodic") physical and chemical properties. Save for unstable radioactive elements with short half-lives, all of the elements are available industrially, most of them in low degrees of impurities.The atomic number or proton number (symbol Z) of a chemical element is the number of protons found in the nucleus of an atom. It is identical to the charge number of the nucleus. The atomic number uniquely identifies a chemical element. In an uncharged atom, the atomic number is also equal to the number of electrons.
+
+The atomic number Z, should not be confused with the mass number A, which is the total number of protons and neutrons in an atom. This number of neutrons, N, completes the weight: A = Z + N (all are whole numbers). Since protons and neutrons have approximately the same mass (and the mass of the electrons is negligible for many purposes) and the mass defect of nucleon binding is always small compared to the nucleon mass, the atomic mass of any atom, when expressed in unified atomic mass units (making a quantity called the "relative isotopic mass"), is roughly (to within 1%) equal to the whole number A.
+
+Atoms with the same atomic number Z but different neutron numbers N, and hence different atomic masses, are known as isotopes. A little more than three-quarters of naturally occurring elements exist as a mixture of isotopes (see monoisotopic elements), and the average isotopic mass of an isotopic mixture for an element (called the relative atomic mass) in a defined environment on Earth, determines the element's standard atomic weight. Historically, it was these atomic weights of elements (in comparison to hydrogen) that were the quantities measurable by chemists in the 19th century.
+A chemical element is a pure substance which is composed of a single type of atom, characterized by its particular number of protons in the nuclei of its atoms, known as the atomic number and represented by the symbol Z. The mass number is the sum of the number of protons and neutrons in a nucleus. Although all the nuclei of all atoms belonging to one element will have the same atomic number, they may not necessarily have the same mass number; atoms of an element which have different mass numbers are known as isotopes. For example, all atoms with 6 protons in their nuclei are atoms of the chemical element carbon, but atoms of carbon may have mass numbers of 12 or 13.[53]
+
+The standard presentation of the chemical elements is in the periodic table, which orders elements by atomic number. The periodic table is arranged in groups, or columns, and periods, or rows. The periodic table is useful in identifying periodic trends.
+A molecule is the smallest indivisible portion of a pure chemical substance that has its unique set of chemical properties, that is, its potential to undergo a certain set of chemical reactions with other substances. However, this definition only works well for substances that are composed of molecules, which is not true of many substances (see below). Molecules are typically a set of atoms bound together by covalent bonds, such that the structure is electrically neutral and all valence electrons are paired with other electrons either in bonds or in lone pairs.
+
+Thus, molecules exist as electrically neutral units, unlike ions. When this rule is broken, giving the "molecule" a charge, the result is sometimes named a molecular ion or a polyatomic ion. However, the discrete and separate nature of the molecular concept usually requires that molecular ions be present only in well-separated form, such as a directed beam in a vacuum in a mass spectrometer. Charged polyatomic collections residing in solids (for example, common sulfate or nitrate ions) are generally not considered "molecules" in chemistry. Some molecules contain one or more unpaired electrons, creating radicals. Most radicals are comparatively reactive, but some, such as nitric oxide (NO) can be stable.
+The mole is a unit of measurement that denotes an amount of substance (also called chemical amount). The mole is defined as the number of atoms found in exactly 0.012 kilogram (or 12 grams) of carbon-12, where the carbon-12 atoms are unbound, at rest and in their ground state.[60] The number of entities per mole is known as the Avogadro constant, and is determined empirically to be approximately 6.022×1023 mol-1.[61] Molar concentration is the amount of a particular substance per volume of solution, and is commonly reported in moldm-3.
+The first scientific concept of acids and bases was provided by Lavoisier in around 1776. Since Lavoisier's knowledge of strong acids was mainly restricted to oxoacids, such as HNO
+3 (nitric acid) and H
+2SO
+4 (sulfuric acid), which tend to contain central atoms in high oxidation states surrounded by oxygen, and since he was not aware of the true composition of the hydrohalic acids (HF, HCl, HBr, and HI), he defined acids in terms of their containing oxygen, which in fact he named from Greek words meaning "acid-former" (from the Greek ???? (oxys) meaning "acid" or "sharp" and ?e???µa? (geinomai) meaning "engender"). The Lavoisier definition was held as absolute truth for over 30 years, until the 1810 article and subsequent lectures by Sir Humphry Davy in which he proved the lack of oxygen in H
+2S, H2Te, and the hydrohalic acids. However, Davy failed to develop a new theory, concluding that "acidity does not depend upon any particular elementary substance, but upon peculiar arrangement of various substances".[2] One notable modification of oxygen theory was provided by Berzelius, who stated that acids are oxides of nonmetals while bases are oxides of metals.
+The industrial synthesis such as ammonia in the Haber–Bosch process (depicted right) takes place through a succession of equilibrium steps including adsorption processes
+Atmospheric chemistry
+Seawater and other natural waters: chemical oceanography
+Distribution between two phases
+log D distribution coefficient: important for pharmaceuticals where lipophilicity is a significant property of a drug
+Liquid–liquid extraction, Ion exchange, Chromatography
+Solubility product
+Uptake and release of oxygen by haemoglobin in blood
+Acid–base equilibria: acid dissociation constant, hydrolysis, buffer solutions, indicators, acid–base homeostasis
+Metal–ligand complexation: sequestering agents, chelation therapy, MRI contrast reagents, Schlenk equilibrium
+Adduct formation: host–guest chemistry, supramolecular chemistry, molecular recognition, dinitrogen tetroxide
+In certain oscillating reactions, the approach to equilibrium is not asymptotically but in the form of a damped oscillation .[10]
+The related Nernst equation in electrochemistry gives the difference in electrode potential as a function of redox concentrations.
+When molecules on each side of the equilibrium are able to further react irreversibly in secondary reactions, the final product ratio is determined according to the Curtin–Hammett principle.
+Factors affecting reaction rate[edit]
+Nature of the reactants[edit]
+Depending upon what substances are reacting, the reaction rate varies. Acid/base reactions, the formation of salts, and ion exchange are fast reactions. When covalent bond formation takes place between the molecules and when large molecules are formed, the reactions tend to be very slow. Nature and strength of bonds in reactant molecules greatly influence the rate of its transformation into products.
+
+Physical state[edit]
+The physical state (solid, liquid, or gas) of a reactant is also an important factor of the rate of change. When reactants are in the same phase, as in aqueous solution, thermal motion brings them into contact. However, when they are in different phases, the reaction is limited to the interface between the reactants. Reaction can occur only at their area of contact; in the case of a liquid and a gas, at the surface of the liquid. Vigorous shaking and stirring may be needed to bring the reaction to completion. This means that the more finely divided a solid or liquid reactant the greater its surface area per unit volume and the more contact it with the other reactant, thus the faster the reaction. To make an analogy, for example, when one starts a fire, one uses wood chips and small branches — one does not start with large logs right away. In organic chemistry, on water reactions are the exception to the rule that homogeneous reactions take place faster than heterogeneous reactions.
+
+Surface area of solids[edit]
+In a solid, only those particles that are at the surface can be involved in a reaction. Crushing a solid into smaller parts means that more particles are present at the surface, and the frequency of collisions between these and reactant particles increases, and so reaction occurs more rapidly. For example, Sherbet (powder) is a mixture of very fine powder of malic acid (a weak organic acid) and sodium hydrogen carbonate. On contact with the saliva in the mouth, these chemicals quickly dissolve and react, releasing carbon dioxide and providing for the fizzy sensation. Also, fireworks manufacturers modify the surface area of solid reactants to control the rate at which the fuels in fireworks are oxidised, using this to create different effects. For example, finely divided aluminium confined in a shell explodes violently. If larger pieces of aluminium are used, the reaction is slower and sparks are seen as pieces of burning metal are ejected.
+
+Concentration[edit]
+Main article: Rate equation
+The reactions are due to collisions of reactant species. The frequency with which the molecules or ions collide depends upon their concentrations. The more crowded the molecules are, the more likely they are to collide and react with one another. Thus, an increase in the concentrations of the reactants will usually result in the corresponding increase in the reaction rate, while a decrease in the concentrations will usually have a reverse effect. For example, combustion will occur more rapidly in pure oxygen than in air (21% oxygen).
+
+The rate equation shows the detailed dependence of the reaction rate on the concentrations of reactants and other species present. Different mathematical forms are possible depending on the reaction mechanism. The actual rate equation for a given reaction is determined experimentally and provides information about the reaction mechanism.
+
+Temperature[edit]
+Main article: Arrhenius equation
+Temperature usually has a major effect on the rate of a chemical reaction. Molecules at a higher temperature have more thermal energy. Although collision frequency is greater at higher temperatures, this alone contributes only a very small proportion to the increase in rate of reaction. Much more important is the fact that the proportion of reactant molecules with sufficient energy to react (energy greater than activation energy: E > Ea) is significantly higher and is explained in detail by the Maxwell–Boltzmann distribution of molecular energies.
+
+The 'rule of thumb' that the rate of chemical reactions doubles for every 10 °C temperature rise is a common misconception. This may have been generalized from the special case of biological systems, where the a (temperature coefficient) is often between 1.5 and 2.5.
+
+A reaction's kinetics can also be studied with a temperature jump approach. This involves using a sharp rise in temperature and observing the relaxation time of the return to equilibrium. A particularly useful form of temperature jump apparatus is a shock tube, which can rapidly jump a gas's temperature by more than 1000 degrees.
+
+Catalysts[edit]
+Main article: Catalysis
+
+Generic potential energy diagram showing the effect of a catalyst in a hypothetical endothermic chemical reaction. The presence of the catalyst opens a different reaction pathway (shown in red) with a lower activation energy. The final result and the overall thermodynamics are the same.
+A catalyst is a substance that alters the rate of a chemical reaction but remains chemically unchanged afterwards. The catalyst increases the rate of the reaction by providing a different reaction mechanism to occur with a lower activation energy. In autocatalysis a reaction product is itself a catalyst for that reaction leading to positive feedback. Proteins that act as catalysts in biochemical reactions are called enzymes. Michaelis–Menten kinetics describe the rate of enzyme mediated reactions. A catalyst does not affect the position of the equilibrium, as the catalyst speeds up the backward and forward reactions equally.
+
+In certain organic molecules, specific substituents can have an influence on reaction rate in neighbouring group participation.[citation needed]
+
+Pressure[edit]
+Increasing the pressure in a gaseous reaction will increase the number of collisions between reactants, increasing the rate of reaction. This is because the activity of a gas is directly proportional to the partial pressure of the gas. This is similar to the effect of increasing the concentration of a solution.
+
+In addition to this straightforward mass-action effect, the rate coefficients themselves can change due to pressure. The rate coefficients and products of many high-temperature gas-phase reactions change if an inert gas is added to the mixture; variations on this effect are called fall-off and chemical activation. These phenomena are due to exothermic or endothermic reactions occurring faster than heat transfer, causing the reacting molecules to have non-thermal energy distributions (non-Boltzmann distribution). Increasing the pressure increases the heat transfer rate between the reacting molecules and the rest of the system, reducing this effect.
+
+Condensed-phase rate coefficients can also be affected by (very high) pressure; this is a completely different effect than fall-off or chemical-activation. It is often studied using diamond anvils.
+
+A reaction's kinetics can also be studied with a pressure jump approach. This involves making fast changes in pressure and observing the relaxation time of the return to equilibrium.
