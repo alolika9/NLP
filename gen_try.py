@@ -36,6 +36,13 @@ doc_term_matrix = [dictionary.doc2bow(doc) for doc in [a]]
 Lda = gensim.models.ldamodel.LdaModel
 
 # Running and Trainign LDA model on the document term matrix.
-ldamodel = Lda(doc_term_matrix, num_topics=30, id2word = dictionary, passes=50)
+ldamodel = Lda(doc_term_matrix, num_topics=100, id2word = dictionary, passes=50)
 
 print(ldamodel.print_topics(num_topics=30, num_words=3))
+
+
+l = []
+for i in range(100):
+    l.append(ldamodel.id2word[i])
+
+    

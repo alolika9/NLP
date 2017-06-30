@@ -1,100 +1,30 @@
-import os
-import subprocess
-from collections import Counter
-from nltk.corpus import brown
+import ma_py
+from tabulate import tabulate
+from math import*
+c1 = ma_py.modelling('C:\\Users\\user\\Downloads\\news_corpus.docx')
+c2 = ma_py.modelling('C:\\Users\\user\\Downloads\\sport.txt')
+x1 = ma_py.modelling('C:\\mallet\\sample-data\\web\\sample1\\news.txt')
+x2 = ma_py.modelling('C:\\mallet\\sample-data\\web\\sample1\\cricket.txt')
+x3 = ma_py.modelling('C:\\mallet\\sample-data\\web\\sample1\\government.txt')
 
-news_text = brown.words(categories='news')
-subprocess.run(['C:\\mallet\\bin\\mallet', 'import-file', '--input', 'news_text', '--output', 'C:\\mallet\\computer.mallet','--keep-sequence', '--remove-stopwords'], shell=True)
-subprocess.run(['C:\\mallet\\bin\\mallet', 'import-file', '--input', 'C:\\mallet\\sample-data\\web\sample1\\movies.txt', '--output', 'C:\\mallet\\movie.mallet','--keep-sequence', '--remove-stopwords'], shell=True)
-'''
-subprocess.run(['C:\\mallet\\bin\\mallet', 'train-topics', '--input','C:\\mallet\\computer.mallet','--num-topics','200','--num-iterations','350', '--output-state', 'C:\\mallet\\topic-state.gz','--output-topic-keys', 'C:\\mallet\\c_keys.txt', '--output-doc-topics', 'C:\\mallet\\c_compostion.txt' ], shell = True)
-subprocess.run(['C:\\mallet\\bin\\mallet', 'train-topics', '--input','C:\\mallet\\computer.mallet','--num-topics','200','--num-iterations','350', '--output-state', 'C:\\mallet\\topic-state.gz','--output-topic-keys', 'C:\\mallet\\m_keys.txt', '--output-doc-topics', 'C:\\mallet\\m_compostion.txt' ], shell = True)
-subprocess.run(['C:\\mallet\\bin\\mallet', 'import-file', '--input', 'C:\\mallet\\sample-data\\web\sample1\\example.txt', '--output', 'C:\\mallet\\example.mallet','--keep-sequence', '--remove-stopwords'], shell=True)
-subprocess.run(['C:\\mallet\\bin\\mallet', 'train-topics', '--input','C:\\mallet\\example.mallet','--num-topics','200','--num-iterations','350', '--output-state', 'C:\\mallet\\topic-state.gz','--output-topic-keys', 'C:\\mallet\\o_keys.txt', '--output-doc-topics', 'C:\\mallet\\o_compostion.txt' ], shell = True)
-dir = os.path.normpath('C:\\mallet\\')
+Matrix = [[0 for x in range(4)] for y in range(4)]
 
-f = open(os.path.join(dir,'c_keys.txt'))
-a = f.read()
-
-a = a.split()
+i=0
+j=0
 
 
 
-l = []
-for char in a:
-        l.append(char)
-        if(char=='20'):
-            break
+Matrix[0][0]=ma_py.jaccard_similarity(c1,x1)
+Matrix[0][1]=ma_py.jaccard_similarity(c1,x2)
+Matrix[0][2]=ma_py.jaccard_similarity(c1,x3)
 
-a = []
-for char in l:
-    if (char.isalpha()):
-        a.append(char)
-        
-a=(set(a))
+Matrix[1][0]=ma_py.jaccard_similarity(c2,x1)
+Matrix[1][1]=ma_py.jaccard_similarity(c2,x2)
+Matrix[1][2]=ma_py.jaccard_similarity(c2,x3)
 
-for char in a:
-    print(char)
+for i in range(0,3):
+    Matrix[i][3]= Matrix[i][0]+ Matrix[i][1]+ Matrix[i][2]
 
+Matrix[3][3]=Matrix[0][3]+ Matrix[1][3]+ Matrix[2][3]
 
-f = open(os.path.join(dir,'m_keys.txt'))
-b = f.read()
-
-b = b.split()
-
-
-
-l = []
-for char in b:
-        l.append(char)
-        if(char=='20'):
-            break
-
-b = []
-for char in l:
-    if (char.isalpha()):
-        b.append(char)
-        
-b=(set(b))
-
-for char in b:
-    print(char)
-
-
-f = open(os.path.join(dir,'o_keys.txt'))
-c = f.read()
-
-c = c.split()
-
-
-
-l = []
-for char in c:
-        l.append(char)
-        if(char=='20'):
-            break
-
-c = []
-for char in l:
-    if (char.isalpha()):
-        c.append(char)
-        
-c=(set(c))
-
-for char in c:
-    print(char)
-
-
-def cosine_similarity(a,b):
-    a_vals = Counter(a)
-    b_vals = Counter(b)
-    words  = list(a_vals.keys() | b_vals.keys())
-    a_vect = [a_vals.get(word, 0) for word in words]
-    b_vect = [b_vals.get(word, 0) for word in words]
-    len_a  = sum(av*av for av in a_vect) ** 0.5
-    len_b  = sum(bv*bv for bv in b_vect) ** 0.5
-    dot    = sum(av*bv for av,bv in zip(a_vect, b_vect))
-    cosine = dot / (len_a * len_b)
-    print(cosine)
-
-'''
+print(tabulate(Matrix))
