@@ -7,7 +7,6 @@ f = open(os.path.join(dir,'Lord_Edgware_Dies.txt'),'r')
 a = f.read()
 token = nltk.word_tokenize(a)
 token = nltk.pos_tag(token)
-#print(token)
 
 words, tags = zip(*token)
 cfd = nltk.FreqDist(tags)
