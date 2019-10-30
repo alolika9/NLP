@@ -17,8 +17,6 @@ his = ma_py.modelling('C:\\Users\\user\\Documents\\history.txt',100)
 sc = phy + chem + bio
 ar = geo + his
 
-
-
 print('Your query is related to:\n')
 
 s = ma_py.pol_similarity(query,sc)
