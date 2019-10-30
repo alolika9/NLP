@@ -3,6 +3,7 @@ import itertools
 from itertools import product
 s1 = 'This is a dog.'
 s1 = s1.split()
+
 s2 = 'This is a cat.'
 s2 = s2.split()
 
